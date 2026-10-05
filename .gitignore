@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+.venv/
+.env
+*.egg-info/
+dist/
+build/
+.DS_Store
+uv.lock
+runs/
+/worktrees/
+docs/superpowers/
+.superpowers/
+docs/LAUNCH_PLAN.md
