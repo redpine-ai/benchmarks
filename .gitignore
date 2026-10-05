@@ -8,7 +8,3 @@ build/
 .DS_Store
 uv.lock
 runs/
-/worktrees/
-docs/superpowers/
-.superpowers/
-docs/LAUNCH_PLAN.md
