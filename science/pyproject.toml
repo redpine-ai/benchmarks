@@ -1,0 +1,17 @@
+[project]
+name = "benchmarks"
+version = "0.1.0"
+description = "Redpine Science benchmarks: external and Redpine question sets, question answering and retrieval"
+requires-python = ">=3.11"
+
+[tool.uv.workspace]
+members = [
+    "harness",
+    "external-qa",
+    "redpine-biomedical-qa",
+    "external-retrieval",
+    "redpine-biomedical-retrieval",
+]
+
+[tool.uv.sources]
+harness = { workspace = true }

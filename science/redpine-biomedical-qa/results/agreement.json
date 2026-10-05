@@ -1,0 +1,17 @@
+{
+  "definitions": {
+    "judge_agreement": "Jev pass 1 against Sonnet 5 on every required claim of every answer in one arm: the share of claims given the same verdict, and Krippendorff's alpha (nominal, three labels) over the same claims."
+  },
+  "judge_agreement": {
+    "connect": {
+      "n_claims": 633,
+      "agreement": 0.8988941548183255,
+      "alpha": 0.7017641446532308
+    },
+    "websearch": {
+      "n_claims": 633,
+      "agreement": 0.8704581358609794,
+      "alpha": 0.7165002692058564
+    }
+  }
+}

@@ -1,0 +1,17 @@
+[project]
+name = "redpine-biomedical-retrieval"
+version = "0.1.0"
+description = "Redpine Science vs. PubMed, blinded PhD relevance judging following Consensus's published methodology: the scoring code, package builder and results behind the Redpine Biomedical Retrieval Evaluation"
+requires-python = ">=3.11"
+# Scoring is pure stdlib; build_package.py needs HTTP for the live Redpine/PubMed calls.
+dependencies = [
+    "httpx>=0.27",
+    "python-dotenv>=1.0",
+]
+
+[dependency-groups]
+dev = ["pytest>=8.0.0"]
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
+testpaths = ["tests"]

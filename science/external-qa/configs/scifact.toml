@@ -1,0 +1,45 @@
+# ScholarQABench SciFact, four arms, as in the published logs.
+model = "claude-sonnet-5"
+provider = "anthropic"
+max_tokens = 8192
+thinking = "adaptive"
+budget = 16
+top_k = 10
+passage_chars = 4000
+renderer = "indexed"
+final_text = "all_turns"
+arm_order = ["closed_book", "web_forced", "redpine_forced", "redpine_first"]
+
+system_template = "You are verifying a scientific claim against the biomedical literature (ScholarQABench SciFact). Decide whether the claim is supported (true) or refuted (false) by the evidence. {tool_sentence} When a retrieved passage supports a statement you make, cite it inline with its bracketed number exactly as shown, for example [0] or [2]. Passage numbering starts at 0. Cite only numbers that appear in the passages you were given. Start your response with a line in exactly this form: Answer: <true or false> -- then explain your reasoning afterward. Put only the single word true or false on the Answer line."
+user_template = "Claim: {question}\n\nStart with: Answer: <true or false> -- then explain briefly."
+budget_exhausted = "Tool budget exhausted: no tool calls remain. Answer now from what you already have."
+final_nudge = "You are out of tool calls. Give your final answer now, based on what you have found so far."
+
+[tools.web_search]
+kind = "web"
+description = "Search the public web. Returns the most relevant pages, each with its title, URL and an extract of the page text."
+input_schema = { type = "object", properties = { query = { type = "string", description = "The search query." } }, required = ["query"] }
+
+[tools.search_connect]
+kind = "redpine"
+description = "Search a full-text collection of peer-reviewed scientific and medical journal articles. Returns the most relevant passages, each with its title, journal, year and identifiers."
+input_schema = { type = "object", properties = { query = { type = "string", description = "The search query." } }, required = ["query"] }
+
+[arms.closed_book]
+tools = []
+tool_sentence = "You have no search tools, so answer from your own knowledge."
+
+[arms.web_forced]
+tools = ["web_search"]
+force = "web_search"
+tool_sentence = "You have a web_search tool. You have a budget of {budget} tool calls for this question. Use them to find evidence before you answer, and answer from what you find together with your own knowledge."
+
+[arms.redpine_forced]
+tools = ["search_connect"]
+force = "search_connect"
+tool_sentence = "You have a search_connect tool. You have a budget of {budget} tool calls for this question. Use them to find evidence before you answer, and answer from what you find together with your own knowledge."
+
+[arms.redpine_first]
+tools = ["search_connect", "web_search"]
+force = "search_connect"
+tool_sentence = "You have two tools, search_connect and web_search. You have a budget of {budget} tool calls in total for this question. Search search_connect first; use web_search if what you found is insufficient. Answer from what you find together with your own knowledge."

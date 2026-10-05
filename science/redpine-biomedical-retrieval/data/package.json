@@ -1,0 +1,4359 @@
+{
+  "package_id": "public-c74c2afaed14",
+  "run_name": "expert_benchmark_retrieval",
+  "description": "Expert-validated relevance-judging package: 90 questions, one PhD-level domain expert each (neurology, cardiology, rheumatology), single-judge; plus 25 questions judged by more than one panelist against an identical blinded result set, for measuring inter-rater agreement directly.",
+  "queries": [
+    {
+      "id": "q001",
+      "query": "What studies have been performed that can be used to compare the effectiveness of azithromycin versus roflumilast in patients with chronic obstructive pulmonary disease?",
+      "left": [
+        {
+          "title": "Comparative effectiveness of azithromycin versus roflumilast in patients with chronic obstructive pulmonary disease: emulated target trial"
+        },
+        {
+          "title": "Long-Term Macrolides in Chronic Respiratory Diseases: Dusk or a New Dawn? A Narrative Review"
+        },
+        {
+          "title": "Roflumilast: a review of its use in the treatment of COPD"
+        }
+      ],
+      "right": [
+        {
+          "title": "Comparative Effectiveness of Azithromycin Versus Doxycycline in Hospitalized Patients With Community-Acquired Pneumonia Treated With Beta-Lactams: A Multicenter Matched Cohort Study."
+        },
+        {
+          "title": "Identifying the Best Initial Oral Antibiotics for Adults with Community-Acquired Pneumonia: A Network Meta-Analysis."
+        },
+        {
+          "title": "Treatment of Macrolide-resistant Mycoplasma pneumoniae Pneumonia in Children: A Meta-analysis of Macrolides Versus Tetracyclines."
+        }
+      ]
+    },
+    {
+      "id": "q002",
+      "query": "Does anticoagulation timing after cardioembolic stroke affect risk of hemorrhagic transformation?",
+      "left": [
+        {
+          "title": "Anticoagulation and Stroke."
+        },
+        {
+          "title": "Timing of Anticoagulation after Acute Ischemic Stroke in Patients with Atrial Fibrillation."
+        },
+        {
+          "title": "Anticoagulation after stroke: persistent uncertainties."
+        },
+        {
+          "title": "Timing of Anticoagulation in Atrial Fibrillation Status Post Cardioembolic Stroke."
+        },
+        {
+          "title": "Optimal Delay Time to Initiate Anticoagulation After Ischemic Stroke in Atrial Fibrillation: A Pragmatic, Response-Adaptive Randomized Clinical Trial."
+        }
+      ],
+      "right": [
+        {
+          "title": "Early initiation of rivaroxaban after reperfusion therapy for stroke patients with nonvalvular atrial fibrillation"
+        },
+        {
+          "title": "Acute Cardioembolic Cerebral Infarction: Answers to Clinical Questions*"
+        },
+        {
+          "title": "Atrial fibrillation and stroke: a practical guide"
+        },
+        {
+          "title": "Early Anticoagulation in Large Volume Cardioembolic Stroke: Rethinking the Optimal Initiation Time"
+        },
+        {
+          "title": "Timing of Anticoagulation in Atrial Fibrillation Status Post Cardioembolic Stroke"
+        }
+      ]
+    },
+    {
+      "id": "q003",
+      "query": "Are stressful life events a stronger psychosocial risk factor for postpartum depression than other established risk factors, based on reported odds ratios and confidence intervals?",
+      "left": [
+        {
+          "title": "Psychosocial and vascular risk factors of depression in later life."
+        },
+        {
+          "title": "Life Events and Incident Dementia: A Prospective Study of 493,787 Individuals Over 16 Years."
+        },
+        {
+          "title": "Stressful Life Events, Social Support, and Incident Breast Cancer by Estrogen Receptor Status."
+        },
+        {
+          "title": "Psychological Stress and Cellular Aging in Cancer: A Meta-Analysis."
+        },
+        {
+          "title": "Life-course stressful life events and risk of stroke in middle-aged and older Chinese adults: Evidence from the China health and retirement longitudinal study."
+        }
+      ],
+      "right": [
+        {
+          "title": "Postnatal Depression and Homelessness in Women Living in High-Income Countries: A Scoping Review"
+        },
+        {
+          "title": "Maternal Suicide Ideation and Behaviour During Pregnancy and the First Postpartum Year: A Systematic Review of Psychological and Psychosocial Risk Factors"
+        },
+        {
+          "title": "Relationships between psychosocial stressors among pregnant women in San Francisco: A path analysis"
+        },
+        {
+          "title": "Prevalence and Risk Factors of Postpartum Depression and Its Impact on Neonatal Health: A Cross-Sectional Study in Riyadh, Saudi Arabia"
+        },
+        {
+          "title": "Is mode of delivery associated with postpartum depression at 6 weeks: a prospective cohort study"
+        }
+      ]
+    },
+    {
+      "id": "q004",
+      "query": "What is the primary immune cell in early sepsis, and how do metal ions influence its function?",
+      "left": [
+        {
+          "title": "Too much of a good thing: The case of SOCE in cellular apoptosis."
+        },
+        {
+          "title": "Enteral zinc supplementation for prevention of morbidity and mortality in preterm neonates."
+        },
+        {
+          "title": "Dexamethasone upregulates macrophage PIEZO1 via SGK1, suppressing inflammation and increasing ROS and apoptosis."
+        },
+        {
+          "title": "CHRFAM7A diversifies human immune adaption through Ca2+ signalling and actin cytoskeleton reorganization."
+        },
+        {
+          "title": "36th International Symposium on Intensive Care and Emergency Medicine : Brussels, Belgium. 15-18 March 2016."
+        }
+      ],
+      "right": [
+        {
+          "title": "A Comprehensive Review of the Immunomodulatory Effects of Vitamin D in Sepsis"
+        },
+        {
+          "title": "A Zinc‐ and Calcium‐Rich Lysosomal Nanoreactor Rescues Monocyte/Macrophage Dysfunction under Sepsis"
+        },
+        {
+          "title": "Metal ions and nanomaterials for targeted bone cancer immunotherapy"
+        },
+        {
+          "title": "The interplay between metal ions and immune cells in glioma: pathways to immune escape"
+        },
+        {
+          "title": "Advances and Strategies in Enhancing mRNA Cancer Vaccines"
+        }
+      ]
+    },
+    {
+      "id": "q005",
+      "query": "Do men and women show different fibrotic versus calcific remodeling patterns in aortic stenosis?",
+      "left": [
+        {
+          "title": "Systemic inflammation and fibrocalcific remodeling in aortic stenosis: the interplay of Lipoprotein(a), sex, and valve morphology."
+        },
+        {
+          "title": "Impact of Sievers morphology on fibro-calcific remodeling in severe bicuspid aortic valve stenosis: Exploratory findings from sex-stratified analyses."
+        },
+        {
+          "title": "Age, Sex, and Valve Phenotype Differences in Fibro-Calcific Remodeling of Calcified Aortic Valve."
+        },
+        {
+          "title": "Sex-Specific Cell Types and Molecular Pathways Indicate Fibro-Calcific Aortic Valve Stenosis."
+        },
+        {
+          "title": "Sex-Differences in Aortic Stenosis: Mechanistic Insights and Clinical Implications."
+        }
+      ],
+      "right": [
+        {
+          "title": "Aortic Valve Stenosis; Heart Valve Implantation; Transcatheter Aortic Valve Replacement; Heart valve prostheses"
+        },
+        {
+          "title": "Sex-Specific Cell Types and Molecular Pathways Indicate Fibro-Calcific Aortic Valve Stenosis"
+        },
+        {
+          "title": "Characterization of the sex-specific pattern of angiogenesis and lymphangiogenesis in aortic stenosis"
+        },
+        {
+          "title": "Sex-Specific Features of Calcific Aortic Valve Disease"
+        },
+        {
+          "title": "Multimodality Imaging to Explore Sex Differences in Aortic Stenosis"
+        }
+      ]
+    },
+    {
+      "id": "q006",
+      "query": "How does copper affect protein aggregation, and which amino acids does it preferentially target?",
+      "left": [
+        {
+          "title": "Electrochemistry of Alzheimer Disease Amyloid Beta Peptides."
+        },
+        {
+          "title": "Comparing the copper binding features of alpha and beta synucleins."
+        },
+        {
+          "title": "The composition of human milk."
+        },
+        {
+          "title": "Extrinsic and intrinsic factors affect copper-induced protein precipitation across eukaryotic and prokaryotic proteomes."
+        },
+        {
+          "title": "Copper, dityrosine cross-links and amyloid-β aggregation."
+        }
+      ],
+      "right": [
+        {
+          "title": "Copper Induces Protein Aggregation, a Toxic Process Compensated by Molecular Chaperones"
+        },
+        {
+          "title": "The Journey of Copper-Impregnated Dressings in Wound Healing: From a Medical Hypothesis to Clinical Practice"
+        },
+        {
+          "title": "Nanoenabled Sequestration of Redox Copper Modulates Lysozyme Aggregation and Maintains Lipid Homeostasis to Alleviate Mitochondrial Health"
+        },
+        {
+          "title": "Regulation of CuZnSOD and Its Redox Signaling Potential: Implications for Amyotrophic Lateral Sclerosis"
+        },
+        {
+          "title": "Copper toxicity and deficiency: the vicious cycle at the core of protein aggregation in ALS"
+        }
+      ]
+    },
+    {
+      "id": "q007",
+      "query": "In patients undergoing TAVR, does cerebral embolic protection device use reduce the incidence of clinically apparent stroke?",
+      "left": [
+        {
+          "title": "Efficacy of Cerebral Embolic Protection Device in Transcatheter Aortic Valve Replacement: A Systematic Review and Meta-Analysis."
+        },
+        {
+          "title": "Routine Cerebral Embolic Protection during Transcatheter Aortic-Valve Implantation."
+        },
+        {
+          "title": "Cerebral embolic protection devices for transcatheter aortic valve replacement: A meta-analysis and trial sequential analysis."
+        },
+        {
+          "title": "Embolic protection devices for transcatheter aortic valve replacement."
+        },
+        {
+          "title": "Cerebral Embolic Protection during Transcatheter Aortic-Valve Replacement."
+        }
+      ],
+      "right": [
+        {
+          "title": "Redo-TAVR: Essential Concepts, Updated Data and Current Gaps in Evidence"
+        },
+        {
+          "title": "Stroke Risk during TAVR: Is Prevention Better than Cure?"
+        },
+        {
+          "title": "A 20-year journey in transcatheter aortic valve implantation: Evolution to current eminence"
+        },
+        {
+          "title": "Cerebral Embolic Risk in Coronary and Structural Heart Interventions: Clinical Evidence"
+        },
+        {
+          "title": "Year in Review 2022: Noteworthy Literature in Cardiac Anesthesiology"
+        }
+      ]
+    },
+    {
+      "id": "q008",
+      "query": "In patients switched from belimumab to anifrolumab for systemic lupus erythematosus after an insufficient clinical response, what outcomes have been reported for joint and skin disease, and how was treatment failure defined?",
+      "left": [
+        {
+          "title": "Clinical outcomes of anifrolumab after belimumab failure in systemic lupus erythematosus: A single-center case series"
+        },
+        {
+          "title": "Rapid Response of Refractory Systemic Lupus Erythematosus Skin Manifestations to Anifrolumab—A Case-Based Review of Clinical Trial Data Suggesting a Domain-Based Therapeutic Approach"
+        },
+        {
+          "title": "Real-World Use of Anifrolumab for Articular Involvement in Systemic Lupus Erythematosus: A Monocentric Case Series and Systematic Review"
+        },
+        {
+          "title": "Role of Anifrolumab in Refractory Cutaneous Manifestations of Lupus Erythematosus: A Case Series and Literature Review"
+        },
+        {
+          "title": "Concurrent Use of Anifrolumab and Belimumab in a Patient With Systemic Lupus Erythematosus Presenting With Recurrent Severe Cutaneous Involvement and Lupus Nephritis"
+        }
+      ],
+      "right": [
+        {
+          "title": "Case series of anifrolumab for treatment of cutaneous lupus erythematosus and lupus-related mucocutaneous manifestations in patients with SLE."
+        },
+        {
+          "title": "Belimumab treatment of adult idiopathic inflammatory myopathy."
+        },
+        {
+          "title": "Safety and Efficacy of Belimumab in Patients with Lupus Nephritis: Open-Label Extension of BLISS-LN Study."
+        },
+        {
+          "title": "Rapid Response of Refractory Systemic Lupus Erythematosus Skin Manifestations to Anifrolumab-A Case-Based Review of Clinical Trial Data Suggesting a Domain-Based Therapeutic Approach."
+        },
+        {
+          "title": "Clinical outcomes of anifrolumab after belimumab failure in systemic lupus erythematosus: A single-center case series."
+        }
+      ]
+    },
+    {
+      "id": "q009",
+      "query": "Does the EAE mouse model reproduce the axonal loss and neurodegeneration seen in progressive multiple sclerosis?",
+      "left": [
+        {
+          "title": "Abstracts"
+        },
+        {
+          "title": "Abstracts"
+        },
+        {
+          "title": "Chronic experimental autoimmune encephalomyelitis is an excellent model to study neuroaxonal degeneration in multiple sclerosis"
+        },
+        {
+          "title": "Abstracts"
+        },
+        {
+          "title": "Central nervous system targeted autoimmunity causes regional atrophy: a 9.4T MRI study of the EAE mouse model of Multiple Sclerosis"
+        }
+      ],
+      "right": [
+        {
+          "title": "The value of animal models for drug development in multiple sclerosis."
+        },
+        {
+          "title": "In silico screening and preclinical validation identify bavisant as a therapeutic candidate for multiple sclerosis."
+        },
+        {
+          "title": "Oligodendroglial precursor cells modulate immune response and early demyelination in a murine model of multiple sclerosis."
+        },
+        {
+          "title": "An overall view of the most common experimental models for multiple sclerosis."
+        },
+        {
+          "title": "The mitochondriogenic but not the immunosuppressant effects of mTOR inhibitors prompt neuroprotection and delay disease evolution in a mouse model of progressive multiple sclerosis."
+        }
+      ]
+    },
+    {
+      "id": "q010",
+      "query": "What is the association between pesticides and developing Parkinson's disease?",
+      "left": [
+        {
+          "title": "Parkinson's Disease: From Pathogenesis to Pharmacogenomics."
+        },
+        {
+          "title": "The association between developing Parkinson's disease and β-Adrenoceptor acting agents use: A systematic review and meta-analysis."
+        },
+        {
+          "title": "The epidemiology of Parkinson's disease: risk factors and prevention."
+        },
+        {
+          "title": "Parkinson's disease: a review."
+        },
+        {
+          "title": "The Body, the Brain, the Environment, and Parkinson's Disease."
+        }
+      ],
+      "right": [
+        {
+          "title": "Paraoxonase 1 promoter and coding region polymorphisms in Parkinson’s disease"
+        },
+        {
+          "title": "Pesticides and Parkinson's disease: A potential hazard in agricultural communities"
+        },
+        {
+          "title": "Deleterious Effects of Banned Chemical Pesticides on Human Health in Developing Countries"
+        },
+        {
+          "title": "The association between ambient exposure to organophosphates and Parkinson's disease risk"
+        },
+        {
+          "title": "Pesticide exposure and the development of Parkinson disease: a systematic review of Brazilian studies"
+        }
+      ]
+    },
+    {
+      "id": "q011",
+      "query": "What autoantibody specificities, beyond ACPA and rheumatoid factor, have been identified in rheumatoid arthritis-associated diffuse large B-cell lymphoma?",
+      "left": [
+        {
+          "title": "Autoantibodies in rheumatoid arthritis - rheumatoid factor, anticitrullinated protein antibodies and beyond."
+        },
+        {
+          "title": "Susceptibility to systemic autoimmunity rather than the presence of the HLA-DR4 peptide binding domain alone leads to severe inflammatory arthritis following inhalation of crystalline silica."
+        },
+        {
+          "title": "Macrophage extracellular traps in autoimmunity: In vivo definition, pathogenic circuits, and therapeutic targeting."
+        },
+        {
+          "title": "Pathogenic Citrulline-Multispecific B Cell Receptor Clades in Rheumatoid Arthritis."
+        },
+        {
+          "title": "Different Hierarchies of Anti-Modified Protein Autoantibody Reactivities in Rheumatoid Arthritis."
+        }
+      ],
+      "right": [
+        {
+          "title": "Anti-cyclic citrullinated peptide antibodies, other common autoantibodies, and smoking as risk factors for lymphoma in patients with rheumatoid arthritis"
+        },
+        {
+          "title": "Autoimmune/Inflammatory Arthritis Associated Lymphomas: Who Is at Risk?"
+        },
+        {
+          "title": "Anti-carbamylated protein antibody isotype pattern differs between palindromic rheumatism and rheumatoid arthritis"
+        },
+        {
+          "title": "N-Glycosylation Site Analysis of Citrullinated Antigen-Specific B-Cell Receptors Indicates Alternative Selection Pathways During Autoreactive B-Cell Development"
+        },
+        {
+          "title": "Prevalence of Anti-Citrullinated Protein Antibodies (ACPA) in Patients with Diffuse Large B-Cell Lymphoma (DLBCL): A Case-Control Study"
+        }
+      ]
+    },
+    {
+      "id": "q012",
+      "query": "How does methotrexate treatment affect peripheral blood B cells, such as the B cell repertoire and the frequency of B cell phenotype subtypes?",
+      "left": [
+        {
+          "title": "The influence of chemotherapy on adenosine-producing B cells in patients with head and neck squamous cell carcinoma"
+        },
+        {
+          "title": "Transitional and CD21− PD-1+ B cells are associated with remission in early rheumatoid arthritis"
+        },
+        {
+          "title": "Immunoglobulin levels in methotrexate treated paediatric rheumatology patients"
+        },
+        {
+          "title": "Distinct Effects of Methotrexate and Etanercept on the B Cell Compartment in Patients With Juvenile Idiopathic Arthritis"
+        },
+        {
+          "title": "The Role and Mechanistic Effects of Methotrexate in the Treatment of Rheumatoid Arthritis"
+        }
+      ],
+      "right": [
+        {
+          "title": "Primary central nervous system lymphoma."
+        },
+        {
+          "title": "Psoriasis: a brief overview."
+        },
+        {
+          "title": "Methotrexate."
+        },
+        {
+          "title": "Polymyalgia Rheumatica."
+        },
+        {
+          "title": "Diagnosis and management of psoriasis."
+        }
+      ]
+    },
+    {
+      "id": "q013",
+      "query": "Does a digital adherence technology intervention improve tuberculosis treatment outcomes in a randomised trial?",
+      "left": [
+        {
+          "title": "The impact of digital health technologies on tuberculosis treatment: a systematic review"
+        },
+        {
+          "title": "Comparative Effectiveness of Digital Health Technologies in Tuberculosis Treatment: Systematic Review and Network Meta-Analysis of Randomized Controlled Trials"
+        },
+        {
+          "title": "Evaluation of patient centred digital adherence technology for tuberculosis treatment outcomes: pragmatic randomised controlled trial"
+        },
+        {
+          "title": "Tuberculosis treatment support using digital adherence technology"
+        },
+        {
+          "title": "Digital adherence technologies to improve tuberculosis treatment outcomes in China: a cluster-randomised superiority trial"
+        }
+      ],
+      "right": [
+        {
+          "title": "Evaluation of patient centred digital adherence technology for tuberculosis treatment outcomes: pragmatic randomised controlled trial."
+        },
+        {
+          "title": "Digital adherence technologies to improve tuberculosis treatment outcomes in China: a cluster-randomised superiority trial."
+        },
+        {
+          "title": "Adherence interventions and outcomes of tuberculosis treatment: A systematic review and meta-analysis of trials and observational studies."
+        },
+        {
+          "title": "Effectiveness of a comprehensive package based on electronic medication monitors at improving treatment outcomes among tuberculosis patients in Tibet: a multicentre randomised controlled trial."
+        },
+        {
+          "title": "Digital Health Technologies to Improve Medication Adherence and Treatment Outcomes in Patients With Tuberculosis: Systematic Review of Randomized Controlled Trials."
+        }
+      ]
+    },
+    {
+      "id": "q014",
+      "query": "What are the main changes in neuronal metabolism during inflammation?",
+      "left": [
+        {
+          "title": "36th International Symposium on Intensive Care and Emergency Medicine : Brussels, Belgium. 15-18 March 2016."
+        },
+        {
+          "title": "Dysregulated brain-gut axis in the setting of traumatic brain injury: review of mechanisms and anti-inflammatory pharmacotherapies."
+        },
+        {
+          "title": "NLRP3 Inflammasome Activation Through Heart-Brain Interaction Initiates Cardiac Inflammation and Hypertrophy During Pressure Overload."
+        },
+        {
+          "title": "Involvement of muscle satellite cell dysfunction in neuromuscular disorders: Expanding the portfolio of satellite cell-opathies."
+        },
+        {
+          "title": "Anti-inflammatory effects of quinolinyl analog of resveratrol targeting TLR4 in MCAO/R ischemic stroke rat model."
+        }
+      ],
+      "right": [
+        {
+          "title": "The High Costs of Low-Grade Inflammation: Persistent Fatigue as a Consequence of Reduced Cellular-Energy Availability and Non-adaptive Energy Expenditure"
+        },
+        {
+          "title": "MRI and MR spectroscopy findings of a case of subacute sclerosing panencephalitis affecting the corpus callosum"
+        },
+        {
+          "title": "Unveiling the Mechanisms of Pain in Endometriosis: Comprehensive Analysis of Inflammatory Sensitization and Therapeutic Potential"
+        },
+        {
+          "title": "Glucose effects on the brain in the healthy and unhealthy individuals: metabolic and cognitive aspects"
+        },
+        {
+          "title": "Metabolic flexibility ensures proper neuronal network function in moderate neuroinflammation"
+        }
+      ]
+    },
+    {
+      "id": "q015",
+      "query": "Does cardiac MRI-derived extracellular volume fraction predict adverse remodeling after STEMI better than late gadolinium enhancement alone?",
+      "left": [
+        {
+          "title": "Cardiac T1 mapping in non-ST-segment elevation myocardial infarction: temporal changes in myocardial fibrosis"
+        },
+        {
+          "title": "Magnetic Resonance Assessment of Left Ventricular Ejection Fraction at Any Time Post-Infarction for Prediction of Subsequent Events in a Large Multicenter STEMI Registry"
+        },
+        {
+          "title": "Intramyocardial Hemorrhage: An Enigma for Cardiac MRI?"
+        },
+        {
+          "title": "MRI and CT coronary angiography in survivors of COVID-19"
+        },
+        {
+          "title": "Extra-cellular expansion in the normal, non-infarcted myocardium is associated with worsening of regional myocardial function after acute myocardial infarction"
+        }
+      ],
+      "right": [
+        {
+          "title": "Synthetic Extracellular Volume Fraction Derived Using Virtual Unenhanced Attenuation of Blood on Contrast-Enhanced Cardiac Dual-Energy CT in Nonischemic Cardiomyopathy."
+        },
+        {
+          "title": "Risk Stratification of Sudden Cardiac Death in Nonischemic Dilated Cardiomyopathy: Arrhythmogenic Substrate Assessment in Cardiac MRI."
+        },
+        {
+          "title": "MRI-Extracellular Volume Fraction Versus Histological Amyloid Load in Cardiac Amyloidosis: The Importance of T2 Mapping."
+        },
+        {
+          "title": "Cardiac MRI-derived Extracellular Volume Fraction versus Myocardium-to-Lumen R1 Ratio at Postcontrast T1 Mapping for Detecting Cardiac Amyloidosis."
+        },
+        {
+          "title": "Impact of SGLT2 inhibitors on myocardial fibrosis in diabetic HFpEF: a longitudinal study."
+        }
+      ]
+    },
+    {
+      "id": "q016",
+      "query": "What drugs have been tested for target Nectin-4?",
+      "left": [
+        {
+          "title": "Soluble ligands as drug targets."
+        },
+        {
+          "title": "Deep learning large-scale drug discovery and repurposing."
+        },
+        {
+          "title": "Screening of an Epigenetic Drug Library Identifies 4-((hydroxyamino)carbonyl)-N-(2-hydroxyethyl)-N-Phenyl-Benzeneacetamide that Reduces Melanin Synthesis by Inhibiting Tyrosinase Activity Independently of Epigenetic Mechanisms."
+        },
+        {
+          "title": "Targeting Sphingosine-1-Phosphate Signaling in Immune-Mediated Diseases: Beyond Multiple Sclerosis."
+        },
+        {
+          "title": "Pharmaceutical Forced Degradation (Stress Testing) Endpoints: A Scientific Rationale and Industry Perspective."
+        }
+      ],
+      "right": [
+        {
+          "title": "A Peptide Derived from Nectin-4 Increases Cisplatin Cytotoxicity in Cell Lines and Cells from Ovarian Cancer Patients’ Ascites"
+        },
+        {
+          "title": "Innovative retargeted oncolytic herpesvirus against nectin4-positive cancers"
+        },
+        {
+          "title": "Preparation and Preliminary Evaluation of a Novel ⁶⁸Ga-Labeled Linear Peptide PET Probe Targeting Nectin-4"
+        },
+        {
+          "title": "Expression of Nectin-4 in Variant Histologies of Bladder Cancer and Its Prognostic Value—Need for Biomarker Testing in High-Risk Patients?"
+        },
+        {
+          "title": "Clinical application prospects of Nectin-4 in pan-cancer: an analysis based on the Trialtrove database"
+        }
+      ]
+    },
+    {
+      "id": "q017",
+      "query": "Can glucocorticoids be safely withdrawn from a low maintenance dose (around prednisone 5 mg) in systemic lupus erythematosus patients in remission, without triggering flare?",
+      "left": [
+        {
+          "title": "Remission and withdrawal of therapy in lupus nephritis."
+        },
+        {
+          "title": "Management of RA medications in pregnant patients."
+        },
+        {
+          "title": "Management of pericardial diseases during pregnancy."
+        },
+        {
+          "title": "Corticosteroid elimination in simultaneous liver-kidney transplantation recipients."
+        },
+        {
+          "title": "Immunosuppressive therapy withdrawal after remission achievement in patients with lupus nephritis."
+        }
+      ],
+      "right": [
+        {
+          "title": "Combination of clinical factors predicts successful glucocorticoid withdrawal in systemic lupus erythematosus (SLE): results from a multicentre, retrospective cohort study"
+        },
+        {
+          "title": "Gradual Glucocorticosteroid Withdrawal Is Safe in Clinically Quiescent Systemic Lupus Erythematosus"
+        },
+        {
+          "title": "Which patients with systemic lupus erythematosus in remission can withdraw low dose steroids? Results from a single inception cohort study"
+        },
+        {
+          "title": "13 Can we withdraw low-dose prednisone in remitted patients?"
+        },
+        {
+          "title": "01 Glucocorticoids for SLE: what are the current questions and issues?"
+        }
+      ]
+    },
+    {
+      "id": "q018",
+      "query": "Does rituximab-mediated B cell depletion alter the composition of the peripheral blood B cell memory compartment in rheumatoid arthritis?",
+      "left": [
+        {
+          "title": "B Cell Differentiation Model for Identifying Predictors of Responses to Rituximab-Mediated B Cell Depletion in Rheumatic Diseases."
+        },
+        {
+          "title": "Factors associated with rituximab-mediated B cell depletion in ABO-incompatible adult living donor liver transplantation."
+        },
+        {
+          "title": "Effect of Fc-γ Receptor Polymorphism on Rituximab-Mediated B Cell Depletion in ABO-Incompatible Adult Living Donor Liver Transplantation."
+        },
+        {
+          "title": "Disparity in peripheral and renal B-cell depletion with rituximab in systemic lupus erythematosus: an opportunity for obinutuzumab?"
+        },
+        {
+          "title": "Rituximab-mediated depletion of cynomolgus monkey B cells in vitro in different matrices: possible inhibitory effect of IgG."
+        }
+      ],
+      "right": [
+        {
+          "title": "Rituximab therapy reduces activated B cells in both the peripheral blood and bone marrow of patients with rheumatoid arthritis: depletion of memory B cells correlates with clinical response"
+        },
+        {
+          "title": "B Cells in Rheumatoid Arthritis: From Pathogenic Players to Disease Biomarkers"
+        },
+        {
+          "title": "Rituximab induces phenotypical and functional changes of NK cells in a non-malignant experimental setting"
+        },
+        {
+          "title": "Efficacy of BAFF inhibition and B-cell depletion in non-obese diabetic mice as a spontaneous model for Sjögren’s disease"
+        },
+        {
+          "title": "Common variable immunodeficiency unmasked by treatment of immune thrombocytopenic purpura with Rituximab"
+        }
+      ]
+    },
+    {
+      "id": "q019",
+      "query": "In the TULIP-2 trial of anifrolumab for systemic lupus erythematosus, what was the BICLA primary endpoint, and why was its definition changed before unblinding?",
+      "left": [
+        {
+          "title": "Rapid Response of Refractory Systemic Lupus Erythematosus Skin Manifestations to Anifrolumab—A Case-Based Review of Clinical Trial Data Suggesting a Domain-Based Therapeutic Approach"
+        },
+        {
+          "title": "Targeting type I interferons in systemic lupus erythematous"
+        },
+        {
+          "title": "Targeted Therapies for Systemic Lupus Erythematosus (SLE): A Critical Appraisal"
+        },
+        {
+          "title": "Efficacy of anifrolumab in systemic lupus erythematosus: a critical analysis of the TULIP trials"
+        },
+        {
+          "title": "Current Status of the Evaluation and Management of Lupus Patients and Future Prospects"
+        }
+      ],
+      "right": [
+        {
+          "title": "Clinical meaningfulness of a British Isles Lupus Assessment Group-based Composite Lupus Assessment response in terms of patient-reported outcomes in moderate to severe systemic lupus erythematosus: a post-hoc analysis of the phase 3 TULIP-1 and TULIP-2 trials of anifrolumab."
+        },
+        {
+          "title": "Efficacy of anifrolumab in systemic lupus erythematosus patients with serological manifestations: A post hoc analysis of the Japan subgroup of the TULIP-2 trial."
+        },
+        {
+          "title": "Trial of Anifrolumab in Active Systemic Lupus Erythematosus."
+        },
+        {
+          "title": "Lupus low disease activity state attainment in the phase 3 TULIP trials of anifrolumab in active systemic lupus erythematosus."
+        },
+        {
+          "title": "Anifrolumab efficacy and safety by type I interferon gene signature and clinical subgroups in patients with SLE: post hoc analysis of pooled data from two phase III trials."
+        }
+      ]
+    },
+    {
+      "id": "q020",
+      "query": "How does CMR-detected myocardial fibrosis compare to circulating biomarkers in predicting rapid decompensation and need for early intervention in asymptomatic severe aortic stenosis?",
+      "left": [
+        {
+          "title": "A “Watchful Surgery” Approach: Timing and Valve Choice for Mildly Symptomatic Mitral and Aortic Valve Disease"
+        },
+        {
+          "title": "Myocardial Fibrosis and Cardiac Decompensation in Aortic Stenosis"
+        },
+        {
+          "title": "Prognostic role of myocardial fibrosis markers in aortic stenosis: implications for clinical decision-making"
+        },
+        {
+          "title": "Cardiac Damage Staging in Valvular Heart Disease"
+        },
+        {
+          "title": "Aortic valve stenosis—multimodality assessment with PET/CT and PET/MRI"
+        }
+      ],
+      "right": [
+        {
+          "title": "Myocardial remodelling in aortic regurgitation: time to think beyond volumes and function?"
+        },
+        {
+          "title": "Advanced Chronic Rheumatic Heart Disease Associated With Substantial Myocardial and Valvular Fibrosis on Cardiovascular Magnetic Resonance."
+        },
+        {
+          "title": "Ferumoxytol-enhanced cardiovascular magnetic resonance detection of early stage acute myocarditis."
+        },
+        {
+          "title": "Cardiac disease in patients with vasculitis."
+        },
+        {
+          "title": "Myocardial Involvement Detected Using Cardiac Magnetic Resonance Imaging in Patients with Systemic Sclerosis: A Prospective Observational Study."
+        }
+      ]
+    },
+    {
+      "id": "q021",
+      "query": "Does chronic B cell receptor signaling in synovial B cells share molecular features with the BCR signaling seen in marginal zone lymphoma?",
+      "left": [
+        {
+          "title": "Toll-like receptor expression and function differ between splenic marginal zone B cell lymphoma and splenic diffuse red pulp B cell lymphoma"
+        },
+        {
+          "title": "B-Cell Receptor Signaling and Beyond: The Role of Igα (CD79a)/Igβ (CD79b) in Normal and Malignant B Cells"
+        },
+        {
+          "title": "B‐cell receptor signalling and its crosstalk with other pathways in normal and malignant cells"
+        },
+        {
+          "title": "Biology of splenic and nodal marginal zone lymphomas"
+        },
+        {
+          "title": "Homeobox NKX2-3 promotes marginal-zone lymphomagenesis by activating B-cell receptor signalling and shaping lymphocyte dynamics"
+        }
+      ],
+      "right": [
+        {
+          "title": "Targeting the B cell receptor signaling pathway in chronic lymphocytic leukemia."
+        },
+        {
+          "title": "B-cell biology and development."
+        },
+        {
+          "title": "Chronic active B-cell-receptor signalling in diffuse large B-cell lymphoma."
+        },
+        {
+          "title": "Targeting B cell receptor signaling with ibrutinib in diffuse large B cell lymphoma."
+        },
+        {
+          "title": "Autonomous B-cell Receptor Signaling in Chronic Lymphocytic Leukemia."
+        }
+      ]
+    },
+    {
+      "id": "q022",
+      "query": "Why are malondialdehyde (MDA) and malondialdehyde acetaldehyde (MAA) modifications relevant in RA, and what do we currently know regarding anti-MDA/MAA antibodies in RA pathogenesis?",
+      "left": [
+        {
+          "title": "Malondialdehyde-Acetaldehyde Modified (MAA) Proteins Differentially Effect the Inflammatory Response in Macrophage, Endothelial Cells and Animal Models of Cardiovascular Disease."
+        },
+        {
+          "title": "Malondialdehyde-acetaldehyde adduct is the dominant epitope after MDA modification of proteins in atherosclerosis."
+        },
+        {
+          "title": "Association of malondialdehyde-acetaldehyde (MAA) adducted proteins with atherosclerotic-induced vascular inflammatory injury."
+        },
+        {
+          "title": "Pathogenesis of Alcohol-Associated Liver Disease."
+        },
+        {
+          "title": "Malondialdehyde-Acetaldehyde (MAA) Protein Adducts Are Found Exclusively in the Lungs of Smokers with Alcohol Use Disorders and Are Associated with Systemic Anti-MAA Antibodies."
+        }
+      ],
+      "right": [
+        {
+          "title": "Osteoimmunology: The Crosstalk between T Cells, B Cells, and Osteoclasts in Rheumatoid Arthritis"
+        },
+        {
+          "title": "Malondialdehyde-acetaldehyde modified macromolecules and resulting autoantibodies in rheumatoid arthritis pathogenesis: a Systematic Literature Review"
+        },
+        {
+          "title": "Assessment of anti-malondialdehyde-acetaldehyde antibody frequencies in rheumatoid arthritis with new data from two independent cohorts, meta-analysis, and meta-regression"
+        },
+        {
+          "title": "Abstracts"
+        },
+        {
+          "title": "Lipid peroxidation in osteoarthritis: focusing on 4-hydroxynonenal, malondialdehyde, and ferroptosis"
+        }
+      ]
+    },
+    {
+      "id": "q023",
+      "query": "How do metal ions fluctuate in the blood during sepsis?",
+      "left": [
+        {
+          "title": "Bioinformatics Analysis Identifies Hub Genes and Molecular Pathways Involved in Sepsis-Induced Myopathy"
+        },
+        {
+          "title": "The novel iron chelator, DIBI, attenuates inflammation and improves outcome in colon ascendens stent peritonitis-induced experimental sepsis"
+        },
+        {
+          "title": "Macrophage-red blood cell hybrid membrane-coated ultrasound-responsive microbowls to eliminate pathogens, endotoxins, and heavy metal ions from blood †"
+        },
+        {
+          "title": "Acute-phase proteins during inflammatory reaction by bacterial infection: Fish-model"
+        },
+        {
+          "title": "Diagnosing and investigating adverse reactions in metal on metal hip implants"
+        }
+      ],
+      "right": [
+        {
+          "title": "β(2)-microglobulin amyloidosis."
+        },
+        {
+          "title": "Mechanistic Insights Expatiating the Redox-Active-Metal-Mediated Neuronal Degeneration in Parkinson's Disease."
+        },
+        {
+          "title": "Can cobalt levels estimate in-vivo wear of metal-on-metal bearings used in hip arthroplasty?"
+        },
+        {
+          "title": "Molecularly imprinted polymers for sensing/depleting human serum albumin (HSA): A critical review of recent advances and current challenges."
+        },
+        {
+          "title": "Structure and ligand binding properties of human serum albumin."
+        }
+      ]
+    },
+    {
+      "id": "q024",
+      "query": "Does anti-inflammatory treatment increase the risk for lymphoma development in rheumatoid arthritis patients?",
+      "left": [
+        {
+          "title": "Ibrutinib combined with immunochemotherapy with or without autologous stem-cell transplantation versus immunochemotherapy and autologous stem-cell transplantation in previously untreated patients with mantle cell lymphoma (TRIANGLE): a three-arm, randomised, open-label, phase 3 superiority trial of the European Mantle Cell Lymphoma Network."
+        },
+        {
+          "title": "The current landscape of frontline large B-cell lymphoma trials."
+        },
+        {
+          "title": "CHOP chemotherapy plus rituximab compared with CHOP alone in elderly patients with diffuse large-B-cell lymphoma."
+        },
+        {
+          "title": "Dose-adjusted EPOCH chemotherapy for untreated large B-cell lymphomas: a pharmacodynamic approach with high efficacy."
+        },
+        {
+          "title": "Tafasitamab plus lenalidomide and R-CHOP versus R-CHOP for first-line treatment of patients with high-risk diffuse large B-cell lymphoma (frontMIND): a global, phase 3, randomised, double-blind, placebo-controlled trial."
+        }
+      ],
+      "right": [
+        {
+          "title": "Psoriasis and Co-Morbidities: Approach to Treatment with Biologics"
+        },
+        {
+          "title": "Autoimmune Disorders and Lymphomas"
+        },
+        {
+          "title": "How to use biologic agents in patients with rheumatoid arthritis who have comorbid disease"
+        },
+        {
+          "title": "Diffuse Large B-cell Lymphoma of the Tibia in a Patient With Longstanding Seropositive Rheumatoid Arthritis on Methotrexate"
+        },
+        {
+          "title": "Rheumatoid arthritis and lymphoma: Incidence, pathogenesis, biology, and outcome"
+        }
+      ]
+    },
+    {
+      "id": "q025",
+      "query": "What is the combined role of neuroinflammation and metal ions in ALS?",
+      "left": [
+        {
+          "title": "Cerium oxide nanoparticles with antioxidative neurorestoration for ischemic stroke."
+        },
+        {
+          "title": "Inflammation-targeted nanoplatform: NIR-II imaging-guided encephalitis suppressing by dual antioxidant-ferroptosis action."
+        },
+        {
+          "title": "Manganese and the brain."
+        },
+        {
+          "title": "Copper overload worsens the inflammatory response of microglia to amyloid beta (Aβ) by impairing phagocytosis and promoting mitochondrial DNA-mediated NLRP3 inflammasome activation."
+        },
+        {
+          "title": "The locus coeruleus at the crossroads of inflammation and neurodegeneration in multiple sclerosis."
+        }
+      ],
+      "right": [
+        {
+          "title": "Cognitive and Physical Intervention in Metals’ Dysfunction and Neurodegeneration"
+        },
+        {
+          "title": "Homeostasis and metabolism of iron and other metal ions in neurodegenerative diseases"
+        },
+        {
+          "title": "Pathogenic synergy: dysfunctional mitochondria and neuroinflammation in neurodegenerative diseases associated with aging"
+        },
+        {
+          "title": "Recent Advances in Drug Development for Alzheimer’s Disease: A Comprehensive Review"
+        },
+        {
+          "title": "Multiple metal exposures associate with higher amyotrophic lateral sclerosis risk and mortality independent of genetic risk and correlate to self-reported exposures: a case-control study"
+        }
+      ]
+    },
+    {
+      "id": "q026",
+      "query": "Does a history of high-level athletic activity affect age of onset in sporadic ALS?",
+      "left": [
+        {
+          "title": "Associations of self-reported and objectively measured physical activity and amyotrophic lateral sclerosis risk"
+        },
+        {
+          "title": "Risk factors for amyotrophic lateral sclerosis: A regional United States case‐control study"
+        },
+        {
+          "title": "Lifetime physical activity and the risk of amyotrophic lateral sclerosis"
+        },
+        {
+          "title": "Physical activity as a risk factor for amyotrophic lateral sclerosis-findings from three large European cohorts"
+        },
+        {
+          "title": "Sport and risk of amyotrophic lateral sclerosis"
+        }
+      ],
+      "right": [
+        {
+          "title": "Reinnervation of Vastus lateralis is increased significantly in seniors (70-years old) with a lifelong history of high-level exercise (2013, revisited here in 2022)."
+        },
+        {
+          "title": "Prevalence and Risk Factors for Eating Disorders in Adolescent Female Basketball Players."
+        },
+        {
+          "title": "Athletes with valvular heart disease and competitive sports: a position statement of the Sport Cardiology Section of the European Association of Preventive Cardiology."
+        },
+        {
+          "title": "Exercise-mediated reinnervation of skeletal muscle in elderly people: An update."
+        },
+        {
+          "title": "Multiple Injections and Injections ≤6 Month Injections Before Rotator Cuff Repair May Increase the Risk of Retear: A Propensity Score-Matched Study."
+        }
+      ]
+    },
+    {
+      "id": "q027",
+      "query": "What differences in the frequency of peripheral blood B cell subset phenotypes can we find in RA patients compared to healthy donors?",
+      "left": [
+        {
+          "title": "Alterations in peripheral blood memory B cells in patients with active rheumatoid arthritis are dependent on the action of tumour necrosis factor"
+        },
+        {
+          "title": "Single Immunoglobulin IL‐1‐Related Receptor (SIGIRR) Gene rs7396562 Polymorphism and Expression Level in Rheumatoid Arthritis"
+        },
+        {
+          "title": "B Cells in Rheumatoid Arthritis: From Pathogenic Players to Disease Biomarkers"
+        },
+        {
+          "title": "Citrullinated peptides as drug candidates for rheumatoid arthritis"
+        },
+        {
+          "title": "Regulatory B‐cell compartment in transfused alloimmunized and non‐alloimmunized patients with sickle cell disease"
+        }
+      ],
+      "right": [
+        {
+          "title": "A Prospective, Single-Arm, Multicenter Trial of Ultrasound-Facilitated, Catheter-Directed, Low-Dose Fibrinolysis for Acute Massive and Submassive Pulmonary Embolism: The SEATTLE II Study."
+        },
+        {
+          "title": "Blood pressure and incidence of twelve cardiovascular diseases: lifetime risks, healthy life-years lost, and age-specific associations in 1·25 million people."
+        },
+        {
+          "title": "Pharmacokinetics, pharmacodynamics, and immunodynamics of daclizumab in a two-dose regimen in liver transplantation."
+        },
+        {
+          "title": "Rivaroxaban in Peripheral Artery Disease after Revascularization."
+        },
+        {
+          "title": "Resuscitation outcomes of infants that do not achieve a 5 min target SpO2 saturation."
+        }
+      ]
+    },
+    {
+      "id": "q028",
+      "query": "What is the role of IGF-2 in ALS?",
+      "left": [
+        {
+          "title": "Targeted proteomics of serum IGF-I, -II, IGFBP-2, -3, -4, -5, -6 and ALS."
+        },
+        {
+          "title": "Reduction in Pappalysin-2 Levels and Lower IGF-I Bioavailability in Female Adolescents With Anorexia Nervosa."
+        },
+        {
+          "title": "Differential neuronal vulnerability identifies IGF-2 as a protective factor in ALS."
+        },
+        {
+          "title": "Endocrine and cellular physiology and pathology of the insulin-like growth factor acid-labile subunit."
+        }
+      ],
+      "right": [
+        {
+          "title": "Motor neuron vulnerability and resistance in amyotrophic lateral sclerosis"
+        },
+        {
+          "title": "Impaired expression of insulin‐like growth factor‐1 system in skeletal muscle of amyotrophic lateral sclerosis patients"
+        },
+        {
+          "title": "“One coin, two aspects”: The role of IGF1R singling in chronic pain"
+        },
+        {
+          "title": "Differential neuronal vulnerability identifies IGF-2 as a protective factor in ALS"
+        }
+      ]
+    },
+    {
+      "id": "q029",
+      "query": "Does Mendelian randomization support a causal relationship between FCGRT (FcRn) expression and myasthenia gravis risk?",
+      "left": [
+        {
+          "title": "Circulating inflammatory cytokines and the risk of myasthenia gravis: a bidirectional Mendelian randomization study"
+        },
+        {
+          "title": "Herpesvirus entry mediator on T cells as a protective factor for myasthenia gravis: A Mendelian randomization study"
+        },
+        {
+          "title": "Causal relationship between gut microbiota and myasthenia gravis: a bidirectional mendelian randomization study"
+        },
+        {
+          "title": "Mendelian randomization analyses of known and suspected risk factors and biomarkers for myasthenia gravis overall and by subtypes"
+        },
+        {
+          "title": "Late Breaking Oral Abstracts"
+        }
+      ],
+      "right": [
+        {
+          "title": "The causal effects of lipid traits on kidney function in Africans: bidirectional and multivariable Mendelian-randomization study."
+        },
+        {
+          "title": "Exploring causal correlations between inflammatory cytokines and ankylosing spondylitis: a bidirectional mendelian-randomization study."
+        },
+        {
+          "title": "Trans-ethnic Mendelian-randomization study reveals causal relationships between cardiometabolic factors and chronic kidney disease."
+        },
+        {
+          "title": "Causal relationship between neuroticism and frailty: A bidirectional Mendelian randomization study."
+        },
+        {
+          "title": "Causal relationship between gut microbiota and cancers: a two-sample Mendelian randomisation study."
+        }
+      ]
+    },
+    {
+      "id": "q030",
+      "query": "Does prior military service increase the risk of developing ALS?",
+      "left": [
+        {
+          "title": "COVID-19 vaccine initiation in pregnancy and risk for adverse neonatal outcomes among United States military service members, January-December 2021."
+        },
+        {
+          "title": "Model for Musculoskeletal Injury Risk Factors Among US Army Basic Combat Trainees."
+        },
+        {
+          "title": "Incidence and risk factors for postpartum mood and anxiety disorders among women veterans."
+        },
+        {
+          "title": "Global burden of 292 causes of death in 204 countries and territories and 660 subnational locations, 1990-2023: a systematic analysis for the Global Burden of Disease Study 2023."
+        },
+        {
+          "title": "Pre-neuromusculoskeletal injury Risk factor Evaluation and Post-neuromusculoskeletal injury Assessment for Return-to-duty/activity Enhancement (PREPARE) in military service members: a prospective, observational study protocol."
+        }
+      ],
+      "right": [
+        {
+          "title": "Veterans with familial ALS and bulbar and respiratory presentations at onset had shorter survival"
+        },
+        {
+          "title": "A perspective on persistent toxicants in veterans and amyotrophic lateral sclerosis: identifying exposures determining higher ALS risk"
+        },
+        {
+          "title": "Pathophysiology, Clinical Heterogeneity, and Therapeutic Advances in Amyotrophic Lateral Sclerosis: A Comprehensive Review of Molecular Mechanisms, Diagnostic Challenges, and Multidisciplinary Management Strategies"
+        },
+        {
+          "title": "Risk factors associated with amyotrophic lateral sclerosis based on the observational study: a systematic review and meta-analysis"
+        },
+        {
+          "title": "Demographics, clinical characteristics, and prognostic factors of amyotrophic lateral sclerosis in Midwest"
+        }
+      ]
+    },
+    {
+      "id": "q031",
+      "query": "Which cells are most responsible for maintaining neuronal health, and how are they compromised in Alzheimer's disease?",
+      "left": [
+        {
+          "title": "The low-density lipoprotein receptor-related protein-1 (LRP1) in Schwann cells controls mitochondria homeostasis in peripheral nerves."
+        },
+        {
+          "title": "Dominant optic atrophy: Culprit mitochondria in the optic nerve."
+        },
+        {
+          "title": "circRNAs as Epigenetic Regulators of Integrity in Blood-Brain Barrier Architecture: Mechanisms and Therapeutic Strategies in Multiple Sclerosis."
+        },
+        {
+          "title": "Impact of pesticide exposure on auditory health: Mechanisms, efferent system disruption, and public health implications."
+        },
+        {
+          "title": "Rita Levi-Montalcini, NGF Metabolism in Health and in the Alzheimer's Pathology."
+        }
+      ],
+      "right": [
+        {
+          "title": "Alzheimer's Disease: Status of Low‐Dimensional Nanotherapeutic Materials"
+        },
+        {
+          "title": "Metabolic Syndrome and Neuroprotection"
+        },
+        {
+          "title": "Human Induced Pluripotent Stem Cell-Derived Neural Cells from Alzheimer's Disease Patients Exhibited Different Susceptibility to Oxidative Stress"
+        },
+        {
+          "title": "Neuroglial Crosstalk in Alzheimer's Disease and Diabetes Mellitus: Unravelling Shared Pathophysiological Pathways and Therapeutic Insights"
+        },
+        {
+          "title": "Altered glia-neuron communication in Alzheimer’s Disease affects WNT, p53, and NFkB Signaling determined by snRNA-seq"
+        }
+      ]
+    },
+    {
+      "id": "q032",
+      "query": "Does late gadolinium enhancement on cardiac MRI predict ventricular arrhythmia risk in patients with non-ischemic cardiomyopathy?",
+      "left": [
+        {
+          "title": "Complexity of scar and ventricular arrhythmias in dilated cardiomyopathy of any etiology: Long‐term data from the SCARFEAR (Cardiovascular Magnetic Resonance Predictors of Appropriate Implantable Cardioverter‐Defibrillator Therapy Delivery) Registry"
+        },
+        {
+          "title": "Advances in cardiac imaging: the role of magnetic resonance imaging and computed tomography in identifying athletes at risk"
+        },
+        {
+          "title": "Comparison of Ventricular Inducibility with Late Gadolinium Enhancement and Myocardial Inflammation in Endomyocardial Biopsy in Patients with Dilated Cardiomyopathy"
+        },
+        {
+          "title": "GW24-e2276 Astragalus membranaceus injection for viral myocarditis: a systematic review and meta-analysis of randomised clinical trials"
+        },
+        {
+          "title": "Late-gadolinium enhancement predicts appropriate device therapies in nonischemic recipients of primary prevention implantable cardioverter-defibrillators"
+        }
+      ],
+      "right": [
+        {
+          "title": "Myocardial fibrosis predicts ventricular tachyarrhythmias."
+        },
+        {
+          "title": "Redefining the risk of major arrhythmic events in non-ischaemic cardiomyopathy: insights from the DERIVATE-NICM study."
+        },
+        {
+          "title": "Arrhythmic risk stratification in patients with left ventricular ring-like scar."
+        },
+        {
+          "title": "Late gadolinium enhancement distribution patterns in non-ischaemic dilated cardiomyopathy: genotype-phenotype correlation."
+        },
+        {
+          "title": "Arrhythmic risk stratification in non-ischaemic dilated cardiomyopathy beyond ejection fraction."
+        }
+      ]
+    },
+    {
+      "id": "q033",
+      "query": "For steroid-refractory chronic graft-versus-host disease, how do abatacept, ruxolitinib, and axatilimab compare in phase 2 trial organ response rates and infection-related safety?",
+      "left": [
+        {
+          "title": "Ruxolitinib in GvHD (RIG) study: a multicenter, randomized phase 2 trial to determine the response rate of Ruxolitinib and best available treatment (BAT) versus BAT in steroid-refractory acute graft-versus-host disease (aGvHD) (NCT02396628)"
+        },
+        {
+          "title": "Salvage therapy with basiliximab and etanercept for severe steroid‐refractory acute graft‐versus‐host disease"
+        },
+        {
+          "title": "Abatacept as salvage therapy in chronic graft-versus-host disease—a retrospective analysis"
+        },
+        {
+          "title": "Risk of Infectious Complications in Hemato-Oncological Patients Treated with Kinase Inhibitors"
+        },
+        {
+          "title": "Efficacy and safety of ruxolitinib in the treatment of chronic graft-versus-host disease: a retrospective analysis"
+        }
+      ],
+      "right": [
+        {
+          "title": "Chronic graft-versus-host disease."
+        },
+        {
+          "title": "Steroid-Refractory Chronic Graft-Versus-Host Disease: Treatment Options and Nursing Care."
+        },
+        {
+          "title": "Treatment of steroid-refractory graft versus host disease in children."
+        },
+        {
+          "title": "Prophylaxis and management of graft-versus-host disease after stem-cell transplantation for haematological malignancies: updated consensus recommendations of the European Society for Blood and Marrow Transplantation."
+        },
+        {
+          "title": "Updates in chronic graft-versus-host disease management."
+        }
+      ]
+    },
+    {
+      "id": "q034",
+      "query": "Do ACPA-positive and ACPA-negative rheumatoid arthritis patients differ in peripheral blood plasmablast frequency?",
+      "left": [
+        {
+          "title": "Forefoot inflammation in recent-onset ACPA-positive and ACPA-negative RA: clinically similar, but different in underlying inflamed tissues"
+        },
+        {
+          "title": "Is Anti-Citrullinated Protein Antibody-Positive Rheumatoid Arthritis Still a More Severe Disease Than Anti-Citrullinated Protein Antibody-Negative Rheumatoid Arthritis? A Longitudinal Cohort Study in Rheumatoid Arthritis Patients Diagnosed From 2000 Onward"
+        },
+        {
+          "title": "Tapering csDMARD or TNFi first: is the risk of flares different for ACPA-positive or ACPA-negative rheumatoid arthritis?"
+        },
+        {
+          "title": "Immunophenotypic Landscape of synovial tissue in rheumatoid arthritis: Insights from ACPA status"
+        },
+        {
+          "title": "Inflammation functions as a key mediator in the link between ACPA and erosion development: an association study in Clinically Suspect Arthralgia"
+        }
+      ],
+      "right": [
+        {
+          "title": "Increased expression of CXCL2 in ACPA-positive rheumatoid arthritis and its role in osteoclastogenesis."
+        },
+        {
+          "title": "CCR6(+) Th cell populations distinguish ACPA positive from ACPA negative rheumatoid arthritis."
+        },
+        {
+          "title": "Sex and anticitrullinated protein antibodies modify the relationship between inflammation and cardiovascular risk in rheumatoid arthritis."
+        },
+        {
+          "title": "Upregulation of interferon-γ response genes in monocytes and T cells identified by single-cell transcriptomics in patients with anti-citrullinated peptide antibody-positive early rheumatoid arthritis."
+        },
+        {
+          "title": "ACPA Status Correlates with Differential Immune Profile in Patients with Rheumatoid Arthritis."
+        }
+      ]
+    },
+    {
+      "id": "q035",
+      "query": "What cognitive and mental health outcomes have been reported in patients with long COVID?",
+      "left": [
+        {
+          "title": "Promoting Activity, Independence, and Stability in Early Dementia and mild cognitive impairment (PrAISED): randomised controlled trial."
+        },
+        {
+          "title": "2023 Alzheimer's disease facts and figures."
+        },
+        {
+          "title": "Burden of 375 diseases and injuries, risk-attributable burden of 88 risk factors, and healthy life expectancy in 204 countries and territories, including 660 subnational locations, 1990-2023: a systematic analysis for the Global Burden of Disease Study 2023."
+        },
+        {
+          "title": "Interventions for the management of long covid (post-covid condition): living systematic review."
+        },
+        {
+          "title": "Clinical practice guideline for long COVID prevention and treatment."
+        }
+      ],
+      "right": [
+        {
+          "title": "Systematic review of interventions for mental health, cognition and psychological well-being in long COVID"
+        },
+        {
+          "title": "Symptoms and Risk Factors for Long COVID: A Cross‐Sectional Study in Primary Care"
+        },
+        {
+          "title": "A bibliometric analysis of COVID-19 publications in neurology by using the visual mapping method"
+        },
+        {
+          "title": "Prevalence and Predictors of Long COVID in Patients Accessing a National Digital Mental Health Service"
+        },
+        {
+          "title": "Self-reported health, neuropsychological tests and biomarkers in fully recovered COVID-19 patients vs patients with post-COVID cognitive symptoms: A pilot study"
+        }
+      ]
+    },
+    {
+      "id": "q036",
+      "query": "Does rheumatoid arthritis patients with B-cell lymphoma have a specific autoantibody profile compared to other rheumatoid arthritis patients?",
+      "left": [
+        {
+          "title": "Rationale of anti-CD19 immunotherapy: an option to target autoreactive plasma cells in autoimmunity."
+        },
+        {
+          "title": "TLR9 signalling in HCV-associated atypical memory B cells triggers Th1 and rheumatoid factor autoantibody responses."
+        },
+        {
+          "title": "Diffuse large B cell lymphoma in rheumatoid arthritis patients is associated with elevated B-cell driving factors including CXCL13."
+        },
+        {
+          "title": "Transcriptomic profiling of Sjögren's disease salivary glands identifies signatures associated with both follicular and extrafollicular responses linked to rheumatoid factor and anti-La/SSB seropositivity."
+        },
+        {
+          "title": "Immunopathogenesis of Sjogren's syndrome: \"facts and fancy\"."
+        }
+      ],
+      "right": [
+        {
+          "title": "Autoimmune/Inflammatory Arthritis Associated Lymphomas: Who Is at Risk?"
+        },
+        {
+          "title": "Targeting synovial fibroblast proliferation in rheumatoid arthritis (TRAFIC): an open-label, dose-finding, phase 1b trial"
+        },
+        {
+          "title": "Roles of immune cell metabolism in rheumatoid arthritis"
+        },
+        {
+          "title": "Sex-Specific B Cell and Anti-Myelin Autoantibody Response After Peripheral Nerve Injury"
+        },
+        {
+          "title": "Prevalence of Anti-Citrullinated Protein Antibodies (ACPA) in Patients with Diffuse Large B-Cell Lymphoma (DLBCL): A Case-Control Study"
+        }
+      ]
+    },
+    {
+      "id": "q037",
+      "query": "Does the presence of anti-carbamylated protein antibodies (anti-CarP) predict radiographic progression independent of ACPA status in rheumatoid arthritis?",
+      "left": [
+        {
+          "title": "Anti-carbamylated protein antibodies in the pre-symptomatic phase of rheumatoid arthritis, their relationship with multiple anti-citrulline peptide antibodies and association with radiological damage"
+        },
+        {
+          "title": "Antibodies against carbamylated proteins: prevalence and associated disease characteristics in Belgian patients with rheumatoid arthritis or other rheumatic diseases"
+        },
+        {
+          "title": "BEST CASE SCENARIOS Case 1 17q12 microdeletion syndrome as a cause of chondrocalcinosis"
+        },
+        {
+          "title": "The value of anti-CarP and anti-PAD4 as markers of rheumatoid arthritis in ACPA/RF negative rheumatoid arthritis patients"
+        },
+        {
+          "title": "MRI-detected osteitis is not associated with the presence or level of ACPA alone, but with the combined presence of ACPA and RF"
+        }
+      ],
+      "right": [
+        {
+          "title": "Association of the Presence of Anti-Carbamylated Protein Antibodies in Early Arthritis With a Poorer Clinical and Radiologic Outcome: Data From the French ESPOIR Cohort."
+        },
+        {
+          "title": "Anti-carbamylated protein (anti-CarP) antibodies precede the onset of rheumatoid arthritis."
+        },
+        {
+          "title": "Anti-carbamylated protein antibodies: are they useful for the diagnosis of rheumatoid arthritis?"
+        },
+        {
+          "title": "Anti-carbamylated protein antibodies in systemic sclerosis."
+        },
+        {
+          "title": "[Early reumatoid arthritis]."
+        }
+      ]
+    },
+    {
+      "id": "q038",
+      "query": "Does valve-in-valve TAVR provide comparable hemodynamic outcomes to redo surgical aortic valve replacement for degenerated bioprosthetic valves?",
+      "left": [
+        {
+          "title": "Comparison of in-hospital outcomes and long-term survival for valve-in-valve transcatheter aortic valve replacement versus the benchmark native valve transcatheter aortic valve replacement procedure"
+        },
+        {
+          "title": "Hemodynamic and Clinical Outcomes in Redo-Surgical Aortic Valve Replacement vs. Transcatheter Valve-in-Valve"
+        },
+        {
+          "title": "The Perceval Sutureless Bioprosthetic Aortic Valve: Evolution of Surgical Valve Technology"
+        },
+        {
+          "title": "Hemodynamic outcomes after valve-in-valve transcatheter aortic valve replacement: a single-center experience"
+        },
+        {
+          "title": "Valve-in-Valve-in-Valve: Degenerated Transcatheter Heart Valve within Degenerated Surgical Bioprosthetic Aortic Valve Treated with Second Transcatheter Heart Valve"
+        }
+      ],
+      "right": [
+        {
+          "title": "Meta-analysis of Valve-in-Valve Transcatheter versus Redo Surgical Aortic Valve Replacement."
+        },
+        {
+          "title": "Valve in valve transcatheter versus redo surgical replacement of a failing surgical bioprosthetic aortic valve: An updated systematic review and meta-analysis."
+        },
+        {
+          "title": "Haemodynamic outcomes following aortic valve-in-valve procedure."
+        },
+        {
+          "title": "Hemodynamic outcomes after valve-in-valve transcatheter aortic valve replacement: a single-center experience."
+        },
+        {
+          "title": "Transcatheter valve-in-valve versus redo surgical aortic valve replacement for the treatment of degenerated bioprosthetic aortic valve: A systematic review and meta-analysis."
+        }
+      ]
+    },
+    {
+      "id": "q039",
+      "query": "What are the most recent findings on therapeutic vaccines for melanoma, including mRNA neoantigen vaccines, peptide vaccines, and combinations with immune checkpoint inhibitors?",
+      "left": [
+        {
+          "title": "Advances in mRNA-Based Melanoma Vaccines: A Narrative Review of Lipid Nanoparticle and Dendritic Cell Delivery Platforms"
+        },
+        {
+          "title": "Therapeutic melanoma vaccines: Platforms, neoantigen strategies, and emerging combination immunotherapies"
+        },
+        {
+          "title": "Drug Therapy for Melanoma: Current Updates and Future Prospects"
+        },
+        {
+          "title": "Letter to the Editor: mRNA Vaccines in Urological Malignancies"
+        },
+        {
+          "title": "Immune therapy of melanoma: Overview of therapeutic vaccines"
+        }
+      ],
+      "right": [
+        {
+          "title": "Melanoma vaccines."
+        },
+        {
+          "title": "Global age-sex-specific all-cause mortality and life expectancy estimates for 204 countries and territories and 660 subnational locations, 1950-2023: a demographic analysis for the Global Burden of Disease Study 2023."
+        },
+        {
+          "title": "Leptomeningeal metastases from solid tumors: A Society for Neuro-Oncology and American Society of Clinical Oncology consensus review on clinical management and future directions."
+        },
+        {
+          "title": "T-cell-based immunotherapy in colorectal cancer."
+        },
+        {
+          "title": "Immunotherapy for melanoma."
+        }
+      ]
+    },
+    {
+      "id": "q040",
+      "query": "What is the relationship between peripheral blood CD19+CD24hiCD38hi regulatory B cell frequency and disease activity in rheumatoid arthritis?",
+      "left": [
+        {
+          "title": "The vital role of CD19 + CD24 hi CD38 hi regulatory B cells in rheumatoid arthritis: correlations with disease activity and treatment response"
+        },
+        {
+          "title": "Accumulation of synovial fluid CD19+CD24hiCD27+ B cells was associated with bone destruction in rheumatoid arthritis"
+        },
+        {
+          "title": "Poster Session 3"
+        },
+        {
+          "title": "Loss of Gαq impairs regulatory B-cell function"
+        },
+        {
+          "title": "Restoration of regulatory B cell deficiency following alemtuzumab therapy in patients with relapsing multiple sclerosis"
+        }
+      ],
+      "right": [
+        {
+          "title": "Changes in Treg and Breg cells in a healthy pediatric population."
+        },
+        {
+          "title": "Regulatory B cells (CD19(+)CD38(hi)CD24(hi)) in alloimmunized and non-alloimmunized children with β-thalassemia major."
+        },
+        {
+          "title": "Circulating regulatory B cell subsets in patients with neuromyelitis optica spectrum disorders."
+        },
+        {
+          "title": "Regulatory B Cells Are Decreased and Functionally Impaired in Myasthenia Gravis Patients."
+        },
+        {
+          "title": "Frequency of CD19+CD24hiCD38hi regulatory B cells is decreased in peripheral blood and synovial fluid of patients with juvenile idiopathic arthritis: a preliminary study."
+        }
+      ]
+    },
+    {
+      "id": "q041",
+      "query": "For prehospital identification of sepsis by emergency medical services, how do qSOFA, NEWS2, and point-of-care lactate testing compare in diagnostic accuracy?",
+      "left": [
+        {
+          "title": "Sepsis triggers and tools to support early identification in healthcare settings: An integrative review."
+        },
+        {
+          "title": "Early Identification of Sepsis by Emergency Medical Services: Diagnostic Accuracy of Scoring Systems in a Retrospective Cohort."
+        },
+        {
+          "title": "Prehospital qSOFA, mSOFA, and NEWS2 performance for sepsis prediction: A prospective, multi-center, cohort study."
+        },
+        {
+          "title": "qSOFA Has Poor Sensitivity for Prehospital Identification of Severe Sepsis and Septic Shock."
+        },
+        {
+          "title": "Combination of Prehospital NT-proBNP with qSOFA and NEWS to Predict Sepsis and Sepsis-Related Mortality."
+        }
+      ],
+      "right": [
+        {
+          "title": "Prehospital prediction of clinical course in patients with suspected sepsis: a prospective cohort study"
+        },
+        {
+          "title": "Time for a prehospital-modified sequential organ failure assessment score: An ambulance-Based cohort study"
+        },
+        {
+          "title": "Prehospital qSOFA, mSOFA, and NEWS2 performance for sepsis prediction: A prospective, multi-center, cohort study"
+        },
+        {
+          "title": "Does lactate enhance the prognostic accuracy of the quick Sequential Organ Failure Assessment for adult patients with sepsis? A systematic review"
+        },
+        {
+          "title": "Head-to-head comparison of pre-hospital qSOFA and lactate-qSOFA for predicting sepsis in patients with and without suspected infection. A multicenter prospective cohort study"
+        }
+      ]
+    },
+    {
+      "id": "q042",
+      "query": "In patients with asymptomatic severe aortic stenosis, can early TAVR provide a true survival benefit compared with clinical surveillance? Which specific subgroups will receive a significant improvement in survival?",
+      "left": [
+        {
+          "title": "Cardiac Damage Staging in Valvular Heart Disease"
+        },
+        {
+          "title": "From Last Resort to Standard of Care: The Evolution and Future of Transcatheter Aortic Valve Implantation"
+        },
+        {
+          "title": "Cardiac Biomarkers in Patients With Asymptomatic Severe Aortic Stenosis: Analysis From the EARLY TAVR Trial"
+        },
+        {
+          "title": "Transcatheter Aortic Valve Replacement: Latest Advances and Prospects"
+        },
+        {
+          "title": "Asymptomatic Severe Aortic Stenosis and Noncardiac Surgery"
+        }
+      ],
+      "right": [
+        {
+          "title": "Transcatheter Aortic-Valve Replacement for Asymptomatic Severe Aortic Stenosis."
+        },
+        {
+          "title": "Timing of Aortic Valve Intervention in the Management of Aortic Stenosis."
+        },
+        {
+          "title": "Aortic Valve Replacement vs Clinical Surveillance in Asymptomatic Severe Aortic Stenosis: A Systematic Review and Meta-Analysis."
+        },
+        {
+          "title": "Early Intervention in Patients With Asymptomatic Severe Aortic Stenosis and Myocardial Fibrosis: The EVOLVED Randomized Clinical Trial."
+        },
+        {
+          "title": "Calcific Aortic Stenosis: A Review."
+        }
+      ]
+    },
+    {
+      "id": "q043",
+      "query": "In systemic lupus erythematosus with persistent or recurrent arthritis inadequately controlled on hydroxychloroquine, what does current guidance recommend after methotrexate or mycophenolic acid fail, and where do belimumab and anifrolumab fit in that sequence?",
+      "left": [
+        {
+          "title": "Systemic lupus erythematosus: one year in review 2024."
+        },
+        {
+          "title": "Persistence of clinical and serologic activity in patients with systemic lupus erythematosus undergoing peritoneal dialysis."
+        },
+        {
+          "title": "Kidney disease in systemic lupus erythematosus."
+        },
+        {
+          "title": "Pregnancy, chimerism and lupus nephritis: a multi-centre study."
+        },
+        {
+          "title": "Systemic lupus erythematosus disease activity index 2000."
+        }
+      ],
+      "right": [
+        {
+          "title": "10 Years of belimumab experience: What have we learnt?"
+        },
+        {
+          "title": "Real-World Use of Anifrolumab for Articular Involvement in Systemic Lupus Erythematosus: A Monocentric Case Series and Systematic Review"
+        },
+        {
+          "title": "Role of Anifrolumab in Refractory Cutaneous Manifestations of Lupus Erythematosus: A Case Series and Literature Review"
+        },
+        {
+          "title": "Combination Therapy With Voclosporin and Anifrolumab in Two Patients With Lupus Nephritis and Discoid Lupus Erythematosus"
+        },
+        {
+          "title": "06 Approved biologics for SLE: which to try first and in which patients? – The case for anifrolumab"
+        }
+      ]
+    },
+    {
+      "id": "q044",
+      "query": "Does transcatheter mitral valve repair provide symptomatic benefit comparable to surgical repair in patients with severe functional mitral regurgitation and heart failure?",
+      "left": [
+        {
+          "title": "Structural Interventions in Heart Failure: Mending a Broken Heart"
+        },
+        {
+          "title": "Year in Review 2023: Noteworthy Literature in Cardiac Anesthesiology"
+        },
+        {
+          "title": "The Pulse of Artificial Intelligence in Cardiology: A Comprehensive Evaluation of State-ofthe-art Large Language Models for Potential Use in Clinical Cardiology"
+        },
+        {
+          "title": "Cardiorenal Syndrome: An Updated Classification Based on Clinical Hallmarks"
+        },
+        {
+          "title": "The MATTERHORN trial: Percutaneous MitraClip vs surgical repair in heart-failure-related secondary mitral regurgitation"
+        }
+      ],
+      "right": [
+        {
+          "title": "Transcatheter mitral valve repair: a paradigm shift in mitral regurgitation treatment."
+        },
+        {
+          "title": "Mitral valve transcatheter edge-to-edge repair."
+        },
+        {
+          "title": "Transcatheter Mitral-Valve Repair in Patients with Heart Failure."
+        },
+        {
+          "title": "Transcatheter Mitral Valve Repair With MitraClip for Symptomatic Functional Mitral Valve Regurgitation."
+        },
+        {
+          "title": "Transcatheter Treatment of Valvular Heart Disease: A Review."
+        }
+      ]
+    },
+    {
+      "id": "q045",
+      "query": "What is the burden of calcific aortic valve disease and the unmet therapeutic need in low- and middle-income regions?",
+      "left": [
+        {
+          "title": "Bridging Knowledge Gaps in Low- and Middle-Income Countries: Valvular Heart Disease as a Model of Global Epidemiological Transition"
+        },
+        {
+          "title": "Clonal hematopoiesis activates procalcific pathways in macrophages and promotes aortic valve stenosis"
+        },
+        {
+          "title": "Making a difference: 5 years of Cardiac Surgery Intersociety Alliance (CSIA)"
+        },
+        {
+          "title": "Editorial: New insights in heart valve disease 2022"
+        },
+        {
+          "title": "Global Burden and Improvement Gap of Non-Rheumatic Calcific Aortic Valve Disease: 1990–2019 Findings from Global Burden of Disease Study 2019"
+        }
+      ],
+      "right": [
+        {
+          "title": "Global, Regional, and National Burden of Calcific Aortic Valve and Degenerative Mitral Valve Diseases, 1990-2017."
+        },
+        {
+          "title": "Calcific aortic valve disease augments vesicular microRNA-145-5p to regulate the calcification of valvular interstitial cells via cellular crosstalk."
+        },
+        {
+          "title": "Global epidemiology of valvular heart disease."
+        },
+        {
+          "title": "Sex-Specific Features of Calcific Aortic Valve Disease."
+        },
+        {
+          "title": "Contemporary Diagnosis and Treatment of Aortic Regurgitation: A State-of-the-Art Review."
+        }
+      ]
+    },
+    {
+      "id": "q046",
+      "query": "What human studies have been completed for use of Sodium-glucose cotransporter-2 inhibitors and risk of autoimmune rheumatic diseases?",
+      "left": [
+        {
+          "title": "SGLT-2 inhibitors for the prevention of autoimmune rheumatic diseases"
+        },
+        {
+          "title": "npj | metabolic health and disease Review"
+        },
+        {
+          "title": "SGLT2 inhibitors in autoimmune diseases: emerging therapeutic potential and clinical challenges"
+        },
+        {
+          "title": "Chronic kidney disease and inflammatory cytokines in rheumatoid arthritis: a potential pathogenic link"
+        },
+        {
+          "title": "Sodium-glucose cotransporter-2 inhibitors and risk of autoimmune rheumatic diseases: population based cohort study"
+        }
+      ],
+      "right": [
+        {
+          "title": "Comparative effectiveness of sodium-glucose cotransporter-2 inhibitors for recurrent nephrolithiasis among patients with pre-existing nephrolithiasis or gout: target trial emulation studies."
+        },
+        {
+          "title": "Sodium-glucose cotransporter protein-2 (SGLT-2) inhibitors and glucagon-like peptide-1 (GLP-1) receptor agonists for type 2 diabetes: systematic review and network meta-analysis of randomised controlled trials."
+        },
+        {
+          "title": "Effect of combination treatment with glucagon-like peptide-1 receptor agonists and sodium-glucose cotransporter-2 inhibitors on incidence of cardiovascular and serious renal events: population based cohort study."
+        },
+        {
+          "title": "Comparative Effectiveness of Individual Sodium-Glucose Cotransporter 2 Inhibitors."
+        },
+        {
+          "title": "Atrasentan in Patients with IgA Nephropathy."
+        }
+      ]
+    },
+    {
+      "id": "q047",
+      "query": "Can SGLT2 inhibitors delay the progression of early aortic valve calcification to stenosis?",
+      "left": [
+        {
+          "title": "Association of SGLT2 Inhibitors with Mortality and Bioprosthesis Valve Failure After TAVR: A Propensity-Matched Cohort Study"
+        },
+        {
+          "title": "Calcific Aortic Valve Stenosis: A Focal Disease in Older and Complex Patients—What Could Be the Best Time for an Appropriate Interventional Treatment?"
+        },
+        {
+          "title": "Sodium–Glucose Cotransporter 2 Inhibitors in Aortic Stenosis: Toward a Comprehensive Cardiometabolic Approach"
+        },
+        {
+          "title": "Nobiletin exhibits potent inhibition on tumor necrosis factor alpha‐induced calcification of human aortic valve interstitial cells via targeting ABCG2 and AKR1B1"
+        },
+        {
+          "title": "Assessing Potential Valve-Preserving Effects of SGLT2 Inhibitors in Degenerative Aortic Stenosis: A Propensity-Matched Study"
+        }
+      ],
+      "right": [
+        {
+          "title": "Renoprotective effects of sodium-glucose cotransporter-2 inhibitors."
+        },
+        {
+          "title": "Mineralocorticoid receptor antagonists and kidney diseases: pathophysiological basis."
+        },
+        {
+          "title": "EMPA-KIDNEY: expanding the range of kidney protection by SGLT2 inhibitors."
+        },
+        {
+          "title": "Ketoacidosis and SGLT2 Inhibitors: A Narrative Review."
+        },
+        {
+          "title": "Kidney fibrosis: from mechanisms to therapeutic medicines."
+        }
+      ]
+    },
+    {
+      "id": "q048",
+      "query": "Does left atrial appendage occlusion provide non-inferior stroke prevention compared to direct oral anticoagulants in atrial fibrillation patients with high bleeding risk?",
+      "left": [
+        {
+          "title": "Left atrial appendage occlusion vs standard of care in high stroke risk atrial fibrillation patients ineligible for anticoagulation: COMPARE-LAAO"
+        },
+        {
+          "title": "Real-world experience utilizing the nuvision 4D intracardiac echocardiography catheter for left atrial appendage closure"
+        },
+        {
+          "title": "Safety and efficacy of percutaneous Watchman 2.5 device versus Amplatzer Amulet for left atrial appendage closure in patients with non-valvular atrial fibrillation: A systematic review and study-level meta-analysis"
+        },
+        {
+          "title": "Management strategies for atrial fibrillation"
+        },
+        {
+          "title": "A systematic review of the use of 3D printing in left atrial appendage occlusion procedures"
+        }
+      ],
+      "right": [
+        {
+          "title": "Watchman FLX Implantation for Challenging Left Atrial Appendage Anatomy: Case-Based Discussion."
+        },
+        {
+          "title": "Left atrial appendage occlusion vs novel oral anticoagulation for stroke prevention in atrial fibrillation: rationale and design of the multicenter randomized occlusion-AF trial."
+        },
+        {
+          "title": "Left atrial appendage closure: a percutaneous transcatheter approach for stroke prevention in atrial fibrillation."
+        },
+        {
+          "title": "Percutaneous devices for left atrial appendage occlusion: A contemporary review."
+        },
+        {
+          "title": "Left atrial appendage occlusion: rationale, evidence, devices, and patient selection."
+        }
+      ]
+    },
+    {
+      "id": "q049",
+      "query": "What is the set of features that distinguishes bulbar-onset ALS from other forms of ALS?",
+      "left": [
+        {
+          "title": "Eighteen distinctive characteristics of life."
+        },
+        {
+          "title": "Mega-scale experimental analysis of protein folding stability in biology and design."
+        },
+        {
+          "title": "Spitz melanocytic tumours - a review."
+        },
+        {
+          "title": "Graph Influence Network."
+        },
+        {
+          "title": "Recording physiological history of cells with chemical labeling."
+        }
+      ],
+      "right": [
+        {
+          "title": "Amyotrophic Lateral Sclerosis (ALS) Genetics and Microbiota: A Comprehensive Review"
+        },
+        {
+          "title": "Clinical and genetic heterogeneity of amyotrophic lateral sclerosis"
+        },
+        {
+          "title": "Advances in motor neurone disease"
+        },
+        {
+          "title": "Amyotrophic Lateral Sclerosis: Advances in Diagnosis, Pathophysiology, and Emerging Therapeutic Strategies"
+        },
+        {
+          "title": "Overstimulation of the inhibitory nervous system plays a role in the pathogenesis of neuromuscular and neurological diseases: a novel hypothesis"
+        }
+      ]
+    },
+    {
+      "id": "q050",
+      "query": "What relative amount of cytokines in circulation are free in the blood versus within blood-borne exosomes?",
+      "left": [
+        {
+          "title": "Tissue Factor: A Critical Role in Inflammation and Cancer"
+        },
+        {
+          "title": "Current Mechanistic Understandings of Lymphedema and Lipedema: Tales of Fluid, Fat, and Fibrosis"
+        },
+        {
+          "title": "Exosomes Derived From Septic Mouse Serum Modulate Immune Responses via Exosome-Associated Cytokines"
+        },
+        {
+          "title": "Emerging Prospects of Exosomes for Cancer Treatment: From Conventional Therapy to Immunotherapy"
+        },
+        {
+          "title": "Tumor microenvironmental cytokines bound to cancer exosomes determine uptake by cytokine receptor-expressing cells and biodistribution"
+        }
+      ],
+      "right": [
+        {
+          "title": "Cytokines and soluble receptors of the interleukin-1 family in Schnitzler syndrome."
+        },
+        {
+          "title": "Peripheral blood biomarkers associated with combination of immune checkpoint blockade plus chemotherapy in NSCLC."
+        },
+        {
+          "title": "Cell-free DNA from human plasma and serum differs in content of telomeric sequences and its ability to promote immune response."
+        },
+        {
+          "title": "IL-1 family cytokines and receptors in IgG4-related disease."
+        },
+        {
+          "title": "Circulating cytokines, chemokines and adhesion molecules in normal pregnancy and preeclampsia determined by multiplex suspension array."
+        }
+      ]
+    },
+    {
+      "id": "q051",
+      "query": "What are the B cell receptor (BCR) sequence characteristics of ACPA-positive B cells?",
+      "left": [
+        {
+          "title": "Induced B cell receptor diversity predicts PD-1 blockade immunotherapy response."
+        },
+        {
+          "title": "B-cell receptor repertoire sequencing in patients with primary immunodeficiency: a review."
+        },
+        {
+          "title": "Single-cell transcriptome profiling of an adult human cell atlas of 15 major organs."
+        },
+        {
+          "title": "Induced B-Cell Receptor Diversity Predicts PD-1 Blockade Immunotherapy Response."
+        },
+        {
+          "title": "[A review of progress in B cell receptor (BCR) antigen specificity]."
+        }
+      ],
+      "right": [
+        {
+          "title": "Windows for intervention in the prearthritis phase of rheumatoid arthritis? A narrative review of key triggering events and potential preventive strategies"
+        },
+        {
+          "title": "Journal Pre-proof B cells in rheumatoid arthritis synovial tissues encode focused antibody repertoires that include antibodies that stimulate macrophage TNF-α production"
+        },
+        {
+          "title": "MicroRNA-155 influences B-cell function through PU.1 in rheumatoid arthritis"
+        },
+        {
+          "title": "Which patients presenting with arthralgia eventually develop rheumatoid arthritis? The current state of the art"
+        },
+        {
+          "title": "N-Glycosylation Site Analysis of Citrullinated Antigen-Specific B-Cell Receptors Indicates Alternative Selection Pathways During Autoreactive B-Cell Development"
+        }
+      ]
+    },
+    {
+      "id": "q052",
+      "query": "what clinical trials have studied effects of immune checkpoint inhibitors in patients with metastatic cancers?",
+      "left": [
+        {
+          "title": "Successful administration of sequential TVEC and pembrolizumab followed by Temozolomide in immunotherapy refractory intracranial metastatic melanoma with acquired B2M mutation"
+        },
+        {
+          "title": "Management of pheochromocytomas and paragangliomas: Review of current diagnosis and treatment options"
+        },
+        {
+          "title": "Clinical Development of Immune Checkpoint Inhibitors"
+        },
+        {
+          "title": "Distinct gene expression profiles between primary breast cancers and brain metastases from pair-matched samples"
+        },
+        {
+          "title": "Assessment of Treatment Effects and Long-term Benefits in Immune Checkpoint Inhibitor Trials Using the Flexible Parametric Cure Model : A Systematic Review"
+        }
+      ],
+      "right": [
+        {
+          "title": "Effect of Pembrolizumab Plus Neoadjuvant Chemotherapy on Pathologic Complete Response in Women With Early-Stage Breast Cancer: An Analysis of the Ongoing Phase 2 Adaptively Randomized I-SPY2 Trial."
+        },
+        {
+          "title": "Neoadjuvant Pembrolizumab in Localized Microsatellite Instability High/Deficient Mismatch Repair Solid Tumors."
+        },
+        {
+          "title": "A prospective study of neoadjuvant pembrolizumab plus chemotherapy for resectable esophageal squamous cell carcinoma: The Keystone-001 trial."
+        },
+        {
+          "title": "Metastatic Melanoma Treatment in Special Populations."
+        },
+        {
+          "title": "Neoadjuvant Nivolumab Plus Chemotherapy Followed By Response-Adaptive Therapy for HPV+ Oropharyngeal Cancer: OPTIMA II Phase 2 Open-Label Nonrandomized Controlled Trial."
+        }
+      ]
+    },
+    {
+      "id": "q053",
+      "query": "How is metal ion balance in the CNS related to Alzheimer's disease progression?",
+      "left": [
+        {
+          "title": "Magnesium homeostasis in cattle: absorption and excretion."
+        },
+        {
+          "title": "Effect of metal ions on Alzheimer's disease."
+        },
+        {
+          "title": "Exploring and Targeting the Connection of Iron and Copper Homeostasis to Neurodegenerative Diseases."
+        },
+        {
+          "title": "Neuro MR: protocols."
+        },
+        {
+          "title": "The Important Role of Zinc in Neurological Diseases."
+        }
+      ],
+      "right": [
+        {
+          "title": "Molecular Mechanisms and Genetics of Oxidative Stress in Alzheimer’s Disease"
+        },
+        {
+          "title": "Metals and Alzheimer's disease"
+        },
+        {
+          "title": "Current understanding of metal ions in the pathogenesis of Alzheimer’s disease"
+        },
+        {
+          "title": "Metals in medicine: unlocking new avenues for neurodegenerative disease treatment"
+        },
+        {
+          "title": "Toward a Unified Framework in Molecular Neurobiology of Alzheimer's Disease: Revisiting the Pathophysiological Hypotheses"
+        }
+      ]
+    },
+    {
+      "id": "q054",
+      "query": "What are the various definitions of sepsis, and which is the most clinically up-to-date?",
+      "left": [
+        {
+          "title": "The evolution of mortality from sepsis in patients with cancer: A systematic review and meta-analysis"
+        },
+        {
+          "title": "Vasoactive Agents for Adult Septic Shock: An Update and Review"
+        },
+        {
+          "title": "The Pathogenesis of Sepsis and Potential Therapeutic Targets"
+        },
+        {
+          "title": "SOFA Score, Hemodynamics and Body Temperature Allow Early Discrimination between Porcine Peritonitis-Induced Sepsis and Peritonitis-Induced Septic Shock"
+        },
+        {
+          "title": "Biomarkers in Sepsis: A Current Review of New Technologies"
+        }
+      ],
+      "right": [
+        {
+          "title": "Pathogenic, immunologic, and clinical aspects of sepsis - update 2016."
+        },
+        {
+          "title": "Pancreaticojejunostomy is comparable to pancreaticogastrostomy after pancreaticoduodenectomy: an updated meta-analysis of randomized controlled trials."
+        },
+        {
+          "title": "Invasive Ventilatory Support in Patients With Pediatric Acute Respiratory Distress Syndrome: From the Second Pediatric Acute Lung Injury Consensus Conference."
+        },
+        {
+          "title": "Abdominal Sepsis - Current Definitions and Practice."
+        },
+        {
+          "title": "Clinical Practice Guidelines by Infectious Diseases Society of America: 2025 Guideline on Management and Treatment of Complicated Urinary Tract Infections-Selection of Antibiotic Therapy for Complicated Urinary Tract Infections."
+        }
+      ]
+    },
+    {
+      "id": "q055",
+      "query": "What kinds of mineral or micronutrient deficiencies affect the functioning of innate immune cells?",
+      "left": [
+        {
+          "title": "Mechanisms and Therapeutic Potential of Nutritional Immunity"
+        },
+        {
+          "title": "Pyridoxine, folate, and cobalamin and the condition of the innate and acquired immunity"
+        },
+        {
+          "title": "Micro nutrients as immunomodulators in the ageing population: a focus on inflammation and autoimmunity"
+        },
+        {
+          "title": "Current perspectives on malnutrition and immunomodulators bridging nutritional deficiencies and immune health"
+        },
+        {
+          "title": "Immunostimulatory Effects of Korean Mineral-Rich Seawaters on Cyclophosphamide-Induced Immunosuppression in Mice"
+        }
+      ],
+      "right": [
+        {
+          "title": "Osteoporosis: A role for lipids."
+        },
+        {
+          "title": "Nutrition impact on ILC3 maintenance and function centers on a cell-intrinsic CD71-iron axis."
+        },
+        {
+          "title": "Fibrogenesis."
+        },
+        {
+          "title": "Micronutrients Importance in Cancer Prevention-Minerals."
+        },
+        {
+          "title": "The marriage of immunomodulatory, angiogenic, and osteogenic capabilities in a piezoelectric hydrogel tissue engineering scaffold for military medicine."
+        }
+      ]
+    },
+    {
+      "id": "q056",
+      "query": "How often do randomised controlled trial results concord or discord with emulated target trials using observational data, per recent systematic reviews and meta-analyses?",
+      "left": [
+        {
+          "title": "Timing of Initiation of Renal-Replacement Therapy in Acute Kidney Injury."
+        },
+        {
+          "title": "Effect of Vancomycin or Daptomycin With vs Without an Antistaphylococcal β-Lactam on Mortality, Bacteremia, Relapse, or Treatment Failure in Patients With MRSA Bacteremia: A Randomized Clinical Trial."
+        },
+        {
+          "title": "First-Line Treatment of Patients With Indolent Non-Hodgkin Lymphoma or Mantle-Cell Lymphoma With Bendamustine Plus Rituximab Versus R-CHOP or R-CVP: Results of the BRIGHT 5-Year Follow-Up Study."
+        },
+        {
+          "title": "Glofitamab Combined With Pola-R-CHP or R-CHOP as First Therapy in Younger Patients With High-Risk Large B-Cell Lymphoma: Results From the COALITION Study."
+        },
+        {
+          "title": "Continuous glucose monitoring in noninsulin-treated type 2 diabetes: A critical review of reported trials with an updated systematic review and meta-analysis of randomised controlled trials."
+        }
+      ],
+      "right": [
+        {
+          "title": "How should randomised trials including multiple pregnancies be analysed?"
+        },
+        {
+          "title": "Concordance between target trial emulation and randomised controlled trials: systematic review and meta-analysis"
+        },
+        {
+          "title": "Investigation and Care of a Small‐for‐Gestational‐Age Fetus and a Growth Restricted Fetus (Green‐top Guideline No. 31)"
+        },
+        {
+          "title": "Improving reporting of observational studies of interventions: The TARGET guideline"
+        },
+        {
+          "title": "Diabetes and anti-diabetic interventions and the risk of gynaecological and obstetric morbidity: an umbrella review of the literature"
+        }
+      ]
+    },
+    {
+      "id": "q057",
+      "query": "Does combining lactoferrin with conventional antibiotics improve biofilm eradication compared to antibiotics alone?",
+      "left": [
+        {
+          "title": "Synergistic effects of LFchimera and antibiotic against planktonic and biofilm form of Aggregatibacter actinomycetemcomitans."
+        },
+        {
+          "title": "Considerations in the pharmacologic treatment and prevention of neonatal sepsis."
+        },
+        {
+          "title": "Synergistic activity of synthetic N-terminal peptide of human lactoferrin in combination with various antibiotics against carbapenem-resistant Klebsiella pneumoniae strains."
+        },
+        {
+          "title": "Synergistic Activity of the Human Lactoferricin-Derived Peptide hLF1-11 in Combination with Caspofungin against Candida Species."
+        },
+        {
+          "title": "Bactericidal synergy of lysostaphin in combination with antimicrobial peptides."
+        }
+      ],
+      "right": [
+        {
+          "title": "Synergistic effects of LFchimera and antibiotic against planktonic and biofilm form of Aggregatibacter actinomycetemcomitans"
+        },
+        {
+          "title": "Abstracts: International Society for Aerosols in Medicine e.V. 20th ISAM Congress Munich Holiday Inn-City Center, Germany May 30–June 3, 2015"
+        },
+        {
+          "title": "Antimicrobial Peptides Derived From Insects Offer a Novel Therapeutic Option to Combat Biofilm: A Review"
+        },
+        {
+          "title": "Benefits of Combined Phage–Antibiotic Therapy for the Control of Antibiotic-Resistant Bacteria: A Literature Review"
+        },
+        {
+          "title": "Recent Advancements in Development and Characterization of Phages Targeting Helicobacter pylori"
+        }
+      ]
+    },
+    {
+      "id": "q058",
+      "query": "In randomized trials of relapsing multiple sclerosis, how is annualized relapse rate typically defined and measured as a primary endpoint, and what eligibility criteria around prior disease-modifying therapy are commonly used?",
+      "left": [
+        {
+          "title": "Ofatumumab versus Teriflunomide in Multiple Sclerosis."
+        },
+        {
+          "title": "Multiple sclerosis: time for early treatment with high-efficacy drugs."
+        },
+        {
+          "title": "Ublituximab versus Teriflunomide in Relapsing Multiple Sclerosis."
+        },
+        {
+          "title": "Tolebrutinib versus Teriflunomide in Relapsing Multiple Sclerosis."
+        },
+        {
+          "title": "Ocrelizumab versus Interferon Beta-1a in Relapsing Multiple Sclerosis."
+        }
+      ],
+      "right": [
+        {
+          "title": "Efficacy and Safety of Ponesimod Compared with Teriflunomide in Female Patients with Relapsing Multiple Sclerosis: Findings from the Pivotal OPTIMUM Study"
+        },
+        {
+          "title": "Relating relapse and T2 lesion changes to disability progression in multiple sclerosis: a systematic literature review and regression analysis"
+        },
+        {
+          "title": "Do MRI-negative relapses really exist? No"
+        },
+        {
+          "title": "Correlates and trajectories of relapses in relapsing–remitting multiple sclerosis"
+        },
+        {
+          "title": "Assessing changes in relapse rates in multiple sclerosis"
+        }
+      ]
+    },
+    {
+      "id": "q059",
+      "query": "What are all the potential side effects from taking rituximab?",
+      "left": [
+        {
+          "title": "Legionellosis and biologic therapies."
+        },
+        {
+          "title": "Systemic therapy emergencies."
+        },
+        {
+          "title": "Safety and efficacy of rituximab in neuromyelitis optica spectrum disorders (RIN-1 study): a multicentre, randomised, double-blind, placebo-controlled trial."
+        },
+        {
+          "title": "Post-transplant lymphoproliferative disorder: Update on treatment and novel therapies."
+        },
+        {
+          "title": "[Autoimmune bullous skin disorders]."
+        }
+      ],
+      "right": [
+        {
+          "title": "Biologic Therapies in Autoimmune Diseases: A Review of Clinical Efficacy and Safety Trends"
+        },
+        {
+          "title": "Simplified regimen of combined low-dose rituximab for autoimmune encephalitis with neuronal surface antibodies"
+        },
+        {
+          "title": "Effectiveness and side effects of anti-CD20 therapy for autoantibody-mediated blistering skin diseases: A comprehensive survey of 71 consecutive patients from the Initial use to 2007"
+        },
+        {
+          "title": "Rituximab for treatment of ocular inflammatory disease: a series of four cases"
+        },
+        {
+          "title": "Monoclonal Antibody Therapy and Renal Transplantation: Focus on Adverse Effects"
+        }
+      ]
+    },
+    {
+      "id": "q060",
+      "query": "How do Chinese and Japanese (J-SSCG) clinical practice guidelines for sepsis and septic shock compare in their screening and diagnostic recommendations?",
+      "left": [
+        {
+          "title": "Older adult care efficiency and health outcomes: a meta-analysis of the Chinese and Japanese experiences."
+        },
+        {
+          "title": "Gut microbiota in Chinese and Japanese patients with cardiovascular diseases: a systematic review and meta-analysis."
+        },
+        {
+          "title": "Menopausal symptoms among Chinese and Japanese women: differences and similarities."
+        },
+        {
+          "title": "Tea Polyphenols in Promotion of Human Health."
+        },
+        {
+          "title": "Non-immunosuppressive treatment for IgA nephropathy."
+        }
+      ],
+      "right": [
+        {
+          "title": "New avenues of sepsis research: obtaining perspective by analyzing and comparing SSCG 2021 and J-SSCG 2020"
+        },
+        {
+          "title": "Nationwide survey of adherence to the Japanese Clinical Practice Guidelines for Management of Sepsis and Septic Shock 2024 in the initial management of sepsis"
+        },
+        {
+          "title": "The Japanese Clinical Practice Guidelines for Management of Sepsis and Septic Shock 2016 (J-SSCG 2016)"
+        },
+        {
+          "title": "Impact of the Japanese clinical practice guidelines for management of sepsis and septic shock (J-SSCG) 2020 on real-world adherence and interhospital variation: a nationwide inpatient database study"
+        },
+        {
+          "title": "The Japanese Clinical Practice Guidelines for Management of Sepsis and Septic Shock 2020 (J-SSCG 2020)"
+        }
+      ]
+    },
+    {
+      "id": "q061",
+      "query": "Does global longitudinal strain by echocardiography predict symptom onset in asymptomatic severe aortic stenosis better than left ventricular ejection fraction?",
+      "left": [
+        {
+          "title": "Reduced global longitudinal strain in association to increased left ventricular mass in patients with aortic valve stenosis and normal ejection fraction: a hybrid study combining echocardiography and magnetic resonance imaging."
+        },
+        {
+          "title": "Stress Echocardiography and Strain in Aortic Regurgitation (SESAR protocol): Left ventricular contractile reserve and myocardial work in asymptomatic patients with severe aortic regurgitation."
+        },
+        {
+          "title": "The Association Between Longitudinal Strain at Rest and Stress and Outcome in Asymptomatic Patients With Moderate and Severe Aortic Stenosis."
+        },
+        {
+          "title": "Multiparametric Strategy to Predict Early Disease Decompensation in Asymptomatic Severe Aortic Regurgitation."
+        },
+        {
+          "title": "Association of Left Ventricular Global Longitudinal Strain With Asymptomatic Severe Aortic Stenosis: Natural Course and Prognostic Value."
+        }
+      ],
+      "right": [
+        {
+          "title": "Stress echocardiography in patients with native valvular heart disease"
+        },
+        {
+          "title": "First-phase ejection fraction: association with remodelling and outcome in aortic valve stenosis"
+        },
+        {
+          "title": "Segmentally impaired left ventricular longitudinal strain: a new predictive diagnostic parameter for asymptomatic patients with severe aortic stenosis and preserved ejection fraction"
+        },
+        {
+          "title": "Meet the editors"
+        },
+        {
+          "title": "Echocardiographic findings on aortic stenosis: an observational, prospective, and multi-center registry"
+        }
+      ]
+    },
+    {
+      "id": "q062",
+      "query": "Does achieving an LDL cholesterol target below 55 mg/dL provide additional cardiovascular benefit compared to below 70 mg/dL in secondary prevention?",
+      "left": [
+        {
+          "title": "Optimal Target Level of Low-density Lipoprotein Cholesterol for Vascular Function in Statin Naïve Individuals"
+        },
+        {
+          "title": "Lipid-lowering therapy: Evidence and future perspective"
+        },
+        {
+          "title": "Revisiting secondary prevention in coronary heart disease"
+        },
+        {
+          "title": "Management of Hyperlipidemia in Older Adults"
+        },
+        {
+          "title": "Lipid Lowering Drugs: Present Status and Future Developments"
+        }
+      ],
+      "right": [
+        {
+          "title": "Plozasiran (ARO-APOC3) for Severe Hypertriglyceridemia: The SHASTA-2 Randomized Clinical Trial."
+        },
+        {
+          "title": "The COR Lipid Registry: the effectiveness of the strike early and strike strong strategy in patients with high cardiovascular risk."
+        },
+        {
+          "title": "How low an LDL-C should we go with statin therapy?"
+        },
+        {
+          "title": "The benefit of LDL-C levels below 55 mg/dL in ESKD patients under statin treatment: A target trial emulation study."
+        },
+        {
+          "title": "Efficacy of single-dose evolocumab injection in early-phase acute myocardial infarction: a retrospective single-center study."
+        }
+      ]
+    },
+    {
+      "id": "q063",
+      "query": "How does astrocyte glucose metabolism during neuroinflammation differ from neuronal glucose metabolism?",
+      "left": [
+        {
+          "title": "Fueling Alzheimer’s Disease: Where Does Immunometabolism Stand?"
+        },
+        {
+          "title": "Molecular Mechanisms of Neuroimmune Crosstalk in the Pathogenesis of Stroke"
+        },
+        {
+          "title": "Metabolic Reprogramming of Astrocytes in Pathological Conditions: Implications for Neurodegenerative Diseases"
+        },
+        {
+          "title": "Astrocyte-Neuron Metabolic Crosstalk in Neurodegeneration: A Mitochondrial Perspective"
+        },
+        {
+          "title": "The Role of Glial Fibrillary Acidic Protein in the Neuropathology of Alzheimer’s Disease and Its Potential as a Blood Biomarker for Early Diagnosis and Progression"
+        }
+      ],
+      "right": [
+        {
+          "title": "Biological Functions and Regulatory Mechanisms of Hypoxia-Inducible Factor-1α in Ischemic Stroke."
+        },
+        {
+          "title": "Neurotoxic and cytoprotective mechanisms in the ischemic neocortex."
+        },
+        {
+          "title": "Lactate as a supplemental fuel for synaptic transmission and neuronal network oscillations: Potentials and limitations."
+        },
+        {
+          "title": "Glucose transport in brain - effect of inflammation."
+        },
+        {
+          "title": "Restoration of glucose metabolic homeostasis for treating CNS diseases: mechanistic insights and potential clinical prospect."
+        }
+      ]
+    },
+    {
+      "id": "q064",
+      "query": "Does hydroxychloroquine use modify lymphoma risk in patients with systemic lupus erythematosus?",
+      "left": [
+        {
+          "title": "Natural and iatrogenic ocular manifestations of rheumatoid arthritis: a systematic review."
+        },
+        {
+          "title": "Bridging the Gap in Sjögren's Disease: A Comprehensive Review of Unmet Needs, Diagnostic Challenges, and Emerging Therapeutic Strategies."
+        },
+        {
+          "title": "Childhood Sjögren's Disease: A Literature Review of an Underrecognized Autoimmune Entity in Pediatric Rheumatology."
+        },
+        {
+          "title": "Remitting seronegative symmetrical synovitis with pitting edema syndrome in a rural tertiary care practice: a retrospective analysis."
+        },
+        {
+          "title": "Safety of synthetic and biological DMARDs: a systematic literature review informing the 2013 update of the EULAR recommendations for management of rheumatoid arthritis."
+        }
+      ],
+      "right": [
+        {
+          "title": "Endobronchial carcinoid presenting as Focal bronchiectasis in a young woman with systemic lupus erythematosus"
+        },
+        {
+          "title": "Study of Anti-Malarials in Incomplete Lupus Erythematosus (SMILE): study protocol for a randomized controlled trial"
+        },
+        {
+          "title": "The relationship between cancer and medication exposure in patients with systemic lupus erythematosus: a nested case-control study"
+        },
+        {
+          "title": "An observational study to identify causative factors for not using hydroxychloroquine in systemic lupus erythematosus"
+        },
+        {
+          "title": "The Relevance of Antimalarial Therapy with Regard to Thrombosis, Hypercholesterolemia and Cytokines in SLE"
+        }
+      ]
+    },
+    {
+      "id": "q065",
+      "query": "Does iron accumulation in the substantia nigra promote alpha-synuclein aggregation in Parkinson's disease?",
+      "left": [
+        {
+          "title": "High Dietary Iron Supplement Induces the Nigrostriatal Dopaminergic Neurons Lesion in Transgenic Mice Expressing Mutant A53T Human Alpha-Synuclein"
+        },
+        {
+          "title": "Magnetic Resonance Imaging (MRI) to Study Striatal Iron Accumulation in a Rat Model of Parkinson’s Disease"
+        },
+        {
+          "title": "Addition of Exogenous α-Synuclein Oligomer up-regulates Divalent Metal Transporter-1 and Ferroportin-1 in BV2 Glial Cell Lines"
+        },
+        {
+          "title": "Book Review: Iron and Parkinson’s Disease"
+        },
+        {
+          "title": "Exploring the Potential of Antidiabetic Agents as Therapeutic Approaches for Alzheimer's and Parkinson's Diseases: A Comprehensive Review"
+        }
+      ],
+      "right": [
+        {
+          "title": "Nigrostriatal dopaminergic vulnerability in Parkinson's disease: Neuroprotective strategies."
+        },
+        {
+          "title": "Structural Insights of Fe3+ Induced α-synuclein Fibrillation in Parkinson's Disease."
+        },
+        {
+          "title": "The neurotoxicity of iron, copper and manganese in Parkinson's and Wilson's diseases."
+        },
+        {
+          "title": "Interleukin-6 triggers toxic neuronal iron sequestration in response to pathological α-synuclein."
+        },
+        {
+          "title": "Ferroptosis in Parkinson's disease: a review of molecular mechanisms and emerging therapeutic strategies."
+        }
+      ]
+    },
+    {
+      "id": "q066",
+      "query": "In the Surviving Sepsis Campaign 2021 guidelines, why was qSOFA not recommended as a single screening tool, and how does this compare with NICE and Sepsis-3 screening criteria?",
+      "left": [
+        {
+          "title": "Review: sepsis guidelines and core measure bundles."
+        },
+        {
+          "title": "Surviving Sepsis After Burn Campaign."
+        },
+        {
+          "title": "Beyond the Surviving Sepsis Campaign Guidelines: a systematic review of interventions affecting mortality in sepsis."
+        },
+        {
+          "title": "Nursing Implications of the Updated 2021 Surviving Sepsis Campaign Guidelines."
+        },
+        {
+          "title": "Surviving Sepsis Campaign Guidelines 2021: highlights for the practicing clinician."
+        }
+      ],
+      "right": [
+        {
+          "title": "Does Prehospital Suspicion of Sepsis Shorten Time to Administration of Antibiotics in the Emergency Department? A Retrospective Study in One University Hospital"
+        },
+        {
+          "title": "The prognostic utility of prehospital qSOFA in addition to emergency department qSOFA for sepsis in patients with suspected infection: A retrospective cohort study"
+        },
+        {
+          "title": "Optical Bionanosensors for Sepsis Diagnostics"
+        },
+        {
+          "title": "Application Prospect of the SOFA Score and Related Modification Research Progress in Sepsis"
+        },
+        {
+          "title": "Early warning scores for sepsis identification and prediction of in‐hospital mortality in adults with sepsis: A systematic review and meta‐analysis"
+        }
+      ]
+    },
+    {
+      "id": "q067",
+      "query": "In ischemia-reperfusion injury, is microvascular integrity, rather than cardiomyocyte death, the key determinant of final infarct size?",
+      "left": [
+        {
+          "title": "Cardioprotection: A Review of Current Practice in Global Ischemia and Future Translational Perspective"
+        },
+        {
+          "title": "Microvascular Alterations After Temporary Coronary Artery Occlusion: The No-Reflow Phenomenon"
+        },
+        {
+          "title": "Mitochondrial Quality Control: Role in Cardiac Models of Lethal Ischemia-Reperfusion Injury"
+        },
+        {
+          "title": "Low Density Lipoprotein Receptor-Related Protein-1 in Cardiac Inflammation and Infarct Healing"
+        },
+        {
+          "title": "Ischemic Cardiomyopathy and Heart Failure After Acute Myocardial Infarction"
+        }
+      ],
+      "right": [
+        {
+          "title": "CU06-1004 enhances vascular integrity and improves cardiac remodeling by suppressing edema and inflammation in myocardial ischemia-reperfusion injury."
+        },
+        {
+          "title": "Oxycodone protects cardiac microvascular endothelial cells against ischemia/reperfusion injury by binding to Sigma-1 Receptor."
+        },
+        {
+          "title": "Protective Effect of Nicorandil on Cardiac Microvascular Injury: Role of Mitochondrial Integrity."
+        },
+        {
+          "title": "Lycopene protects against myocardial ischemia-reperfusion injury by inhibiting FABP3-mediated pyroptosis in cardiac microvascular endothelial cells."
+        },
+        {
+          "title": "Myocardial Ischemia-Reperfusion Injury-Mechanistic Insights and Novel Therapeutics."
+        }
+      ]
+    },
+    {
+      "id": "q068",
+      "query": "What is the effect of abatacept on T follicular helper cell frequency in rheumatoid arthritis patients?",
+      "left": [
+        {
+          "title": "Diminished responses to mRNA-based SARS-CoV-2 vaccines in individuals with rheumatoid arthritis on immune-modifying therapies"
+        },
+        {
+          "title": "CTLA4-Ig (abatacept) therapy modulates T cell effector functions in autoantibody-positive rheumatoid arthritis patients"
+        },
+        {
+          "title": "Interleukin-10-producing LAG3+ regulatory T cells are associated with disease activity and abatacept treatment in rheumatoid arthritis"
+        },
+        {
+          "title": "Role of abatacept in the prevention of graft-versus-host disease: current perspectives"
+        },
+        {
+          "title": "The effect of abatacept on T-cell activation is not long-lived in vivo"
+        }
+      ],
+      "right": [
+        {
+          "title": "Selective CD28 Blockade Results in Superior Inhibition of Donor-Specific T Follicular Helper Cell and Antibody Responses Relative to CTLA4-Ig."
+        },
+        {
+          "title": "Control of Humoral Response in Renal Transplantation by Belatacept Depends on a Direct Effect on B Cells and Impaired T Follicular Helper-B Cell Crosstalk."
+        },
+        {
+          "title": "Abatacept limits breach of self-tolerance in a murine model of arthritis via effects on the generation of T follicular helper cells."
+        },
+        {
+          "title": "IgG4-Related Disease: Beyond Glucocorticoids."
+        },
+        {
+          "title": "Abatacept as a Long-Term Targeted Therapy for LRBA Deficiency."
+        }
+      ]
+    },
+    {
+      "id": "q069",
+      "query": "Does the CHA2DS2-VASc score adequately predict stroke risk in patients with atrial fibrillation and hypertrophic cardiomyopathy?",
+      "left": [
+        {
+          "title": "Using the CHA2DS2-VASc score for refining stroke risk stratification in 'low-risk' Asian patients with atrial fibrillation."
+        },
+        {
+          "title": "Atrial Fibrillation and Cancer."
+        },
+        {
+          "title": "Stroke Risk Perception in Atrial Fibrillation Patients is not Associated with Clinical Stroke Risk."
+        },
+        {
+          "title": "CHA2DS2-Vasc score, age and body mass index as the main risk factors of hyperintense brain lesions in asymptomatic patients with paroxysmal non-valvular atrial fibrillation."
+        },
+        {
+          "title": "Feasibility, procedural efficiency, and early imaging outcomes of concomitant pulsed field ablation and left atrial appendage closure: a prospective single-centre study."
+        }
+      ],
+      "right": [
+        {
+          "title": "CHA₂DS₂-VAS_C Clinical Score to Predict In-Stent Restenosis"
+        },
+        {
+          "title": "CHA2DS2-VASc score for prediction of ischemic stroke in patients with systemic lupus erythematosus without atrial fibrillation"
+        },
+        {
+          "title": "Preadmission CHA2DS2-VASc Scores on Diastolic Function and Functional Outcome After Stroke with Nonvalvular Atrial Fibrillation"
+        },
+        {
+          "title": "Association of CHADS2 and CHA2DS2-VASc Scores with Left Atrial Thrombus with Nonvalvular Atrial Fibrillation: A Single Center Based Retrospective Study in a Cohort of 2695 Chinese Subjects"
+        },
+        {
+          "title": "Cheating the CHA2DS2-VASc Score: Thromboembolism in Apical Hypertrophic Cardiomyopathy"
+        }
+      ]
+    },
+    {
+      "id": "q070",
+      "query": "How does paravalvular leak severity after TAVR affect long-term mortality?",
+      "left": [
+        {
+          "title": "Influence of baseline ejection fraction on the prognostic value of paravalvular leak after transcatheter aortic valve implantation."
+        },
+        {
+          "title": "Paravalvular Leak Leading to Severe Aortic Valve Regurgitation after TAVI: Percutaneous Closure Strategy."
+        },
+        {
+          "title": "Paravalvular leak prediction after transcatheter aortic valve replacement with self-expandable prosthesis based on quantitative aortic calcification analysis."
+        },
+        {
+          "title": "Impact of Short-Term Complications on Mortality and Quality of Life After Transcatheter Aortic Valve Replacement."
+        },
+        {
+          "title": "Left ventricular remodeling following transcatheter versus surgical aortic valve replacement: a speckle tracking study."
+        }
+      ],
+      "right": [
+        {
+          "title": "Time for a More Sophisticated Approach for Young Aortic Stenosis Patients"
+        },
+        {
+          "title": "Transcatheter Closure of a Paravalvular Leak After Transcatheter Aortic Valve Replacement With 3-Dimensional Printing Guidance: A Case Report"
+        },
+        {
+          "title": "Minimally Invasive Versus Transcatheter Aortic Valve Replacement: An Updated Meta-Analysis and Systematic Review"
+        },
+        {
+          "title": "Current issues in transcatheter aortic valve replacement"
+        },
+        {
+          "title": "Overcoming the transcatheter aortic valve replacement Achilles heel: paravalvular leak"
+        }
+      ]
+    },
+    {
+      "id": "q071",
+      "query": "In a phase 2 trial of frexalimab for multiple sclerosis, what was the effect on disability (EDSS) and MRI outcomes at 12 weeks, and what safety limitations were noted?",
+      "left": [
+        {
+          "title": "3461 Acute painful polyneuropathy as an atypical presentation of aortoiliac arterial stenosis"
+        },
+        {
+          "title": "The role of microglia in multiple sclerosis: implications for treatment with Bruton’s tyrosine kinase inhibitors"
+        },
+        {
+          "title": "3462 Safety and efficacy of frexalimab from the phase 2 open-label extension in participants with relapsing multiple sclerosis: 2-year results"
+        },
+        {
+          "title": "ECTRIMS 2024 – Oral Presentations"
+        },
+        {
+          "title": "The 18th World Congress on Controversies in Neurology March 21-23, 2024 - London, UK"
+        }
+      ],
+      "right": [
+        {
+          "title": "Artificial Intelligence for Clinical Trial Design."
+        },
+        {
+          "title": "Phase 2 trial design in neuro-oncology revisited: a report from the RANO group."
+        },
+        {
+          "title": "Huntington's disease clinical trials update: March 2025."
+        },
+        {
+          "title": "An Overview of Phase 2 Clinical Trial Designs."
+        },
+        {
+          "title": "Parkinson's Disease Drug Therapies in the Clinical Trial Pipeline: 2024 Update."
+        }
+      ]
+    },
+    {
+      "id": "q072",
+      "query": "Does clonal relatedness exist between synovial B cells and circulating peripheral blood B cells in rheumatoid arthritis?",
+      "left": [
+        {
+          "title": "Heterogeneity in tertiary lymphoid structure B-cells correlates with patient survival in metastatic melanoma"
+        },
+        {
+          "title": "Efficient immortalization of rheumatoid synovial tissue B-Iymphocytes. A comparison between the techniques of electric field-induced and PEG fusion"
+        },
+        {
+          "title": "Dominant B cell receptor clones in peripheral blood predict onset of arthritis in individuals at risk for rheumatoid arthritis"
+        },
+        {
+          "title": "Chemokine receptor expression and functional effects of chemokines on B cells: implication in the pathogenesis of rheumatoid arthritis"
+        },
+        {
+          "title": "In rheumatoid arthritis inflamed joints share dominant patient-specific B-cell clones"
+        }
+      ],
+      "right": [
+        {
+          "title": "Temporal and spatial dynamics of Plasmodium falciparum clonal lineages in Guyana."
+        },
+        {
+          "title": "Cutaneous Manifestations of Myeloid Neoplasms Exhibit Broad and Divergent Morphologic and Immunophenotypic Features but Share Ancestral Clonal Mutations With Bone Marrow."
+        },
+        {
+          "title": "Evaluating statistical approaches to define clonal origin of tumours using bulk DNA sequencing: context is everything."
+        },
+        {
+          "title": "Molecular characterisation of Brucella species."
+        },
+        {
+          "title": "Clonal relatedness between lobular carcinoma in situ and synchronous malignant lesions."
+        }
+      ]
+    },
+    {
+      "id": "q073",
+      "query": "Does riluzole treatment duration correlate with slower rate of forced vital capacity decline in ALS?",
+      "left": [
+        {
+          "title": "Treatment continuity of amyotrophic lateral sclerosis with available riluzole formulations: state of the art and current challenges in a 'real-world' setting."
+        },
+        {
+          "title": "Practice parameter update: the care of the patient with amyotrophic lateral sclerosis: drug, nutritional, and respiratory therapies (an evidence-based review): report of the Quality Standards Subcommittee of the American Academy of Neurology."
+        },
+        {
+          "title": "Riluzole for amyotrophic lateral sclerosis (ALS)/motor neuron disease (MND)."
+        },
+        {
+          "title": "A controlled trial of riluzole in amyotrophic lateral sclerosis. ALS/Riluzole Study Group."
+        },
+        {
+          "title": "Riluzole and its prodrugs for the treatment of Alzheimer's disease."
+        }
+      ],
+      "right": [
+        {
+          "title": "Assessing the efficacy of amyotrophic lateral sclerosis drugs in slowing disease progression: A literature review"
+        },
+        {
+          "title": "Clinical Staging of Amyotrophic Lateral Sclerosis in Chinese Patients"
+        },
+        {
+          "title": "Efficacy and Safety of Once Daily Dosing vs. Approved On/Off Dosing of Edaravone Oral Suspension Up to 48 Weeks in Patients With Amyotrophic Lateral Sclerosis (Study MT‐1186‐A02)"
+        },
+        {
+          "title": "Acupuncture for Managing Amyotrophic Lateral Sclerosis"
+        },
+        {
+          "title": "Proceedings of the 23rd Annual NEALS Meeting"
+        }
+      ]
+    },
+    {
+      "id": "q074",
+      "query": "Does colchicine reduce recurrent cardiovascular events when added to standard therapy after myocardial infarction?",
+      "left": [
+        {
+          "title": "Systematic Review on the Role of IL-6 and IL-1β in Cardiovascular Diseases"
+        },
+        {
+          "title": "Colchicine in Athero-Thrombosis: Molecular Mechanisms and Clinical Evidence"
+        },
+        {
+          "title": "The Role of Suppressing Inflammation in the Treatment of Atherosclerotic Cardiovascular Disease"
+        },
+        {
+          "title": "Secondary stroke prevention beyond antiplatelets: The role of colchicine and GLP-1RA – an ounce of prevention is worth a pound of cure"
+        },
+        {
+          "title": "Old Drug, New Opportunity: Drug Repurposing in Cardiovascular Diseases"
+        }
+      ],
+      "right": [
+        {
+          "title": "Colchicine in Acute Myocardial Infarction."
+        },
+        {
+          "title": "Long-term trials of colchicine for secondary prevention of vascular events: a meta-analysis."
+        },
+        {
+          "title": "Residual cardiovascular risk: When should we treat it?"
+        },
+        {
+          "title": "Targeting the NLRP3 inflammasome in cardiovascular diseases."
+        },
+        {
+          "title": "Colchicine for the secondary prevention of cardiovascular events."
+        }
+      ]
+    },
+    {
+      "id": "q075",
+      "query": "Does citrullination of fibrinogen generate a distinct B cell epitope compared to citrullinated vimentin in rheumatoid arthritis?",
+      "left": [
+        {
+          "title": "Citrullination and PAD Enzyme Biology in Type 1 Diabetes – Regulators of Inflammation, Autoimmunity, and Pathology"
+        },
+        {
+          "title": "The Role of Citrullination Modification in CD4+ T Cells in the Pathogenesis of Immune-Related Diseases"
+        },
+        {
+          "title": "Mapping of citrullinated fibrinogen B-cell epitopes in rheumatoid arthritis by imaging surface plasmon resonance"
+        },
+        {
+          "title": "Presence and reactivities of antibodies directed to citrullinated peptides in a Swedish JIA cohort"
+        },
+        {
+          "title": "New insights into the genetics of immune responses in rheumatoid arthritis"
+        }
+      ],
+      "right": [
+        {
+          "title": "The protein arginine deiminases: Structure, function, inhibition, and disease."
+        },
+        {
+          "title": "Citrullinated fibrinogen inhibits thrombin-catalysed fibrin polymerization."
+        },
+        {
+          "title": "Citrullinated and malondialdehyde-acetaldehyde-modified fibrinogen activates macrophages and promotes profibrotic responses in human lung fibroblasts."
+        },
+        {
+          "title": "Preclinical characterization of AZD1163, a first-in-class anti-PAD2/4 bispecific antibody for the treatment of rheumatoid arthritis."
+        },
+        {
+          "title": "Expanding the citrullinome of synovial fibrinogen from rheumatoid arthritis patients."
+        }
+      ]
+    },
+    {
+      "id": "q076",
+      "query": "What proportion of rheumatoid arthritis-associated lymphomas regress after discontinuation of immunosuppressive therapy alone?",
+      "left": [
+        {
+          "title": "Retrospective Study of 68 Patients with Rheumatoid Arthritis-Associated Lymphoproliferative Diseases Treated with Methotrexate"
+        },
+        {
+          "title": "Trends of lymphoma incidence in US veterans with rheumatoid arthritis, 2002–2017"
+        },
+        {
+          "title": "Guidelines for the Diagnosis and Treatment of Psoriasis in China: 2019 Concise Edition#"
+        },
+        {
+          "title": "Rheumatoid arthritis and lymphoma: Incidence, pathogenesis, biology, and outcome"
+        },
+        {
+          "title": "Effect of methotrexate and anti-TNF on Epstein-Barr virus T-cell response and viral load in patients with rheumatoid arthritis or spondylarthropathies"
+        }
+      ],
+      "right": [
+        {
+          "title": "Rheumatoid Arthritis-Associated Interstitial Pneumonia Refractory to Initial Therapy: Successful Control Through Combined Anti-Inflammatory, Antifibrotic and JAK-STAT-Targeted Treatment."
+        },
+        {
+          "title": "Safety, tolerability, and efficacy of pirfenidone in patients with rheumatoid arthritis-associated interstitial lung disease: a randomised, double-blind, placebo-controlled, phase 2 study."
+        },
+        {
+          "title": "Antifibrotic Agents in Rheumatoid Arthritis-Associated Interstitial Lung Disease: A Systematic Review and Meta-Analysis."
+        },
+        {
+          "title": "Janus kinase inhibitors in rheumatoid arthritis-associated interstitial lung disease: A systematic review and meta-analysis."
+        },
+        {
+          "title": "Treatment of rheumatoid arthritis-associated interstitial lung disease: a perspective review."
+        }
+      ]
+    },
+    {
+      "id": "q077",
+      "query": "How do murine microglia differ from human microglia in the context of neurodegenerative conditions?",
+      "left": [
+        {
+          "title": "Human Pluripotent Stem Cell-Derived Neural Cells as a Relevant Platform for Drug Screening in Alzheimer’s Disease"
+        },
+        {
+          "title": "Comparative Analysis Identifies Similarities between the Human and Murine Microglial Sensomes"
+        },
+        {
+          "title": "MicroRNA-132 regulates quinolinic acid production in the brain during LPS-induced neuroinflammation"
+        },
+        {
+          "title": "The versatile applications of human pluripotent stem cell-derived microglia and microglia-containing brain organoids"
+        },
+        {
+          "title": "Recent Advances in Microglia Modelling to Address Translational Outcomes in Neurodegenerative Diseases"
+        }
+      ],
+      "right": [
+        {
+          "title": "A glial circadian gene expression atlas reveals cell-type and disease-specific reprogramming in response to amyloid pathology or aging."
+        },
+        {
+          "title": "Microglia undergo sex-dimorphic transcriptional and metabolic rewiring during aging."
+        },
+        {
+          "title": "Reactive microglia partially envelop viable neurons in prion diseases."
+        },
+        {
+          "title": "An inducible genetic tool to track and manipulate specific microglial states reveals their plasticity and roles in remyelination."
+        },
+        {
+          "title": "Nigrostriatal degeneration determines dynamics of glial inflammatory and phagocytic activity."
+        }
+      ]
+    },
+    {
+      "id": "q078",
+      "query": "Does remote ischemic conditioning reduce infarct size when applied before primary PCI in STEMI patients?",
+      "left": [
+        {
+          "title": "Effect of remote ischaemic conditioning on clinical outcomes in patients with acute myocardial infarction (CONDI-2/ERIC-PPCI): a single-blind randomised controlled trial"
+        },
+        {
+          "title": "Cardioprotection of Repeated Remote Ischemic Conditioning in Patients With ST-Segment Elevation Myocardial Infarction"
+        },
+        {
+          "title": "Circulating mediators of remote ischemic preconditioning: search for the missing link between non-lethal ischemia and cardioprotection"
+        },
+        {
+          "title": "Coronary No-Reflow after Primary Percutaneous Coronary Intervention—Current Knowledge on Pathophysiology, Diagnosis, Clinical Impact and Therapy"
+        },
+        {
+          "title": "Effect of comprehensive remote ischemic conditioning in anterior ST‐elevation myocardial infarction undergoing primary percutaneous coronary intervention: Design and rationale of the CORIC‐MI randomized trial"
+        }
+      ],
+      "right": [
+        {
+          "title": "Remote ischemic postconditioning during percutaneous coronary interventions: remote ischemic postconditioning-percutaneous coronary intervention randomized trial."
+        },
+        {
+          "title": "Remote Ischemic Conditioning in Acute Ischemic Stroke - A Clinical Trial Design."
+        },
+        {
+          "title": "Effect of COMBinAtion therapy with remote ischemic conditioning and exenatide on the Myocardial Infarct size: a two-by-two factorial randomized trial (COMBAT-MI)."
+        },
+        {
+          "title": "Reperfusion Injury: How Can We Reduce It by Pre-, Per-, and Postconditioning."
+        },
+        {
+          "title": "Effect of remote ischaemic conditioning on clinical outcomes in patients with acute myocardial infarction (CONDI-2/ERIC-PPCI): a single-blind randomised controlled trial."
+        }
+      ]
+    },
+    {
+      "id": "q079",
+      "query": "Does neuromelanin accumulation in substantia nigra dopaminergic neurons contribute to their selective vulnerability in Parkinson's disease?",
+      "left": [
+        {
+          "title": "Brain tyrosinase overexpression implicates age-dependent neuromelanin production in Parkinson’s disease pathogenesis"
+        },
+        {
+          "title": "Naturally occurring histological findings and Alzheimer's‐like pathology in the brain of aging African green monkeys (Chlorocebus sabaeus)"
+        },
+        {
+          "title": "Investigating shared genetic architecture between pigmentation genetics and Parkinson's Disease"
+        },
+        {
+          "title": "Longitudinal neuromelanin changes in prodromal and early Parkinson’s disease in humans and rat model"
+        },
+        {
+          "title": "Neuromelanin accumulation drives endogenous synucleinopathy in non-human primates"
+        }
+      ],
+      "right": [
+        {
+          "title": "Does neuromelanin contribute to the vulnerability of catecholaminergic neurons in monkeys intoxicated with MPTP?"
+        },
+        {
+          "title": "Metabolic energy decline coupled dysregulation of catecholamine metabolism in physiologically highly active neurons: implications for selective neuronal death in Parkinson's disease."
+        },
+        {
+          "title": "Neuromelanin of the substantia nigra: a neuronal black hole with protective and toxic characteristics."
+        },
+        {
+          "title": "Neuromelanin of the human substantia nigra: an update."
+        },
+        {
+          "title": "Brain tyrosinase overexpression implicates age-dependent neuromelanin production in Parkinson's disease pathogenesis."
+        }
+      ]
+    },
+    {
+      "id": "q080",
+      "query": "How do the FcRn inhibitors nipocalimab, efgartigimod, and rozanolixizumab compare in their pharmacodynamic effect on total IgG and clinical response (MG-ADL) in generalized myasthenia gravis, and what safety signals (infections, hypogammaglobulinemia, albumin or lipid changes) have been reported?",
+      "left": [
+        {
+          "title": "23 Nipocalimab’s safety and effectiveness in adolescents in the open label phase 2–3 vibrance-Mg study"
+        },
+        {
+          "title": "21 Long-term safety and efficacy of nipocalimab in generalized myasthenia gravis: vivacity-MG3 open-label extension phase results"
+        },
+        {
+          "title": "Indirect Comparison of Nipocalimab Versus Efgartigimod and Rozanolixizumab in the Treatment of Generalized Myasthenia Gravis"
+        },
+        {
+          "title": "Progress in the therapy of myasthenia gravis: getting closer to Progress in the therapy of myasthenia gravis: getting closer to effective targeted immunotherapies effective targeted immunotherapies"
+        },
+        {
+          "title": "Risk-Benefit Analysis of Novel Treatments for Patients with Generalized Myasthenia Gravis"
+        }
+      ],
+      "right": [
+        {
+          "title": "Pharmacotherapy of Generalized Myasthenia Gravis with Special Emphasis on Newer Biologicals."
+        },
+        {
+          "title": "FcRn inhibitors: a novel option for the treatment of myasthenia gravis."
+        },
+        {
+          "title": "The efficacy and safety of FcRn inhibitors in patients with myasthenia gravis: a systematic review and meta-analysis."
+        },
+        {
+          "title": "FcRn Inhibitor Therapies in Neurologic Diseases."
+        },
+        {
+          "title": "Efficacy and safety of FcRn inhibitors in patients with Myasthenia gravis: An updated systematic review and meta‑analysis."
+        }
+      ]
+    },
+    {
+      "id": "q081",
+      "query": "What is the association between Sjögren syndrome-associated ectopic germinal centers and subsequent MALT lymphoma development?",
+      "left": [
+        {
+          "title": "Cardioprotection and lifespan extension by the natural polyamine spermidine."
+        },
+        {
+          "title": "Cardiac involvement in primary Sjӧgren's syndrome."
+        },
+        {
+          "title": "Association Between Minor Salivary Gland Biopsy During Sjӧgren's Syndrome and Serologic Biomarkers: A Systematic Review and Meta-Analysis."
+        },
+        {
+          "title": "Primary Sjӧgren's syndrome with renal Fanconi syndrome: Good responses to treatment with glucocorticoids."
+        },
+        {
+          "title": "Clinical picture, outcome and predictive factors of lymphoma in Sjӧgren syndrome."
+        }
+      ],
+      "right": [
+        {
+          "title": "Clinicopathological aspects of mucosa‐associated lymphoid tissue (MALT) lymphoma of the parotid gland: A retrospective single‐center analysis of 28 cases"
+        },
+        {
+          "title": "Pathogenetic Mechanisms Implicated in Sjögren’s Syndrome Lymphomagenesis: A Review of the Literature"
+        },
+        {
+          "title": "Extranodal marginal zone lymphoma clonotypes are detectable prior to eMZL diagnosis in tissue biopsies and peripheral blood of Sjögren’s syndrome patients through immunogenetics"
+        },
+        {
+          "title": "Gastric MALT lymphoma with t(14;18)(q32;q21) involving IGH and BCL2 genes that responded to Helicobacter pylori eradication"
+        },
+        {
+          "title": "MALT LYMPHOMAS IN PRIMARY SJÖGREN'S SYNDROME"
+        }
+      ]
+    },
+    {
+      "id": "q082",
+      "query": "Does cardiac amyloidosis screening with technetium pyrophosphate scintigraphy change management in patients with unexplained left ventricular hypertrophy?",
+      "left": [
+        {
+          "title": "Value of positive myocardial technetium-99m-pyrophosphate scintigraphy in the noninvasive diagnosis of cardiac amyloidosis."
+        },
+        {
+          "title": "Elucidating associations between technetium pyrophosphate scintigraphy, echocardiography and cardiac biomarkers in transthyretin cardiac amyloidosis."
+        },
+        {
+          "title": "Serial scanning with technetium pyrophosphate (99mTc-PYP) in advanced ATTR cardiac amyloidosis."
+        },
+        {
+          "title": "Wild type cardiac amyloidosis: is it time to order a nuclear technetium pyrophosphate SPECT imaging study?"
+        },
+        {
+          "title": "Quantitative 99mTc-pyrophosphate myocardial uptake: Changes on transthyretin stabilization therapy."
+        }
+      ],
+      "right": [
+        {
+          "title": "Cardiac amyloidosis screening using a relative apical sparing pattern in patients with left ventricular hypertrophy"
+        },
+        {
+          "title": "Perfusion defects on thallium-201 scintigraphy in cardiac amyloidosis"
+        },
+        {
+          "title": "TRANSTHYRETIN CARDIAC AMYLOIDOSIS REVEALED BY MULTIMODALITY IMAGING IN AN ELDERLY PATIENT WITH HFpEF"
+        },
+        {
+          "title": "Multimodality Imaging for Diagnosing Transthyretin Cardiac Amyloidosis"
+        },
+        {
+          "title": "Diagnosis and treatment of cardiac amyloidosis: position statement of the German Cardiac Society (DGK)"
+        }
+      ]
+    },
+    {
+      "id": "q083",
+      "query": "Are Fc glycosylation patterns of ACPA IgG associated with disease severity in rheumatoid arthritis?",
+      "left": [
+        {
+          "title": "Antibody glycosylation and its impact on the pharmacokinetics and pharmacodynamics of monoclonal antibodies and Fc-fusion proteins."
+        },
+        {
+          "title": "Amino acid and glucose metabolism in fed-batch CHO cell culture affects antibody production and glycosylation."
+        },
+        {
+          "title": "IgG Fc Glycosylation Patterns of Preterm Infants Differ With Gestational Age."
+        },
+        {
+          "title": "MHC haplotype and B cell autoimmunity: Correlation with pathogenic IgG autoantibody subclasses and Fc glycosylation patterns."
+        },
+        {
+          "title": "Fc-Engineered Therapeutic Antibodies: Recent Advances and Future Directions."
+        }
+      ],
+      "right": [
+        {
+          "title": "Citrullination in the pathology of inflammatory and autoimmune disorders: recent advances and future perspectives"
+        },
+        {
+          "title": "Glycosylation of anti-dsDNA IgG correlates with organ involvement in treatment-naïve patients with systemic lupus erythematosus"
+        },
+        {
+          "title": "Novel Concepts of Altered Immunoglobulin G Galactosylation in Autoimmune Diseases"
+        },
+        {
+          "title": "Autoantibodies in Alzheimer's disease: Multifaceted roles and therapeutic horizons"
+        },
+        {
+          "title": "Reduced serum IgG galactosylation is associated with increased inflammation during relapses of neuromyelitis optica spectrum disorders"
+        }
+      ]
+    },
+    {
+      "id": "q084",
+      "query": "Does TNF inhibitor exposure alter circulating B cell subset composition independent of its effect on disease activity in rheumatoid arthritis?",
+      "left": [
+        {
+          "title": "B-cell phenotype and IgD-CD27- memory B cells are affected by TNF-inhibitors and tocilizumab treatment in rheumatoid arthritis"
+        },
+        {
+          "title": "B Cells in Rheumatoid Arthritis: From Pathogenic Players to Disease Biomarkers"
+        },
+        {
+          "title": "Alterations in peripheral blood memory B cells in patients with active rheumatoid arthritis are dependent on the action of tumour necrosis factor"
+        },
+        {
+          "title": "High levels of memory B cells are associated with response to a first tumor necrosis factor inhibitor in patients with rheumatoid arthritis in a longitudinal prospective study"
+        },
+        {
+          "title": "Effect of Tumor Necrosis Factor Inhibitor Therapy on Osteoclasts Precursors in Rheumatoid Arthritis"
+        }
+      ],
+      "right": [
+        {
+          "title": "Preconditioning effects of tumor necrosis factor-α and glutamate on calcium dynamics in rat organotypic hippocampal cultures."
+        },
+        {
+          "title": "Inflammatory Pseudotumor of the Spleen in a Patient With Psoriatic Arthritis: A Diagnostic Challenge in the COVID-19 Era."
+        },
+        {
+          "title": "Methylenedioxymethamphetamine (MDMA; Ecstasy) suppresses IL-1beta and TNF-alpha secretion following an in vivo lipopolysaccharide challenge."
+        },
+        {
+          "title": "The role of tumor necrosis factor alpha in lipopolysaccharide/ranitidine-induced inflammatory liver injury."
+        },
+        {
+          "title": "Inhaled diesel exhaust particles result in microbiome-related systemic inflammation and altered cardiovascular disease biomarkers in C57Bl/6 male mice."
+        }
+      ]
+    },
+    {
+      "id": "q085",
+      "query": "Does early rhythm control with catheter ablation reduce cardiovascular death compared to rate control in atrial fibrillation?",
+      "left": [
+        {
+          "title": "Comparative Effectiveness of Early Rhythm Control Versus Rate Control for Cardiovascular Outcomes in Patients With Atrial Fibrillation"
+        },
+        {
+          "title": "State of the Art Review"
+        },
+        {
+          "title": "Outcomes of incident atrial fibrillation in heart failure with preserved or reduced ejection fraction: A community‐based study"
+        },
+        {
+          "title": "Early rhythm control compared to rate control in atrial fibrillation – A systematic review, meta-analysis, and meta-regression"
+        },
+        {
+          "title": "Bayesian network meta‐analysis comparing cryoablation, radiofrequency ablation, and antiarrhythmic drugs as initial therapies for atrial fibrillation"
+        }
+      ],
+      "right": [
+        {
+          "title": "Atrial Fibrillation Ablation in Heart Failure With Reduced vs Preserved Ejection Fraction: A Systematic Review and Meta-Analysis."
+        },
+        {
+          "title": "Early Rhythm-Control Therapy in Patients with Atrial Fibrillation."
+        },
+        {
+          "title": "Effect of Catheter Ablation vs Antiarrhythmic Drug Therapy on Mortality, Stroke, Bleeding, and Cardiac Arrest Among Patients With Atrial Fibrillation: The CABANA Randomized Clinical Trial."
+        },
+        {
+          "title": "Atrial Fibrillation: A Review."
+        },
+        {
+          "title": "Rhythm vs Rate Control Strategy for Atrial Fibrillation: A Meta-Analysis of Randomized Controlled Trials."
+        }
+      ]
+    },
+    {
+      "id": "q086",
+      "query": "What drugs have been tested for altered KRAS proteins?",
+      "left": [
+        {
+          "title": "Targeted therapies prime oncogene-driven lung cancers for macrophage-mediated destruction."
+        },
+        {
+          "title": "KRAS as a Therapeutic Target."
+        },
+        {
+          "title": "Molecular testing and targeted therapy for non-small cell lung cancer: Current status and perspectives."
+        },
+        {
+          "title": "Identifying Actionable Alterations in KRAS Wild-Type Pancreatic Cancer."
+        },
+        {
+          "title": "Overcoming KRAS-Mutant Lung Cancer."
+        }
+      ],
+      "right": [
+        {
+          "title": "KRAS induces lung tumorigenesis through microRNAs modulation"
+        },
+        {
+          "title": "Base excision repair-mediated resistance to cisplatin in KRAS(G12C) mutant NSCLC cells"
+        },
+        {
+          "title": "RAS genes in colorectal carcinoma: pathogenesis, testing guidelines and treatment implications"
+        },
+        {
+          "title": "The RASopathies: from pathogenetics to therapeutics"
+        },
+        {
+          "title": "An Emerging Role of KRAS in Biogenesis, Cargo Sorting and Uptake of Cancer-Derived Extracellular Vesicles"
+        }
+      ]
+    },
+    {
+      "id": "q087",
+      "query": "How does Fab N-glycosylation of ACPA IgG affect antigen-binding affinity in rheumatoid arthritis?",
+      "left": [
+        {
+          "title": "Citrullination in the pathology of inflammatory and autoimmune disorders: recent advances and future perspectives"
+        },
+        {
+          "title": "Anti-Citrullinated Protein Antibodies in Patients with Rheumatoid Arthritis: Biological Effects and Mechanisms of Immunopathogenesis"
+        },
+        {
+          "title": "The Ligands for Human IgG and Their Effector Functions"
+        },
+        {
+          "title": "Baseline IgG-Fc N-glycosylation profile is associated with long-term outcome in a cohort of early inflammatory arthritis patients"
+        },
+        {
+          "title": "Strategies to control therapeutic antibody glycosylation during bioprocessing: Synthesis and separation"
+        }
+      ],
+      "right": [
+        {
+          "title": "Altered IgG N-Glycosylation at Onset of Type 1 Diabetes in Children Is Predominantly Driven by Changes in the Fab N-Glycans."
+        },
+        {
+          "title": "H and L Chain Affinity Maturation and/or Fab N-Glycosylation Influence Immunoreactivity toward Neutrophil Extracellular Trap Antigens in Rheumatoid Arthritis Synovial B Cell Clones."
+        },
+        {
+          "title": "Temporal and Sex-Dependent N-Glycosylation Dynamics in Rat Serum."
+        },
+        {
+          "title": "Computational analysis reveals non-consensus N-glycosylation sequons in antibody Fab region."
+        },
+        {
+          "title": "Fab N-Glycosylation in IgG: Implications in Physiological and Pathological Immune Regulation."
+        }
+      ]
+    },
+    {
+      "id": "q088",
+      "query": "In patients with low-flow, low-gradient severe aortic stenosis, does dobutamine stress echocardiography reliably distinguish true-severe from pseudo-severe stenosis?",
+      "left": [
+        {
+          "title": "Passive Leg Raise Stress Echocardiography in Severe Paradoxical Low-Flow, Low-Gradient Aortic Stenosis."
+        },
+        {
+          "title": "ABCDEG Stress Echocardiography in Aortic Stenosis."
+        },
+        {
+          "title": "Low-gradient aortic stenosis."
+        },
+        {
+          "title": "Dobutamine Stress Echocardiography for Management of Low-Flow, Low-Gradient Aortic Stenosis."
+        },
+        {
+          "title": "Dobutamine Stress Echocardiography in Low-Gradient Aortic Stenosis."
+        }
+      ],
+      "right": [
+        {
+          "title": "Dobutamine Stress Echocardiography in Low-Flow, Low-Gradient Aortic Stenosis: Flow Reserve Does Not Matter Anymore"
+        },
+        {
+          "title": "Aortic stenosis: flow matters"
+        },
+        {
+          "title": "Relationship of resting echocardiography combined with serum micronutrients to the severity of low-gradient severe aortic stenosis"
+        },
+        {
+          "title": "Exercise testing and exercise stress echocardiography in asymptomatic aortic valve stenosis"
+        },
+        {
+          "title": "Differentiating Pseudo Versus True Aortic Stenosis in Patients Without Contractile Reserve: A Diagnostic Dilemma"
+        }
+      ]
+    },
+    {
+      "id": "q089",
+      "query": "In patients with symptomatic moderate aortic stenosis and left ventricular dysfunction, should early aortic valve replacement be performed, or should guideline-directed medical therapy for heart failure be continued?",
+      "left": [
+        {
+          "title": "Heart failure improvement, remission, and recovery: A European Journal of Heart Failure expert consensus document."
+        },
+        {
+          "title": "Vericiguat Global Study in Participants with Chronic Heart Failure: Design of the VICTOR trial."
+        },
+        {
+          "title": "Pathophysiology and Therapeutic Approaches to Acute Decompensated Heart Failure."
+        },
+        {
+          "title": "Contemporary Management of Acute Heart Failure: From Emergency Presentation to Long-Term Remission."
+        },
+        {
+          "title": "Combination therapy: an upcoming paradigm to improve kidney and cardiovascular outcomes in chronic kidney disease."
+        }
+      ],
+      "right": [
+        {
+          "title": "Mitral regurgitation in patients with severe aortic stenosis: diagnosis and management"
+        },
+        {
+          "title": "Perspective Chapter: Moderate Aortic Stenosis and Heart Failure with Reduced Ejection Fraction; Early Replacement or Conservative Treatment?"
+        },
+        {
+          "title": "Moderate Aortic Valve Stenosis with Left Ventricular Systolic Dysfunction: Potential Role of Early Aortic Valve Replacement"
+        },
+        {
+          "title": "Medical treatment of heart failure with renin–angiotensin–aldosterone system inhibitors and beta-blockers in aortic stenosis: association with long-term outcome after aortic valve replacement"
+        },
+        {
+          "title": "Valvular Heart Disease in Heart Failure"
+        }
+      ]
+    },
+    {
+      "id": "q090",
+      "query": "Does hippocampal neuronal loss precede detectable amyloid plaque burden in early Alzheimer's disease models?",
+      "left": [
+        {
+          "title": "The STIM1/2-Regulated Calcium Homeostasis Is Impaired in Hippocampal Neurons of the 5xFAD Mouse Model of Alzheimer’s Disease"
+        },
+        {
+          "title": "Neuroinflammation and Neuronal Loss Precede Aβ Plaque Deposition in the hAPP-J20 Mouse Model of Alzheimer’s Disease"
+        },
+        {
+          "title": "Spatial Memory Impairment is Associated with Intraneural Amyloid-β Immunoreactivity and Dysfunctional Arc Expression in the Hippocampal-CA3 Region of a Transgenic Mouse Model of Alzheimer’s Disease"
+        },
+        {
+          "title": "First effects of rising amyloid-β in transgenic mouse brain: synaptic transmission and gene expression"
+        },
+        {
+          "title": "Early fear memory defects are associated with altered synaptic plasticity and molecular architecture in the TgCRND8 Alzheimer's disease mouse model"
+        }
+      ],
+      "right": [
+        {
+          "title": "Neurobiology of depression in Parkinson's disease: Insights into epidemiology, molecular mechanisms and treatment strategies."
+        },
+        {
+          "title": "What we've learnt about autoimmune neurological diseases from neuropathology."
+        },
+        {
+          "title": "Synapse loss and microglial activation precede tangles in a P301S tauopathy mouse model."
+        },
+        {
+          "title": "Early Hippocampal Synaptic Loss Precedes Neuronal Loss and Associates with Early Behavioural Deficits in Three Distinct Strains of Prion Disease."
+        },
+        {
+          "title": "Neuroinflammation and neuronal loss precede Aβ plaque deposition in the hAPP-J20 mouse model of Alzheimer's disease."
+        }
+      ]
+    },
+    {
+      "id": "q091",
+      "query": "In the DESIRES trial of rituximab for systemic sclerosis, what was the effect on modified Rodnan skin score and health-related quality of life (HAQ-DI) compared to placebo?",
+      "left": [
+        {
+          "title": "Long-term Outcomes After Rituximab Treatment for Patients With Systemic Sclerosis: Follow-up of the DESIRES Trial With a Focus on Serum Immunoglobulin Levels."
+        },
+        {
+          "title": "Safety and efficacy of rituximab in systemic sclerosis (DESIRES): open-label extension of a double-blind, investigators-initiated, randomised, placebo-controlled trial."
+        },
+        {
+          "title": "Predictors of rituximab effect on modified Rodnan skin score in systemic sclerosis: a machine-learning analysis of the DesiReS trial."
+        },
+        {
+          "title": "Safety and efficacy of rituximab in systemic sclerosis (DESIRES): a double-blind, investigator-initiated, randomised, placebo-controlled trial."
+        },
+        {
+          "title": "Predictors of rituximab efficacy in systemic sclerosis-associated interstitial lung disease: machine-learning analysis of the DESIRES trial."
+        }
+      ],
+      "right": [
+        {
+          "title": "Targeted Therapy in Systemic Sclerosis"
+        },
+        {
+          "title": "Poster Session I AUTOIMMUNE DISEASE 113 ORGAN FUNCTION AND QUALITY OF LIFE CORRELATES AT RANDOMIZA-TION ON THE SCOT (SCLERODERMA: CYCLOPHOSPHAMIDE OR TRANSPLANTATION) TRIAL"
+        },
+        {
+          "title": "Predictors of rituximab efficacy in systemic sclerosis-associated interstitial lung disease: machine-learning analysis of the DESIRES trial"
+        },
+        {
+          "title": "Serum C-X-C Chemokine Ligand 1 Levels in Patients with Systemic Sclerosis: Relationship of Clinical and Laboratory Observations to Anti-CD20 Monoclonal Antibody Administration"
+        },
+        {
+          "title": "Involvement of B cells in the development of systemic sclerosis"
+        }
+      ]
+    },
+    {
+      "id": "q092",
+      "query": "Does PCSK9 inhibition slow progression of calcific aortic valve disease in patients with elevated lipoprotein(a)?",
+      "left": [
+        {
+          "title": "Current Management and Therapy of Severe Aortic Stenosis and Future Perspective"
+        },
+        {
+          "title": "Unraveling the Link Between Aortic Stenosis and Atherosclerosis: What Have We Learned?"
+        },
+        {
+          "title": "Heart Valve Disease: Challenges and New Opportunities"
+        },
+        {
+          "title": "Shared Risk Factors and Molecular Mechanisms Between Aortic Stenosis and Atherosclerosis: A Rationale for Therapeutic Repositioning"
+        },
+        {
+          "title": "EDITORIAL CONSULTANTS CONTINUED"
+        }
+      ],
+      "right": [
+        {
+          "title": "Aortic valve stenosis in 2026: from emerging mechanisms to clinical drug development."
+        },
+        {
+          "title": "Proprotein convertase subtilisin/kexin type 9 targets megalin in the kidney proximal tubule and aggravates proteinuria in nephrotic syndrome."
+        },
+        {
+          "title": "PCSK9 acts as a key regulator of Aβ clearance across the blood-brain barrier."
+        },
+        {
+          "title": "Lack of renoprotective effects by long-term PCSK9 and SGLT2 inhibition using alirocumab and empagliflozin in obese ZSF1 rats."
+        },
+        {
+          "title": "Intake of high-intensity statin after acute myocardial infarction assessed by direct drug concentration measurement: association with LDL-C response and coronary plaque modifications in the PACMAN-AMI trial."
+        }
+      ]
+    },
+    {
+      "id": "q093",
+      "query": "What clinical trial outcomes and immune responses have been reported for therapeutic cancer vaccines (mRNA neoantigen, personalized neoantigen, dendritic cell) in solid tumors?",
+      "left": [
+        {
+          "title": "Turning cold tumors into hot tumors by improving T-cell infiltration"
+        },
+        {
+          "title": "A Highly Effective System for Predicting MHC-II Epitopes With Immunogenicity"
+        },
+        {
+          "title": "Harnessing Vaccines in the Treatment of Solid Tumors: Advances, Challenges, and Future Directions"
+        },
+        {
+          "title": "Advancing personalized medicine in brain cancer: exploring the role of mRNA vaccines"
+        },
+        {
+          "title": "Therapeutic melanoma vaccines: Platforms, neoantigen strategies, and emerging combination immunotherapies"
+        }
+      ],
+      "right": [
+        {
+          "title": "Neoantigen-driven cancer vaccines in personalized oncology: progress, obstacles, and translational prospects."
+        },
+        {
+          "title": "mRNA Vaccines in Cancer Immunotherapy: Recent Advances, Clinical Translation, and Future Perspectives."
+        },
+        {
+          "title": "Leveraging mRNA technology for antigen based immuno-oncology therapies."
+        },
+        {
+          "title": "Melanoma Vaccines: Comparing Novel Adjuvant Treatments in High-Risk Patients."
+        },
+        {
+          "title": "mRNA vaccines: a new era in vaccine development."
+        }
+      ]
+    },
+    {
+      "id": "q094",
+      "query": "Does renal denervation reduce blood pressure in patients with resistant hypertension despite triple antihypertensive therapy?",
+      "left": [
+        {
+          "title": "The Efficacy of Renal Denervation in Treating Resistant Hypertension: A Systematic Review"
+        },
+        {
+          "title": "Unilateral renal sympathetic denervation may reduce blood pressure in patients with refractory hypertension"
+        },
+        {
+          "title": "Catheter-based renal denervation for treatment of resistant hypertension"
+        },
+        {
+          "title": "The impact of renal denervation procedure on use of antihypertensive drugs in the real-life setting"
+        },
+        {
+          "title": "Is Renal Denervation Effective in Treating Resistant Hypertension?"
+        }
+      ],
+      "right": [
+        {
+          "title": "Diagnosis and Management of Resistant Hypertension: A Review."
+        },
+        {
+          "title": "Ultrasound renal denervation for hypertension resistant to a triple medication pill (RADIANCE-HTN TRIO): a randomised, multicentre, single-blind, sham-controlled trial."
+        },
+        {
+          "title": "Renal denervation for resistant hypertension and beyond."
+        },
+        {
+          "title": "New trials in resistant hypertension: mixed blessing stories."
+        },
+        {
+          "title": "Is Renal Denervation Effective in Treating Resistant Hypertension?"
+        }
+      ]
+    },
+    {
+      "id": "q095",
+      "query": "What are examples of AD patients who have had clinical reversal of AD, and what can be attributed to their improvement?",
+      "left": [
+        {
+          "title": "Repetitive Transcranial Magnetic Stimulation Induced Hypoconnectivity Within the Default Mode Network Yields Cognitive Improvements in Amnestic Mild Cognitive Impairment: A Randomized Controlled Study"
+        },
+        {
+          "title": "Structural Correlates of Antibodies Associated with Acute Reversal of Amyloid ␤-related Behavioral Deficits in a Mouse Model of Alzheimer Disease □ S"
+        },
+        {
+          "title": "Washed microbiota transplantation: a case report of clinical success with skin and gut microbiota improvement in an adolescent boy with atopic dermatitis"
+        },
+        {
+          "title": "Alzheimer disease biomarkers may aid in the prognosis of MCI cases initially reverted to normal"
+        },
+        {
+          "title": "Exploring the Potential of Aptamers in Targeting Neuroinflammation and Neurodegenerative Disorders: Opportunities and Challenges"
+        }
+      ],
+      "right": [
+        {
+          "title": "Switchable Closed-Shell and Open-Shell Biradical States in Bis-Palladium Complexes of Tetrathiadodecaphyrin via Coordination Rearrangement."
+        },
+        {
+          "title": "Clinical pharmacokinetics of the monoamine oxidase-A inhibitor moclobemide."
+        },
+        {
+          "title": "Homeostasis: an underestimated focal point of ecology and evolution."
+        },
+        {
+          "title": "Revisited case for intranasal neuropeptide Y based therapeutics: From preclinical to clinical."
+        },
+        {
+          "title": "Nonsurgical periodontal therapy."
+        }
+      ]
+    },
+    {
+      "id": "q096",
+      "query": "What are the risk factors for lymphoma development in patients with rheumatoid arthritis, systemic lupus erythematosus and Sjögren disease?",
+      "left": [
+        {
+          "title": "Cancer and interstitial lung disease."
+        },
+        {
+          "title": "Incidence of lymphoma associated with underlying lupus: lessons learned from observational studies."
+        },
+        {
+          "title": "Risk relationship between six autoimmune diseases and malignancies: An umbrella review."
+        },
+        {
+          "title": "Prognostic markers of lymphoma development in primary Sjögren syndrome."
+        },
+        {
+          "title": "[Tumors in rheumatic diseases]."
+        }
+      ],
+      "right": [
+        {
+          "title": "Autoimmune/Inflammatory Arthritis Associated Lymphomas: Who Is at Risk?"
+        },
+        {
+          "title": "Autoimmune disease-associated lymphomas: research progress and review"
+        },
+        {
+          "title": "Antinuclear Antibodies Are Associated with an Increased Risk of Diffuse Large B-Cell Lymphoma"
+        },
+        {
+          "title": "Prognostic markers of lymphoma development in primary Sjögren syndrome"
+        },
+        {
+          "title": "Anti-cyclic citrullinated peptide antibodies, other common autoantibodies, and smoking as risk factors for lymphoma in patients with rheumatoid arthritis"
+        }
+      ]
+    },
+    {
+      "id": "q097",
+      "query": "Does the presence of ectopic lymphoid structures in rheumatoid arthritis synovium predict response to rituximab?",
+      "left": [
+        {
+          "title": "Activation-induced cytidine deaminase (AID) linking immunity, chronic inflammation, and cancer"
+        },
+        {
+          "title": "Podoplanin in Inflammation and Cancer"
+        },
+        {
+          "title": "Autoimmune Responses in the Rheumatoid Synovium"
+        },
+        {
+          "title": "Prostaglandin E2 Synthesizing Enzymes in Rheumatoid Arthritis B Cells and the Effects of B Cell Depleting Therapy on Enzyme Expression"
+        },
+        {
+          "title": "Paired Rheumatoid Arthritis Synovial Biopsies From Small and Large Joints Show Similar Global Transcriptomic Patterns With Enrichment of Private Specificity TCRB and TCR Signaling Pathways"
+        }
+      ],
+      "right": [
+        {
+          "title": "The synovium in rheumatoid arthritis."
+        },
+        {
+          "title": "Inflammation and ectopic lymphoid structures in rheumatoid arthritis synovial tissues dissected by genomics technology: identification of the interleukin-7 signaling pathway in tissues with lymphoid neogenesis."
+        },
+        {
+          "title": "Deep topic modeling of spatial transcriptomics in the rheumatoid arthritis synovium identifies distinct classes of ectopic lymphoid structures."
+        },
+        {
+          "title": "Predicting best treatment in rheumatoid arthritis."
+        },
+        {
+          "title": "Ectopic lymphoid neogenesis in psoriatic arthritis."
+        }
+      ]
+    },
+    {
+      "id": "q098",
+      "query": "Does elevated serum interleukin-6 correlate with faster disease progression in ALS?",
+      "left": [
+        {
+          "title": "Interleukin-6 and C-Reactive Protein Levels and 9-Year Cognitive Decline in Community-Dwelling Older Women: The Women's Health and Aging Study II."
+        },
+        {
+          "title": "Role of heat shock protein and cytokine expression as markers of clinical outcomes with glutamine-supplemented parenteral nutrition in surgical ICU patients."
+        },
+        {
+          "title": "Predictors of interleukin-6 elevation in older adults."
+        },
+        {
+          "title": "[Comparison of interleukin-6 and C-reactive protein serum concentrations assessment in diagnosis of infective endocarditis]."
+        },
+        {
+          "title": "Serum Inflammatory Markers and Progression of Nonmotor Symptoms in Early Parkinson's Disease."
+        }
+      ],
+      "right": [
+        {
+          "title": "Tocilizumab is safe and tolerable and reduces C‐reactive protein concentrations in the plasma and cerebrospinal fluid of ALS patients"
+        },
+        {
+          "title": "Rab Geranylgeranyltransferase Subunit Beta as a Potential Indicator to Assess the Progression of Amyotrophic Lateral Sclerosis"
+        },
+        {
+          "title": "Interleukin-6 Serum Level Correlates with Survival in Advanced Gastrointestinal Cancer Patients but Is Not an Independent Prognostic Indicator"
+        },
+        {
+          "title": "Thirteenth International Winter-Workshop on Biochemical and Clinical Aspects of Pteridines"
+        },
+        {
+          "title": "Immunology of amyotrophic lateral sclerosis – role of the innate and adaptive immunity"
+        }
+      ]
+    },
+    {
+      "id": "q099",
+      "query": "In patients with STEMI undergoing primary PCI, is CMR-measured infarct size reliable for predicting 1-year heart failure hospitalization and mortality?",
+      "left": [
+        {
+          "title": "Intracoronary Application of Super-Saturated Oxygen to Reduce Infarct Size Following Myocardial Infarction"
+        },
+        {
+          "title": "Operator volumes and salvage index in AMI"
+        },
+        {
+          "title": "Incorporating Inflammation Biomarker‐Driven Multivariate Predictive Model for Coronary Microcirculatory Dysfunction in Acute Myocardial Infarction Following Emergency Percutaneous Coronary Intervention"
+        },
+        {
+          "title": "Impact of intracoronary reteplase during primary percutaneous coronary intervention on infarct size in large anterior myocardial infarction: rationale and design of the RECOVER II trial"
+        },
+        {
+          "title": "Prognostic Value of Initial Left Ventricular Remodeling in Patients With Reperfused STEMI"
+        }
+      ],
+      "right": [
+        {
+          "title": "Update on primary PCI for patients with STEMI."
+        },
+        {
+          "title": "Complementary Pharmacotherapy for STEMI Undergoing Primary PCI: An Evidence-Based Clinical Approach."
+        },
+        {
+          "title": "The aspiration saga during primary PCI for STEMI: yes or no or sometimes?"
+        },
+        {
+          "title": "Diagnosis and Treatment of Acute Coronary Syndromes: A Review."
+        },
+        {
+          "title": "Primary PCI in the management of STEMI in sub-Saharan Africa: insights from Abidjan Heart Institute catheterisation laboratory."
+        }
+      ]
+    },
+    {
+      "id": "q100",
+      "query": "Is IL40 a potential inflammatory biomarker in rheumatic disease?",
+      "left": [
+        {
+          "title": "IL-40: A New B Cell-Associated Cytokine Up-Regulated in Rheumatoid Arthritis Decreases Following the Rituximab Therapy and Correlates With Disease Activity, Autoantibodies, and NETosis"
+        },
+        {
+          "title": "Potential involvement of IL-40 in kidney disease associated to systemic lupus erythematosus"
+        },
+        {
+          "title": "Evaluating the Serum Level of IL-40 in a Sample of Iraqi Men with Ankylosing Spondylitis"
+        },
+        {
+          "title": "ИНТЕРЛЕЙКИН-40 -НОВЫЙ ЦИТОКИН"
+        },
+        {
+          "title": "New pro-inflammatory cytokine IL-40 is produced by activated neutrophils and plays a role in the early stages of seropositive rheumatoid arthritis"
+        }
+      ],
+      "right": [
+        {
+          "title": "Serum interleukin-40 increases in anti-AchR antibody-positive myasthenia gravis and correlates with disease activity."
+        },
+        {
+          "title": "Serum interleukin 40: an innovative diagnostic biomarker for patients with systemic lupus erythematosus."
+        },
+        {
+          "title": "\"IL-40: A novel immunoregulatory axis at the crossroads of inflammation, tissue remodeling, and cancer immunity\"."
+        },
+        {
+          "title": "Salivary asprosin, IL-39, IL-40, and IL-1β levels in diabetic patients with periodontitis: A cross-sectional analysis."
+        },
+        {
+          "title": "Unveiling Interleukin-40: A Novel Regulator of Macrophage and B Cell Function in Allergic Asthma."
+        }
+      ]
+    },
+    {
+      "id": "q101",
+      "query": "Does aortic valve calcification progress faster in bicuspid aortic valve patients compared to tricuspid aortic valve patients?",
+      "left": [
+        {
+          "title": "Assessment of Potential Predictors of Aortic Stenosis Severity Using ECG-Gated Multidetector CT in Patients with Bicuspid and Tricuspid Aortic Valves Prior to TAVI"
+        },
+        {
+          "title": "Diagnostic role of aortic valve calcium scoring in various etiologies of aortic stenosis"
+        },
+        {
+          "title": "Comparison of Quantity of Calcific Deposits by Multidetector Computed Tomography in the Aortic Valve and Coronary Arteries"
+        },
+        {
+          "title": "Identification of recurrent variants implicated in disease in bicuspid aortic valve patients through whole-exome sequencing"
+        },
+        {
+          "title": "Outcomes of transcatheter aortic valve replacement in bicuspid versus tricuspid aortic stenosis with severe calcification"
+        }
+      ],
+      "right": [
+        {
+          "title": "Apolipoprotein CII: Cornerstone of Pathophysiological Interplay in Aortic Stenosis and type 2 Diabetes Mellitus."
+        },
+        {
+          "title": "Lipoprotein(a) and Calcific Aortic Valve Stenosis Progression: A Systematic Review and Meta-Analysis."
+        },
+        {
+          "title": "Lipoprotein(a) and calcific aortic valve stenosis: A systematic review."
+        },
+        {
+          "title": "Oxidized Phospholipids and Calcific Aortic Valvular Disease."
+        },
+        {
+          "title": "Effect of bicuspid aortic valve phenotype on progression of aortic stenosis."
+        }
+      ]
+    },
+    {
+      "id": "q102",
+      "query": "Does IL-6 receptor blockade with tocilizumab affect circulating immunoglobulin levels in rheumatoid arthritis patients?",
+      "left": [
+        {
+          "title": "Relationships of serum levels of tocilizumab to interleukin-6 and endogenous markers of CYP3A activity in patients with rheumatoid arthritis"
+        },
+        {
+          "title": "Effect of interleukin-6, -17, -21, -22, and -23 and STAT3 on signal transduction pathways and their inhibition in autoimmune arthritis"
+        },
+        {
+          "title": "Successful treatment of Behçet's uveitis with Tocilizumab"
+        },
+        {
+          "title": "Novel treatments for systemic lupus erythematosus"
+        },
+        {
+          "title": "Interleukin-6 Receptor Blockade Selectively Reduces IL-21 Production by CD4 T Cells and IgG4 Autoantibodies in Rheumatoid Arthritis"
+        }
+      ],
+      "right": [
+        {
+          "title": "Interleukin-6 inhibition in the management of non-infectious uveitis and beyond."
+        },
+        {
+          "title": "Tocilizumab for the treatment of adult-onset Still's disease."
+        },
+        {
+          "title": "Interleukin 6 blockade: tocilizumab in psoriatic arthritis."
+        },
+        {
+          "title": "Effects of IL-6 and IL-6 blockade on neutrophil function in vitro and in vivo."
+        },
+        {
+          "title": "IL-6 Receptor Blockade Increases Circulating Adiponectin Levels in People with Obesity: An Explanatory Analysis."
+        }
+      ]
+    },
+    {
+      "id": "q103",
+      "query": "Does EBV viral load in peripheral blood correlate with disease activity (DAS28) in rheumatoid arthritis patients treated with methotrexate?",
+      "left": [
+        {
+          "title": "EBV Viral Loads in Diagnosis, Monitoring, and Response Assessment."
+        },
+        {
+          "title": "The viral load of Epstein-Barr virus (EBV) DNA in peripheral blood predicts for biological and clinical characteristics in Hodgkin lymphoma."
+        },
+        {
+          "title": "Epstein-Barr viral gene expression in B-lymphocytes."
+        },
+        {
+          "title": "Diagnostic values for the viral load in peripheral blood mononuclear cells of patients with chronic active Epstein-Barr virus disease."
+        },
+        {
+          "title": "EBV viral load and miR-BART10-3p expression in multiple sclerosis: A case-control study."
+        }
+      ],
+      "right": [
+        {
+          "title": "Effect of methotrexate and anti-TNF on Epstein-Barr virus T-cell response and viral load in patients with rheumatoid arthritis or spondylarthropathies"
+        },
+        {
+          "title": "Hematological malignancies in connective tissue diseases"
+        },
+        {
+          "title": "Correlation analysis between peripheral blood basophils and disease activity in patients with rheumatoid arthritis"
+        },
+        {
+          "title": "Long term treatment with abatacept or tocilizumab does not increase Epstein-Barr virus load in patients with rheumatoid arthritis - A three years retrospective study"
+        },
+        {
+          "title": "Immune response profiling in early rheumatoid arthritis: discovery of a novel interaction of treatment response with viral immunity"
+        }
+      ]
+    },
+    {
+      "id": "q104",
+      "query": "Are germline BCR gene usage patterns different between ACPA-positive rheumatoid arthritis B cells and B cells from healthy donors?",
+      "left": [
+        {
+          "title": "N-Glycosylation Site Analysis of Citrullinated Antigen-Specific B-Cell Receptors Indicates Alternative Selection Pathways During Autoreactive B-Cell Development"
+        },
+        {
+          "title": "Metabolic profiling of single cells by exploiting NADH and FAD fluorescence via flow cytometry"
+        },
+        {
+          "title": "Immune features revealed by single‐cell RNA and single‐cell TCR/BCR sequencing in patients with rheumatoid arthritis receiving COVID‐19 booster vaccination"
+        },
+        {
+          "title": "Rheumatoid arthritis patients display B-cell dysregulation already in the naïve repertoire consistent with defects in B-cell tolerance"
+        },
+        {
+          "title": "Anti-carbamylated protein antibody isotype pattern differs between palindromic rheumatism and rheumatoid arthritis"
+        }
+      ],
+      "right": [
+        {
+          "title": "Immunoglobulin gene polymorphisms shape the naïve B-cell receptor repertoire; relevance to celiac disease."
+        },
+        {
+          "title": "Unique B-1 cells specific for both N-pyrrolated proteins and DNA evolve with apolipoprotein E deficiency."
+        },
+        {
+          "title": "A Germline-Encoded Structural Arginine Trap Underlies the Anti-DNA Reactivity of a Murine V Gene Segment."
+        },
+        {
+          "title": "Characterisation of the immune repertoire of a humanised transgenic mouse through immunophenotyping and high-throughput sequencing."
+        },
+        {
+          "title": "Echidna: integrated simulations of single-cell immune receptor repertoires and transcriptomes."
+        }
+      ]
+    },
+    {
+      "id": "q105",
+      "query": "In early valve sclerosis, can lipoprotein(a)-lowering or anti-inflammatory/pro-resolving therapies delay progression to severe aortic stenosis and postpone valve replacement?",
+      "left": [
+        {
+          "title": "Lipoprotein(a) and Aortic Valve Stenosis: From Pathophysiology to Emerging Pharmacological Agents"
+        },
+        {
+          "title": "Proprotein convertase subtilisin/kexin type 9 levels and aortic valve calcification: A prospective, cross sectional study"
+        },
+        {
+          "title": "The Prevalence of Lipoprotein(a) Measurement and Degree of Elevation Among 2710 Patients With Calcific Aortic Valve Stenosis in an Academic Echocardiography Laboratory Setting"
+        },
+        {
+          "title": "Lp(a) in the Pathogenesis of Aortic Stenosis and Approach to Therapy with Antisense Oligonucleotides or Short Interfering RNA"
+        },
+        {
+          "title": "Quest for pharmacotherapy in aortic valve stenosis: the lipid hypothesis"
+        }
+      ],
+      "right": [
+        {
+          "title": "Aortic valve sclerosis and clinical outcomes: moving toward a definition."
+        },
+        {
+          "title": "Aortic Valve Sclerosis and Degenerative Valve Disease in a Nigerian Population: An Echocardiographic Study."
+        },
+        {
+          "title": "Heart Valve Abnormalities in Systemic Sclerosis Patients: A Multicenter Cohort Study and Review of the Literature."
+        },
+        {
+          "title": "Metabolomics of aortic valve stenosis: Are aortic valve stenosis and sclerosis different diseases?"
+        },
+        {
+          "title": "Role of p38 MAPK in Atherosclerosis and Aortic Valve Sclerosis."
+        }
+      ]
+    },
+    {
+      "id": "q106",
+      "query": "What are the most effective methods of penetrating biofilms for use in vivo?",
+      "left": [
+        {
+          "title": "Biofilms: Formation, Research Models, Potential Targets, and Methods for Prevention and Treatment"
+        },
+        {
+          "title": "Dual bioresponsive antibiotic and quorum sensing inhibitor combination nanoparticles for treatment of Pseudomonas aeruginosa biofilms in vitro and ex vivo"
+        },
+        {
+          "title": "Quantification and Comparison of Different Biofilm Components from Methicillin-Susceptible Staphylococcus aureus Treated with Tranexamic Acid Using an In Vitro Model"
+        },
+        {
+          "title": "Biofilms: structure, resistance mechanism, emerging control strategies, and applications"
+        },
+        {
+          "title": "Understanding bacterial biofilms: From definition to treatment strategies"
+        }
+      ],
+      "right": [
+        {
+          "title": "Glutamate nanoregulator for metabolic immunotherapy of biofilm-associated implant infections."
+        },
+        {
+          "title": "Impact of bacterial biofilm on the treatment of prosthetic joint infections."
+        },
+        {
+          "title": "Fluoroquinolones and Biofilm: A Narrative Review."
+        },
+        {
+          "title": "Metal-phenolic nanoparticles enhance low temperature photothermal therapy for bacterial biofilm in superficial infections."
+        },
+        {
+          "title": "A systematic review of the potential neurotoxicity of micro-and nanoplastics: the known and unknown."
+        }
+      ]
+    },
+    {
+      "id": "q107",
+      "query": "Do astrocyte-derived extracellular vesicles propagate neuroinflammatory signaling between glial cells?",
+      "left": [
+        {
+          "title": "Activated Microglia-Derived Extracellular Vesicles Elicit a Pro-Inflammatory Astrocytic Response via Cargo-Dependent Mechanisms"
+        },
+        {
+          "title": "Extracellular vesicles released by LPS-stimulated spinal organotypic slices spread neuroinflammation into naïve slices through connexin43 hemichannel opening and astrocyte aberrant calcium dynamics"
+        },
+        {
+          "title": "Astrocyte-derived exosomal miR-378a-5p mitigates cerebral ischemic neuroinflammation by modulating NLRP3-mediated pyroptosis"
+        },
+        {
+          "title": "Astrocytes and Astrocyte-Derived Extracellular Conduits in Opiate-Mediated Neurological Disorders"
+        },
+        {
+          "title": "TLR4 participates in the transmission of ethanol-induced neuroinflammation via astrocyte-derived extracellular vesicles"
+        }
+      ],
+      "right": [
+        {
+          "title": "Astrocyte-derived extracellular vesicular NFIA mediates obesity-associated cognitive impairment."
+        },
+        {
+          "title": "Astrocyte-Derived Extracellular Vesicles (ADEVs): Deciphering their Influences in Aging."
+        },
+        {
+          "title": "Astrocyte-derived extracellular vesicles in stress-associated mood disorders. Does the immune system get astrocytic?"
+        },
+        {
+          "title": "Astrocyte-Derived Extracellular Vesicles for Ischemic Stroke: Therapeutic Potential and Prospective."
+        },
+        {
+          "title": "Astrocyte-derived extracellular vesicles: A double-edged sword in central nervous system disorders."
+        }
+      ]
+    },
+    {
+      "id": "q108",
+      "query": "Biochemically, why do aluminium ions enhance protein aggregation?",
+      "left": [
+        {
+          "title": "Structure and Function of Stefin B Oligomers -Important Role in Amyloidogenesis"
+        },
+        {
+          "title": "Comparative Effects of Aβ ₍₁₋₄₂₎-Al Complex from Rat and Human Amyloid on Rat Endothelial Cell Cultures"
+        },
+        {
+          "title": "Abstracts of the First International Conference on Metals and the Brain, From Neurochemistry to Neurodegeneration"
+        },
+        {
+          "title": "Aluminum in the Diet and Alzheimer's Disease: From Current Epidemiology to Possible Disease-Modifying Treatment"
+        },
+        {
+          "title": "The Open Biotechnology Journal"
+        }
+      ],
+      "right": [
+        {
+          "title": "Study on the role of AlOOH in fluorescence correction and depth purification of Cyclops water."
+        },
+        {
+          "title": "Neuroprotective effects of eugenol against aluminiuminduced toxicity in the rat brain."
+        },
+        {
+          "title": "AlCl3 induced learning and memory deficit in zebrafish."
+        },
+        {
+          "title": "Comparative studies of Al3+ ions and Al2O3 nanoparticles on growth and metabolism of cabbage seedlings."
+        },
+        {
+          "title": "Augmenting vaccine efficacy: Tailored immune strategy with alum-stabilized Pickering emulsion."
+        }
+      ]
+    },
+    {
+      "id": "q109",
+      "query": "Does genetic testing for familial hypercholesterolemia change statin prescribing intensity in young patients with premature coronary artery disease?",
+      "left": [
+        {
+          "title": "A Critical Appraisal of Lipid Management in the Post-Statin Era : Comparison on Guidelines, Therapeutic Targets, and Screening in a Case-Based Framework of Lipid Management"
+        },
+        {
+          "title": "Genetic testing for a patient with suspected familial hypercholesterolaemia"
+        },
+        {
+          "title": "Two Cases of Heterozygous Familial Hypercholesterolemia in Children Effectively Managed With Pitavastatin and Ezetimibe Combination Therapy"
+        },
+        {
+          "title": "A keen eye for risk"
+        },
+        {
+          "title": "Open Journal of Cardiovascular Surgery"
+        }
+      ],
+      "right": [
+        {
+          "title": "Genetic Counseling and Genetic Testing for Familial Hypercholesterolemia."
+        },
+        {
+          "title": "Genetic Testing in Familial Hypercholesterolemia: Is It for Everyone?"
+        },
+        {
+          "title": "Genetic testing for familial hypercholesterolemia."
+        },
+        {
+          "title": "Clinical Genetic Testing for Familial Hypercholesterolemia: JACC Scientific Expert Panel."
+        },
+        {
+          "title": "Limited-Variant Screening vs Comprehensive Genetic Testing for Familial Hypercholesterolemia Diagnosis."
+        }
+      ]
+    },
+    {
+      "id": "q110",
+      "query": "What is the role of ACPAs and are they protective or pathogenic in RA?",
+      "left": [
+        {
+          "title": "Fusobacterium nucleatum aggravates rheumatoid arthritis through FadA-containing outer membrane vesicles."
+        },
+        {
+          "title": "Individual myasthenia gravis autoantibody clones can efficiently mediate multiple mechanisms of pathology."
+        },
+        {
+          "title": "Parvovirus B19 infection in children: a comprehensive review of clinical manifestations and management."
+        },
+        {
+          "title": "Molecular Epidemiology and In-Depth Characterization of Klebsiella pneumoniae Clinical Isolates from Armenia."
+        },
+        {
+          "title": "De novo design of potent inhibitors of clostridial family toxins."
+        }
+      ],
+      "right": [
+        {
+          "title": "Measuring ACPA in the general population or primary care: is it useful?"
+        },
+        {
+          "title": "Current view on the pathogenic role of anti-citrullinated protein antibodies in rheumatoid arthritis"
+        },
+        {
+          "title": "Immunophenotypic Landscape of synovial tissue in rheumatoid arthritis: Insights from ACPA status"
+        },
+        {
+          "title": "The role of anti-citrullinated protein antibody in pathogenesis of RA"
+        },
+        {
+          "title": "The genetic pathogenesis, diagnosis and therapeutic insight of rheumatoid arthritis"
+        }
+      ]
+    },
+    {
+      "id": "q111",
+      "query": "Does lecanemab treatment slow cognitive decline in early symptomatic Alzheimer's disease compared to placebo?",
+      "left": [
+        {
+          "title": "Ann Robinson’s research reviews—27 July 2023"
+        },
+        {
+          "title": "A Change of Mind: Targeting Amyloid-β with Better Safety Profile"
+        },
+        {
+          "title": "Natural Chiral Scaffolds in Alzheimer′s Disease: Therapeutic Potential, Mechanism, and Clinical Aspects"
+        },
+        {
+          "title": "Lecanemab reduces brain amyloid-b and delays cognitive worsening"
+        },
+        {
+          "title": "Initial Real-World Evidence for Lecanemab in the United States"
+        }
+      ],
+      "right": [
+        {
+          "title": "An Update of the Treatment Landscape for Alzheimer's Disease: From Symptomatic Treatments to the Emergence of Amyloid-Targeting Therapies."
+        },
+        {
+          "title": "Amyloid-beta-targeting monoclonal antibodies for people with mild cognitive impairment or mild dementia due to Alzheimer's disease."
+        },
+        {
+          "title": "Antiamyloid Monoclonal Antibody Therapy for Alzheimer Disease: Emerging Issues in Neurology."
+        },
+        {
+          "title": "Treatment of Alzheimer Disease."
+        },
+        {
+          "title": "Therapeutic Landscape of Early Symptomatic Alzheimer's Disease Translated into Everyday Practice for Geriatric Providers."
+        }
+      ]
+    },
+    {
+      "id": "q112",
+      "query": "Does baseline autoantibody titer predict response to rituximab in rheumatoid arthritis patients?",
+      "left": [
+        {
+          "title": "Long-Lasting Rituximab-Induced Reduction of Specific-But Not Total-IgG4 in MuSK-Positive Myasthenia Gravis."
+        },
+        {
+          "title": "Long-Term Follow Up in Anti-Contactin-1 Autoimmune Nodopathy."
+        },
+        {
+          "title": "Predictors of response to rituximab in patients with active rheumatoid arthritis and inadequate response to anti-TNF agents or traditional DMARDs."
+        },
+        {
+          "title": "Clinical and Laboratory Features in Anti-NF155 Autoimmune Nodopathy."
+        },
+        {
+          "title": "Restrictive IgG antibody response against mutated citrullinated vimentin predicts response to rituximab in patients with rheumatoid arthritis."
+        }
+      ],
+      "right": [
+        {
+          "title": "High-Titer Rheumatoid Factor is Associated with Worse Clinical Outcomes and Higher Needs for Advanced Therapies in Rheumatoid Arthritis Under Real-Life Conditions"
+        },
+        {
+          "title": "Posters II"
+        },
+        {
+          "title": "Biological therapy for rheumatoid arthritis: is personalised medicine possible?"
+        },
+        {
+          "title": "The interferon type I signature towards prediction of non-response to rituximab in rheumatoid arthritis patients"
+        },
+        {
+          "title": "NK cell count as predictor of clinical response in patients with rheumatoid arthritis treated with rituximab"
+        }
+      ]
+    },
+    {
+      "id": "q113",
+      "query": "Does coronary artery calcium scoring improve risk reclassification beyond traditional risk factors for primary prevention of coronary artery disease?",
+      "left": [
+        {
+          "title": "Coronary Artery Calcium Scoring for Risk Reclassification and Prediction of Hard Cardiovascular Events in Asymptomatic Adults at Low-to-Intermediate Cardiovascular Risk: A Systematic Review."
+        },
+        {
+          "title": "Coronary Artery Calcium in Assessment of Atherosclerotic Cardiovascular Disease Risk and its Role in Primary Prevention."
+        },
+        {
+          "title": "Artificial Intelligence in Coronary Artery Calcium Scoring Detection and Quantification."
+        },
+        {
+          "title": "Prevalence and Prognostic Implications of Coronary Artery Calcification in Low-Risk Women: A Meta-analysis."
+        },
+        {
+          "title": "Incremental benefit of coronary artery calcium score above traditional risk factors for all-cause mortality in asymptomatic Korean adults."
+        }
+      ],
+      "right": [
+        {
+          "title": "Natural course of coronary artery calcium progression in Asian population with an initial score of zero"
+        },
+        {
+          "title": "Added value of cardiovascular calcifications for prediction of recurrent cardiovascular events and cardiovascular interventions in patients with established cardiovascular disease"
+        },
+        {
+          "title": "Role of Coronary Artery Calcium Score CT in Risk Stratification of Asymptomatic Individuals"
+        },
+        {
+          "title": "Predictive values of coronary artery calcium and arterial stiffness for long‐term cardiovascular events in patients with stable coronary artery disease"
+        },
+        {
+          "title": "Prognostic relevance of subclinical coronary and carotid atherosclerosis in a diabetic and nondiabetic asymptomatic population"
+        }
+      ]
+    },
+    {
+      "id": "q114",
+      "query": "Which JAK inhibitors have most recently entered clinical trials, and for which indications?",
+      "left": [
+        {
+          "title": "Pediatric Alopecia Areata."
+        },
+        {
+          "title": "An Update on JAK Inhibitors."
+        },
+        {
+          "title": "Pharmacological targeting of the JAK-STAT pathway: new concepts and emerging indications."
+        },
+        {
+          "title": "Expert consensus statement on the treatment of immune-mediated inflammatory diseases with Janus kinase inhibitors: 2024 update."
+        },
+        {
+          "title": "Recent Advances in Vitiligo Treatment."
+        }
+      ],
+      "right": [
+        {
+          "title": "Abrocitinib: A panacea for atopic dermatitis"
+        },
+        {
+          "title": "Evolving cognition of the JAK-STAT signaling pathway: autoimmune disorders and cancer"
+        },
+        {
+          "title": "The Role of JAK/STAT Signaling Pathway and Its Downstream Influencing Factors in the Treatment of Atherosclerosis"
+        },
+        {
+          "title": "Update on the therapeutic management of patients with either psoriatic arthritis or ulcerative colitis: focus on the JAK inhibitor tofacitinib"
+        },
+        {
+          "title": "Signaling pathways in rheumatoid arthritis: implications for targeted therapy"
+        }
+      ]
+    },
+    {
+      "id": "q115",
+      "query": "Are somatic hypermutation patterns in ACPA-positive B cell receptors consistent with antigen-driven selection?",
+      "left": [
+        {
+          "title": "N-Linked Glycans in the Variable Domain of IgG Anti-Citrullinated Protein Antibodies Predict the Development of Rheumatoid Arthritis"
+        },
+        {
+          "title": "V _H Gene Use by HIV Type 1-Associated Lymphoproliferations"
+        },
+        {
+          "title": "Current state and future directions of basic research in rheumatoid arthritis"
+        },
+        {
+          "title": "Quantifying selection in high-throughput Immunoglobulin sequencing data sets"
+        },
+        {
+          "title": "A multi-objective based clustering for inferring BCR clonal lineages from high-throughput B cell repertoire data"
+        }
+      ],
+      "right": [
+        {
+          "title": "Altered somatic hypermutation patterns in COVID-19 patients classifies disease severity."
+        },
+        {
+          "title": "p53abn Endometrial Cancer: understanding the most aggressive endometrial cancers in the era of molecular classification."
+        },
+        {
+          "title": "Somatic hypermutation patterns are shaped by both motif position and sequence grammar."
+        },
+        {
+          "title": "The genomic landscape of 2,023 colorectal cancers."
+        },
+        {
+          "title": "Mesoscale DNA feature in antibody-coding sequence facilitates somatic hypermutation."
+        }
+      ]
+    }
+  ]
+}

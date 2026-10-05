@@ -1,0 +1,27 @@
+{
+  "n_queries": 115,
+  "judges": [
+    "cardiology_expert",
+    "neurology_expert",
+    "rheumatology_expert"
+  ],
+  "disqualified": [],
+  "systems": {
+    "pubmed": {
+      "k": 5,
+      "n_scored": 571,
+      "mean_relevance": 1.384413309982487,
+      "precision": 0.3975481611208406,
+      "mean_dcg": 4.018988094755849,
+      "zero_result_questions": 0
+    },
+    "redpine": {
+      "k": 5,
+      "n_scored": 572,
+      "mean_relevance": 2.4265734265734267,
+      "precision": 0.7517482517482518,
+      "mean_dcg": 7.261744679846456,
+      "zero_result_questions": 0
+    }
+  }
+}

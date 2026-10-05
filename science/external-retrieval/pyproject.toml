@@ -1,0 +1,18 @@
+[project]
+name = "external-retrieval"
+version = "0.1.0"
+description = "Redpine Science vs. Tavily vs. Exa, single-shot retrieval on Exa's publication-retrieval benchmark: the runner and evidence behind the external retrieval track"
+requires-python = ">=3.11"
+dependencies = [
+    "httpx>=0.27",
+    "python-dotenv>=1.0",
+    "pydantic>=2.0",
+]
+
+[dependency-groups]
+dev = ["pytest>=8.0.0", "pytest-asyncio>=0.23"]
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
+testpaths = ["tests"]
+asyncio_mode = "auto"

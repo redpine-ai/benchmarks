@@ -1,0 +1,2183 @@
+{
+  "answers": [
+    {
+      "id": "q001",
+      "left_system": "redpine",
+      "right_system": "pubmed",
+      "left_true_ranks": [
+        1,
+        2,
+        3
+      ],
+      "right_true_ranks": [
+        2,
+        3,
+        1
+      ]
+    },
+    {
+      "id": "q002",
+      "left_system": "pubmed",
+      "right_system": "redpine",
+      "left_true_ranks": [
+        4,
+        1,
+        2,
+        3,
+        5
+      ],
+      "right_true_ranks": [
+        2,
+        5,
+        3,
+        4,
+        1
+      ]
+    },
+    {
+      "id": "q003",
+      "left_system": "pubmed",
+      "right_system": "redpine",
+      "left_true_ranks": [
+        5,
+        2,
+        1,
+        4,
+        3
+      ],
+      "right_true_ranks": [
+        5,
+        4,
+        3,
+        2,
+        1
+      ]
+    },
+    {
+      "id": "q004",
+      "left_system": "pubmed",
+      "right_system": "redpine",
+      "left_true_ranks": [
+        3,
+        5,
+        2,
+        4,
+        1
+      ],
+      "right_true_ranks": [
+        5,
+        4,
+        1,
+        3,
+        2
+      ]
+    },
+    {
+      "id": "q005",
+      "left_system": "pubmed",
+      "right_system": "redpine",
+      "left_true_ranks": [
+        1,
+        3,
+        5,
+        2,
+        4
+      ],
+      "right_true_ranks": [
+        2,
+        1,
+        4,
+        5,
+        3
+      ]
+    },
+    {
+      "id": "q006",
+      "left_system": "pubmed",
+      "right_system": "redpine",
+      "left_true_ranks": [
+        4,
+        5,
+        1,
+        2,
+        3
+      ],
+      "right_true_ranks": [
+        2,
+        4,
+        3,
+        5,
+        1
+      ]
+    },
+    {
+      "id": "q007",
+      "left_system": "pubmed",
+      "right_system": "redpine",
+      "left_true_ranks": [
+        4,
+        1,
+        3,
+        5,
+        2
+      ],
+      "right_true_ranks": [
+        4,
+        3,
+        2,
+        5,
+        1
+      ]
+    },
+    {
+      "id": "q008",
+      "left_system": "redpine",
+      "right_system": "pubmed",
+      "left_true_ranks": [
+        1,
+        2,
+        4,
+        3,
+        5
+      ],
+      "right_true_ranks": [
+        3,
+        5,
+        1,
+        4,
+        2
+      ]
+    },
+    {
+      "id": "q009",
+      "left_system": "redpine",
+      "right_system": "pubmed",
+      "left_true_ranks": [
+        3,
+        4,
+        2,
+        5,
+        1
+      ],
+      "right_true_ranks": [
+        4,
+        2,
+        1,
+        5,
+        3
+      ]
+    },
+    {
+      "id": "q010",
+      "left_system": "pubmed",
+      "right_system": "redpine",
+      "left_true_ranks": [
+        3,
+        4,
+        1,
+        2,
+        5
+      ],
+      "right_true_ranks": [
+        3,
+        5,
+        2,
+        1,
+        4
+      ]
+    },
+    {
+      "id": "q011",
+      "left_system": "pubmed",
+      "right_system": "redpine",
+      "left_true_ranks": [
+        1,
+        4,
+        2,
+        5,
+        3
+      ],
+      "right_true_ranks": [
+        1,
+        5,
+        4,
+        3,
+        2
+      ]
+    },
+    {
+      "id": "q012",
+      "left_system": "redpine",
+      "right_system": "pubmed",
+      "left_true_ranks": [
+        2,
+        3,
+        5,
+        1,
+        4
+      ],
+      "right_true_ranks": [
+        1,
+        2,
+        5,
+        4,
+        3
+      ]
+    },
+    {
+      "id": "q013",
+      "left_system": "redpine",
+      "right_system": "pubmed",
+      "left_true_ranks": [
+        5,
+        3,
+        4,
+        1,
+        2
+      ],
+      "right_true_ranks": [
+        5,
+        1,
+        3,
+        4,
+        2
+      ]
+    },
+    {
+      "id": "q014",
+      "left_system": "pubmed",
+      "right_system": "redpine",
+      "left_true_ranks": [
+        5,
+        2,
+        1,
+        3,
+        4
+      ],
+      "right_true_ranks": [
+        3,
+        5,
+        1,
+        4,
+        2
+      ]
+    },
+    {
+      "id": "q015",
+      "left_system": "redpine",
+      "right_system": "pubmed",
+      "left_true_ranks": [
+        3,
+        1,
+        2,
+        4,
+        5
+      ],
+      "right_true_ranks": [
+        3,
+        4,
+        1,
+        2,
+        5
+      ]
+    },
+    {
+      "id": "q016",
+      "left_system": "pubmed",
+      "right_system": "redpine",
+      "left_true_ranks": [
+        5,
+        3,
+        4,
+        1,
+        2
+      ],
+      "right_true_ranks": [
+        5,
+        1,
+        4,
+        3,
+        2
+      ]
+    },
+    {
+      "id": "q017",
+      "left_system": "pubmed",
+      "right_system": "redpine",
+      "left_true_ranks": [
+        2,
+        3,
+        1,
+        5,
+        4
+      ],
+      "right_true_ranks": [
+        5,
+        2,
+        1,
+        3,
+        4
+      ]
+    },
+    {
+      "id": "q018",
+      "left_system": "pubmed",
+      "right_system": "redpine",
+      "left_true_ranks": [
+        3,
+        1,
+        5,
+        2,
+        4
+      ],
+      "right_true_ranks": [
+        1,
+        4,
+        5,
+        3,
+        2
+      ]
+    },
+    {
+      "id": "q019",
+      "left_system": "redpine",
+      "right_system": "pubmed",
+      "left_true_ranks": [
+        4,
+        2,
+        3,
+        1,
+        5
+      ],
+      "right_true_ranks": [
+        5,
+        4,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "id": "q020",
+      "left_system": "redpine",
+      "right_system": "pubmed",
+      "left_true_ranks": [
+        3,
+        2,
+        1,
+        4,
+        5
+      ],
+      "right_true_ranks": [
+        2,
+        4,
+        5,
+        1,
+        3
+      ]
+    },
+    {
+      "id": "q021",
+      "left_system": "redpine",
+      "right_system": "pubmed",
+      "left_true_ranks": [
+        2,
+        4,
+        3,
+        1,
+        5
+      ],
+      "right_true_ranks": [
+        3,
+        5,
+        2,
+        4,
+        1
+      ]
+    },
+    {
+      "id": "q022",
+      "left_system": "pubmed",
+      "right_system": "redpine",
+      "left_true_ranks": [
+        2,
+        4,
+        3,
+        1,
+        5
+      ],
+      "right_true_ranks": [
+        5,
+        1,
+        4,
+        2,
+        3
+      ]
+    },
+    {
+      "id": "q023",
+      "left_system": "redpine",
+      "right_system": "pubmed",
+      "left_true_ranks": [
+        3,
+        5,
+        2,
+        1,
+        4
+      ],
+      "right_true_ranks": [
+        1,
+        2,
+        4,
+        3,
+        5
+      ]
+    },
+    {
+      "id": "q024",
+      "left_system": "pubmed",
+      "right_system": "redpine",
+      "left_true_ranks": [
+        1,
+        5,
+        4,
+        3,
+        2
+      ],
+      "right_true_ranks": [
+        1,
+        4,
+        5,
+        3,
+        2
+      ]
+    },
+    {
+      "id": "q025",
+      "left_system": "pubmed",
+      "right_system": "redpine",
+      "left_true_ranks": [
+        1,
+        4,
+        5,
+        3,
+        2
+      ],
+      "right_true_ranks": [
+        5,
+        2,
+        3,
+        1,
+        4
+      ]
+    },
+    {
+      "id": "q026",
+      "left_system": "redpine",
+      "right_system": "pubmed",
+      "left_true_ranks": [
+        3,
+        4,
+        2,
+        5,
+        1
+      ],
+      "right_true_ranks": [
+        3,
+        5,
+        2,
+        1,
+        4
+      ]
+    },
+    {
+      "id": "q027",
+      "left_system": "redpine",
+      "right_system": "pubmed",
+      "left_true_ranks": [
+        1,
+        5,
+        2,
+        4,
+        3
+      ],
+      "right_true_ranks": [
+        2,
+        3,
+        5,
+        1,
+        4
+      ]
+    },
+    {
+      "id": "q028",
+      "left_system": "pubmed",
+      "right_system": "redpine",
+      "left_true_ranks": [
+        2,
+        3,
+        1,
+        4
+      ],
+      "right_true_ranks": [
+        1,
+        4,
+        3,
+        2
+      ]
+    },
+    {
+      "id": "q029",
+      "left_system": "redpine",
+      "right_system": "pubmed",
+      "left_true_ranks": [
+        5,
+        2,
+        3,
+        1,
+        4
+      ],
+      "right_true_ranks": [
+        5,
+        2,
+        4,
+        3,
+        1
+      ]
+    },
+    {
+      "id": "q030",
+      "left_system": "pubmed",
+      "right_system": "redpine",
+      "left_true_ranks": [
+        4,
+        1,
+        3,
+        2,
+        5
+      ],
+      "right_true_ranks": [
+        4,
+        3,
+        5,
+        2,
+        1
+      ]
+    },
+    {
+      "id": "q031",
+      "left_system": "pubmed",
+      "right_system": "redpine",
+      "left_true_ranks": [
+        1,
+        3,
+        4,
+        5,
+        2
+      ],
+      "right_true_ranks": [
+        5,
+        2,
+        4,
+        3,
+        1
+      ]
+    },
+    {
+      "id": "q032",
+      "left_system": "redpine",
+      "right_system": "pubmed",
+      "left_true_ranks": [
+        5,
+        3,
+        1,
+        2,
+        4
+      ],
+      "right_true_ranks": [
+        4,
+        2,
+        3,
+        1,
+        5
+      ]
+    },
+    {
+      "id": "q033",
+      "left_system": "redpine",
+      "right_system": "pubmed",
+      "left_true_ranks": [
+        1,
+        4,
+        3,
+        5,
+        2
+      ],
+      "right_true_ranks": [
+        4,
+        2,
+        5,
+        1,
+        3
+      ]
+    },
+    {
+      "id": "q034",
+      "left_system": "redpine",
+      "right_system": "pubmed",
+      "left_true_ranks": [
+        1,
+        3,
+        5,
+        4,
+        2
+      ],
+      "right_true_ranks": [
+        1,
+        2,
+        5,
+        4,
+        3
+      ]
+    },
+    {
+      "id": "q035",
+      "left_system": "pubmed",
+      "right_system": "redpine",
+      "left_true_ranks": [
+        4,
+        1,
+        3,
+        2,
+        5
+      ],
+      "right_true_ranks": [
+        5,
+        3,
+        2,
+        1,
+        4
+      ]
+    },
+    {
+      "id": "q036",
+      "left_system": "pubmed",
+      "right_system": "redpine",
+      "left_true_ranks": [
+        3,
+        5,
+        2,
+        1,
+        4
+      ],
+      "right_true_ranks": [
+        1,
+        4,
+        2,
+        3,
+        5
+      ]
+    },
+    {
+      "id": "q037",
+      "left_system": "redpine",
+      "right_system": "pubmed",
+      "left_true_ranks": [
+        1,
+        5,
+        4,
+        2,
+        3
+      ],
+      "right_true_ranks": [
+        5,
+        2,
+        4,
+        1,
+        3
+      ]
+    },
+    {
+      "id": "q038",
+      "left_system": "redpine",
+      "right_system": "pubmed",
+      "left_true_ranks": [
+        5,
+        1,
+        2,
+        3,
+        4
+      ],
+      "right_true_ranks": [
+        1,
+        3,
+        4,
+        2,
+        5
+      ]
+    },
+    {
+      "id": "q039",
+      "left_system": "redpine",
+      "right_system": "pubmed",
+      "left_true_ranks": [
+        4,
+        1,
+        2,
+        3,
+        5
+      ],
+      "right_true_ranks": [
+        3,
+        2,
+        1,
+        5,
+        4
+      ]
+    },
+    {
+      "id": "q040",
+      "left_system": "redpine",
+      "right_system": "pubmed",
+      "left_true_ranks": [
+        1,
+        2,
+        4,
+        5,
+        3
+      ],
+      "right_true_ranks": [
+        4,
+        5,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "id": "q041",
+      "left_system": "pubmed",
+      "right_system": "redpine",
+      "left_true_ranks": [
+        5,
+        4,
+        1,
+        2,
+        3
+      ],
+      "right_true_ranks": [
+        4,
+        2,
+        1,
+        5,
+        3
+      ]
+    },
+    {
+      "id": "q042",
+      "left_system": "redpine",
+      "right_system": "pubmed",
+      "left_true_ranks": [
+        5,
+        4,
+        1,
+        3,
+        2
+      ],
+      "right_true_ranks": [
+        1,
+        5,
+        3,
+        4,
+        2
+      ]
+    },
+    {
+      "id": "q043",
+      "left_system": "pubmed",
+      "right_system": "redpine",
+      "left_true_ranks": [
+        5,
+        3,
+        1,
+        2,
+        4
+      ],
+      "right_true_ranks": [
+        4,
+        1,
+        3,
+        5,
+        2
+      ]
+    },
+    {
+      "id": "q044",
+      "left_system": "redpine",
+      "right_system": "pubmed",
+      "left_true_ranks": [
+        1,
+        4,
+        2,
+        5,
+        3
+      ],
+      "right_true_ranks": [
+        3,
+        1,
+        2,
+        4,
+        5
+      ]
+    },
+    {
+      "id": "q045",
+      "left_system": "redpine",
+      "right_system": "pubmed",
+      "left_true_ranks": [
+        2,
+        1,
+        4,
+        3,
+        5
+      ],
+      "right_true_ranks": [
+        1,
+        3,
+        2,
+        4,
+        5
+      ]
+    },
+    {
+      "id": "q046",
+      "left_system": "redpine",
+      "right_system": "pubmed",
+      "left_true_ranks": [
+        2,
+        5,
+        3,
+        4,
+        1
+      ],
+      "right_true_ranks": [
+        4,
+        1,
+        2,
+        3,
+        5
+      ]
+    },
+    {
+      "id": "q047",
+      "left_system": "redpine",
+      "right_system": "pubmed",
+      "left_true_ranks": [
+        3,
+        1,
+        4,
+        5,
+        2
+      ],
+      "right_true_ranks": [
+        3,
+        5,
+        4,
+        1,
+        2
+      ]
+    },
+    {
+      "id": "q048",
+      "left_system": "redpine",
+      "right_system": "pubmed",
+      "left_true_ranks": [
+        5,
+        4,
+        2,
+        1,
+        3
+      ],
+      "right_true_ranks": [
+        1,
+        3,
+        5,
+        2,
+        4
+      ]
+    },
+    {
+      "id": "q049",
+      "left_system": "pubmed",
+      "right_system": "redpine",
+      "left_true_ranks": [
+        5,
+        3,
+        1,
+        4,
+        2
+      ],
+      "right_true_ranks": [
+        1,
+        4,
+        2,
+        3,
+        5
+      ]
+    },
+    {
+      "id": "q050",
+      "left_system": "redpine",
+      "right_system": "pubmed",
+      "left_true_ranks": [
+        5,
+        3,
+        2,
+        4,
+        1
+      ],
+      "right_true_ranks": [
+        3,
+        2,
+        5,
+        1,
+        4
+      ]
+    },
+    {
+      "id": "q051",
+      "left_system": "pubmed",
+      "right_system": "redpine",
+      "left_true_ranks": [
+        2,
+        4,
+        1,
+        5,
+        3
+      ],
+      "right_true_ranks": [
+        4,
+        5,
+        3,
+        2,
+        1
+      ]
+    },
+    {
+      "id": "q052",
+      "left_system": "redpine",
+      "right_system": "pubmed",
+      "left_true_ranks": [
+        2,
+        5,
+        3,
+        1,
+        4
+      ],
+      "right_true_ranks": [
+        3,
+        1,
+        2,
+        5,
+        4
+      ]
+    },
+    {
+      "id": "q053",
+      "left_system": "pubmed",
+      "right_system": "redpine",
+      "left_true_ranks": [
+        3,
+        1,
+        4,
+        5,
+        2
+      ],
+      "right_true_ranks": [
+        3,
+        5,
+        1,
+        4,
+        2
+      ]
+    },
+    {
+      "id": "q054",
+      "left_system": "redpine",
+      "right_system": "pubmed",
+      "left_true_ranks": [
+        4,
+        3,
+        2,
+        5,
+        1
+      ],
+      "right_true_ranks": [
+        3,
+        5,
+        4,
+        2,
+        1
+      ]
+    },
+    {
+      "id": "q055",
+      "left_system": "redpine",
+      "right_system": "pubmed",
+      "left_true_ranks": [
+        2,
+        5,
+        1,
+        4,
+        3
+      ],
+      "right_true_ranks": [
+        5,
+        2,
+        3,
+        4,
+        1
+      ]
+    },
+    {
+      "id": "q056",
+      "left_system": "pubmed",
+      "right_system": "redpine",
+      "left_true_ranks": [
+        1,
+        5,
+        3,
+        4,
+        2
+      ],
+      "right_true_ranks": [
+        2,
+        1,
+        5,
+        4,
+        3
+      ]
+    },
+    {
+      "id": "q057",
+      "left_system": "pubmed",
+      "right_system": "redpine",
+      "left_true_ranks": [
+        4,
+        2,
+        3,
+        5,
+        1
+      ],
+      "right_true_ranks": [
+        2,
+        5,
+        1,
+        4,
+        3
+      ]
+    },
+    {
+      "id": "q058",
+      "left_system": "pubmed",
+      "right_system": "redpine",
+      "left_true_ranks": [
+        1,
+        5,
+        4,
+        3,
+        2
+      ],
+      "right_true_ranks": [
+        3,
+        4,
+        1,
+        5,
+        2
+      ]
+    },
+    {
+      "id": "q059",
+      "left_system": "pubmed",
+      "right_system": "redpine",
+      "left_true_ranks": [
+        4,
+        3,
+        2,
+        1,
+        5
+      ],
+      "right_true_ranks": [
+        2,
+        5,
+        1,
+        4,
+        3
+      ]
+    },
+    {
+      "id": "q060",
+      "left_system": "pubmed",
+      "right_system": "redpine",
+      "left_true_ranks": [
+        5,
+        1,
+        3,
+        2,
+        4
+      ],
+      "right_true_ranks": [
+        1,
+        3,
+        4,
+        5,
+        2
+      ]
+    },
+    {
+      "id": "q061",
+      "left_system": "pubmed",
+      "right_system": "redpine",
+      "left_true_ranks": [
+        3,
+        5,
+        4,
+        2,
+        1
+      ],
+      "right_true_ranks": [
+        1,
+        3,
+        4,
+        5,
+        2
+      ]
+    },
+    {
+      "id": "q062",
+      "left_system": "redpine",
+      "right_system": "pubmed",
+      "left_true_ranks": [
+        1,
+        5,
+        2,
+        4,
+        3
+      ],
+      "right_true_ranks": [
+        1,
+        4,
+        3,
+        2,
+        5
+      ]
+    },
+    {
+      "id": "q063",
+      "left_system": "redpine",
+      "right_system": "pubmed",
+      "left_true_ranks": [
+        1,
+        3,
+        4,
+        2,
+        5
+      ],
+      "right_true_ranks": [
+        1,
+        4,
+        5,
+        3,
+        2
+      ]
+    },
+    {
+      "id": "q064",
+      "left_system": "pubmed",
+      "right_system": "redpine",
+      "left_true_ranks": [
+        1,
+        2,
+        3,
+        5,
+        4
+      ],
+      "right_true_ranks": [
+        1,
+        3,
+        2,
+        4,
+        5
+      ]
+    },
+    {
+      "id": "q065",
+      "left_system": "redpine",
+      "right_system": "pubmed",
+      "left_true_ranks": [
+        2,
+        1,
+        5,
+        4,
+        3
+      ],
+      "right_true_ranks": [
+        1,
+        2,
+        3,
+        5,
+        4
+      ]
+    },
+    {
+      "id": "q066",
+      "left_system": "pubmed",
+      "right_system": "redpine",
+      "left_true_ranks": [
+        4,
+        2,
+        3,
+        5,
+        1
+      ],
+      "right_true_ranks": [
+        1,
+        2,
+        5,
+        3,
+        4
+      ]
+    },
+    {
+      "id": "q067",
+      "left_system": "redpine",
+      "right_system": "pubmed",
+      "left_true_ranks": [
+        2,
+        5,
+        4,
+        3,
+        1
+      ],
+      "right_true_ranks": [
+        5,
+        4,
+        2,
+        1,
+        3
+      ]
+    },
+    {
+      "id": "q068",
+      "left_system": "redpine",
+      "right_system": "pubmed",
+      "left_true_ranks": [
+        4,
+        3,
+        5,
+        2,
+        1
+      ],
+      "right_true_ranks": [
+        4,
+        2,
+        3,
+        1,
+        5
+      ]
+    },
+    {
+      "id": "q069",
+      "left_system": "pubmed",
+      "right_system": "redpine",
+      "left_true_ranks": [
+        3,
+        1,
+        4,
+        5,
+        2
+      ],
+      "right_true_ranks": [
+        4,
+        2,
+        3,
+        5,
+        1
+      ]
+    },
+    {
+      "id": "q070",
+      "left_system": "pubmed",
+      "right_system": "redpine",
+      "left_true_ranks": [
+        2,
+        3,
+        1,
+        5,
+        4
+      ],
+      "right_true_ranks": [
+        3,
+        1,
+        5,
+        4,
+        2
+      ]
+    },
+    {
+      "id": "q071",
+      "left_system": "redpine",
+      "right_system": "pubmed",
+      "left_true_ranks": [
+        1,
+        2,
+        3,
+        5,
+        4
+      ],
+      "right_true_ranks": [
+        4,
+        3,
+        5,
+        1,
+        2
+      ]
+    },
+    {
+      "id": "q072",
+      "left_system": "redpine",
+      "right_system": "pubmed",
+      "left_true_ranks": [
+        3,
+        4,
+        1,
+        5,
+        2
+      ],
+      "right_true_ranks": [
+        5,
+        1,
+        3,
+        4,
+        2
+      ]
+    },
+    {
+      "id": "q073",
+      "left_system": "pubmed",
+      "right_system": "redpine",
+      "left_true_ranks": [
+        5,
+        3,
+        2,
+        1,
+        4
+      ],
+      "right_true_ranks": [
+        1,
+        5,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "id": "q074",
+      "left_system": "redpine",
+      "right_system": "pubmed",
+      "left_true_ranks": [
+        1,
+        4,
+        5,
+        2,
+        3
+      ],
+      "right_true_ranks": [
+        1,
+        5,
+        3,
+        4,
+        2
+      ]
+    },
+    {
+      "id": "q075",
+      "left_system": "redpine",
+      "right_system": "pubmed",
+      "left_true_ranks": [
+        4,
+        5,
+        1,
+        2,
+        3
+      ],
+      "right_true_ranks": [
+        1,
+        5,
+        3,
+        2,
+        4
+      ]
+    },
+    {
+      "id": "q076",
+      "left_system": "redpine",
+      "right_system": "pubmed",
+      "left_true_ranks": [
+        1,
+        4,
+        3,
+        5,
+        2
+      ],
+      "right_true_ranks": [
+        3,
+        2,
+        4,
+        1,
+        5
+      ]
+    },
+    {
+      "id": "q077",
+      "left_system": "redpine",
+      "right_system": "pubmed",
+      "left_true_ranks": [
+        1,
+        5,
+        4,
+        3,
+        2
+      ],
+      "right_true_ranks": [
+        5,
+        3,
+        2,
+        1,
+        4
+      ]
+    },
+    {
+      "id": "q078",
+      "left_system": "redpine",
+      "right_system": "pubmed",
+      "left_true_ranks": [
+        2,
+        1,
+        3,
+        4,
+        5
+      ],
+      "right_true_ranks": [
+        4,
+        3,
+        5,
+        1,
+        2
+      ]
+    },
+    {
+      "id": "q079",
+      "left_system": "redpine",
+      "right_system": "pubmed",
+      "left_true_ranks": [
+        1,
+        4,
+        2,
+        3,
+        5
+      ],
+      "right_true_ranks": [
+        3,
+        2,
+        4,
+        1,
+        5
+      ]
+    },
+    {
+      "id": "q080",
+      "left_system": "redpine",
+      "right_system": "pubmed",
+      "left_true_ranks": [
+        4,
+        5,
+        1,
+        3,
+        2
+      ],
+      "right_true_ranks": [
+        3,
+        1,
+        2,
+        5,
+        4
+      ]
+    },
+    {
+      "id": "q081",
+      "left_system": "pubmed",
+      "right_system": "redpine",
+      "left_true_ranks": [
+        2,
+        3,
+        1,
+        5,
+        4
+      ],
+      "right_true_ranks": [
+        3,
+        1,
+        2,
+        4,
+        5
+      ]
+    },
+    {
+      "id": "q082",
+      "left_system": "pubmed",
+      "right_system": "redpine",
+      "left_true_ranks": [
+        4,
+        1,
+        3,
+        2,
+        5
+      ],
+      "right_true_ranks": [
+        3,
+        1,
+        2,
+        4,
+        5
+      ]
+    },
+    {
+      "id": "q083",
+      "left_system": "pubmed",
+      "right_system": "redpine",
+      "left_true_ranks": [
+        1,
+        4,
+        2,
+        5,
+        3
+      ],
+      "right_true_ranks": [
+        1,
+        4,
+        2,
+        5,
+        3
+      ]
+    },
+    {
+      "id": "q084",
+      "left_system": "redpine",
+      "right_system": "pubmed",
+      "left_true_ranks": [
+        2,
+        3,
+        4,
+        1,
+        5
+      ],
+      "right_true_ranks": [
+        2,
+        5,
+        3,
+        4,
+        1
+      ]
+    },
+    {
+      "id": "q085",
+      "left_system": "redpine",
+      "right_system": "pubmed",
+      "left_true_ranks": [
+        2,
+        5,
+        3,
+        1,
+        4
+      ],
+      "right_true_ranks": [
+        4,
+        3,
+        5,
+        1,
+        2
+      ]
+    },
+    {
+      "id": "q086",
+      "left_system": "pubmed",
+      "right_system": "redpine",
+      "left_true_ranks": [
+        4,
+        3,
+        1,
+        5,
+        2
+      ],
+      "right_true_ranks": [
+        5,
+        4,
+        3,
+        1,
+        2
+      ]
+    },
+    {
+      "id": "q087",
+      "left_system": "redpine",
+      "right_system": "pubmed",
+      "left_true_ranks": [
+        5,
+        3,
+        2,
+        4,
+        1
+      ],
+      "right_true_ranks": [
+        4,
+        5,
+        3,
+        2,
+        1
+      ]
+    },
+    {
+      "id": "q088",
+      "left_system": "pubmed",
+      "right_system": "redpine",
+      "left_true_ranks": [
+        3,
+        5,
+        2,
+        4,
+        1
+      ],
+      "right_true_ranks": [
+        3,
+        2,
+        5,
+        1,
+        4
+      ]
+    },
+    {
+      "id": "q089",
+      "left_system": "pubmed",
+      "right_system": "redpine",
+      "left_true_ranks": [
+        3,
+        4,
+        1,
+        2,
+        5
+      ],
+      "right_true_ranks": [
+        3,
+        1,
+        2,
+        5,
+        4
+      ]
+    },
+    {
+      "id": "q090",
+      "left_system": "redpine",
+      "right_system": "pubmed",
+      "left_true_ranks": [
+        2,
+        4,
+        5,
+        1,
+        3
+      ],
+      "right_true_ranks": [
+        2,
+        3,
+        1,
+        5,
+        4
+      ]
+    },
+    {
+      "id": "q091",
+      "left_system": "pubmed",
+      "right_system": "redpine",
+      "left_true_ranks": [
+        5,
+        1,
+        3,
+        2,
+        4
+      ],
+      "right_true_ranks": [
+        4,
+        3,
+        5,
+        2,
+        1
+      ]
+    },
+    {
+      "id": "q092",
+      "left_system": "redpine",
+      "right_system": "pubmed",
+      "left_true_ranks": [
+        5,
+        1,
+        2,
+        4,
+        3
+      ],
+      "right_true_ranks": [
+        1,
+        4,
+        5,
+        3,
+        2
+      ]
+    },
+    {
+      "id": "q093",
+      "left_system": "redpine",
+      "right_system": "pubmed",
+      "left_true_ranks": [
+        2,
+        3,
+        1,
+        5,
+        4
+      ],
+      "right_true_ranks": [
+        3,
+        2,
+        4,
+        5,
+        1
+      ]
+    },
+    {
+      "id": "q094",
+      "left_system": "redpine",
+      "right_system": "pubmed",
+      "left_true_ranks": [
+        5,
+        4,
+        3,
+        1,
+        2
+      ],
+      "right_true_ranks": [
+        1,
+        2,
+        4,
+        5,
+        3
+      ]
+    },
+    {
+      "id": "q095",
+      "left_system": "redpine",
+      "right_system": "pubmed",
+      "left_true_ranks": [
+        4,
+        1,
+        2,
+        5,
+        3
+      ],
+      "right_true_ranks": [
+        5,
+        2,
+        3,
+        4,
+        1
+      ]
+    },
+    {
+      "id": "q096",
+      "left_system": "pubmed",
+      "right_system": "redpine",
+      "left_true_ranks": [
+        2,
+        1,
+        4,
+        3,
+        5
+      ],
+      "right_true_ranks": [
+        3,
+        5,
+        4,
+        1,
+        2
+      ]
+    },
+    {
+      "id": "q097",
+      "left_system": "redpine",
+      "right_system": "pubmed",
+      "left_true_ranks": [
+        4,
+        5,
+        3,
+        1,
+        2
+      ],
+      "right_true_ranks": [
+        2,
+        5,
+        3,
+        1,
+        4
+      ]
+    },
+    {
+      "id": "q098",
+      "left_system": "pubmed",
+      "right_system": "redpine",
+      "left_true_ranks": [
+        5,
+        4,
+        3,
+        1,
+        2
+      ],
+      "right_true_ranks": [
+        1,
+        3,
+        5,
+        4,
+        2
+      ]
+    },
+    {
+      "id": "q099",
+      "left_system": "redpine",
+      "right_system": "pubmed",
+      "left_true_ranks": [
+        4,
+        3,
+        5,
+        2,
+        1
+      ],
+      "right_true_ranks": [
+        4,
+        2,
+        3,
+        1,
+        5
+      ]
+    },
+    {
+      "id": "q100",
+      "left_system": "redpine",
+      "right_system": "pubmed",
+      "left_true_ranks": [
+        5,
+        3,
+        1,
+        2,
+        4
+      ],
+      "right_true_ranks": [
+        1,
+        5,
+        4,
+        3,
+        2
+      ]
+    },
+    {
+      "id": "q101",
+      "left_system": "redpine",
+      "right_system": "pubmed",
+      "left_true_ranks": [
+        3,
+        2,
+        1,
+        4,
+        5
+      ],
+      "right_true_ranks": [
+        5,
+        1,
+        4,
+        2,
+        3
+      ]
+    },
+    {
+      "id": "q102",
+      "left_system": "redpine",
+      "right_system": "pubmed",
+      "left_true_ranks": [
+        4,
+        1,
+        5,
+        2,
+        3
+      ],
+      "right_true_ranks": [
+        5,
+        4,
+        3,
+        2,
+        1
+      ]
+    },
+    {
+      "id": "q103",
+      "left_system": "pubmed",
+      "right_system": "redpine",
+      "left_true_ranks": [
+        2,
+        1,
+        4,
+        3,
+        5
+      ],
+      "right_true_ranks": [
+        4,
+        5,
+        2,
+        1,
+        3
+      ]
+    },
+    {
+      "id": "q104",
+      "left_system": "redpine",
+      "right_system": "pubmed",
+      "left_true_ranks": [
+        1,
+        2,
+        5,
+        3,
+        4
+      ],
+      "right_true_ranks": [
+        1,
+        5,
+        4,
+        2,
+        3
+      ]
+    },
+    {
+      "id": "q105",
+      "left_system": "redpine",
+      "right_system": "pubmed",
+      "left_true_ranks": [
+        2,
+        4,
+        5,
+        1,
+        3
+      ],
+      "right_true_ranks": [
+        4,
+        3,
+        1,
+        5,
+        2
+      ]
+    },
+    {
+      "id": "q106",
+      "left_system": "redpine",
+      "right_system": "pubmed",
+      "left_true_ranks": [
+        3,
+        2,
+        5,
+        4,
+        1
+      ],
+      "right_true_ranks": [
+        4,
+        5,
+        3,
+        2,
+        1
+      ]
+    },
+    {
+      "id": "q107",
+      "left_system": "redpine",
+      "right_system": "pubmed",
+      "left_true_ranks": [
+        4,
+        2,
+        5,
+        3,
+        1
+      ],
+      "right_true_ranks": [
+        3,
+        1,
+        5,
+        2,
+        4
+      ]
+    },
+    {
+      "id": "q108",
+      "left_system": "redpine",
+      "right_system": "pubmed",
+      "left_true_ranks": [
+        5,
+        4,
+        2,
+        3,
+        1
+      ],
+      "right_true_ranks": [
+        5,
+        3,
+        2,
+        4,
+        1
+      ]
+    },
+    {
+      "id": "q109",
+      "left_system": "redpine",
+      "right_system": "pubmed",
+      "left_true_ranks": [
+        2,
+        3,
+        4,
+        1,
+        5
+      ],
+      "right_true_ranks": [
+        5,
+        4,
+        2,
+        1,
+        3
+      ]
+    },
+    {
+      "id": "q110",
+      "left_system": "pubmed",
+      "right_system": "redpine",
+      "left_true_ranks": [
+        1,
+        3,
+        2,
+        5,
+        4
+      ],
+      "right_true_ranks": [
+        2,
+        1,
+        5,
+        3,
+        4
+      ]
+    },
+    {
+      "id": "q111",
+      "left_system": "redpine",
+      "right_system": "pubmed",
+      "left_true_ranks": [
+        2,
+        4,
+        1,
+        5,
+        3
+      ],
+      "right_true_ranks": [
+        4,
+        2,
+        3,
+        1,
+        5
+      ]
+    },
+    {
+      "id": "q112",
+      "left_system": "pubmed",
+      "right_system": "redpine",
+      "left_true_ranks": [
+        5,
+        1,
+        3,
+        2,
+        4
+      ],
+      "right_true_ranks": [
+        4,
+        5,
+        2,
+        1,
+        3
+      ]
+    },
+    {
+      "id": "q113",
+      "left_system": "pubmed",
+      "right_system": "redpine",
+      "left_true_ranks": [
+        5,
+        2,
+        1,
+        4,
+        3
+      ],
+      "right_true_ranks": [
+        4,
+        1,
+        3,
+        2,
+        5
+      ]
+    },
+    {
+      "id": "q114",
+      "left_system": "pubmed",
+      "right_system": "redpine",
+      "left_true_ranks": [
+        3,
+        4,
+        1,
+        5,
+        2
+      ],
+      "right_true_ranks": [
+        1,
+        3,
+        5,
+        2,
+        4
+      ]
+    },
+    {
+      "id": "q115",
+      "left_system": "redpine",
+      "right_system": "pubmed",
+      "left_true_ranks": [
+        5,
+        4,
+        1,
+        3,
+        2
+      ],
+      "right_true_ranks": [
+        1,
+        4,
+        3,
+        2,
+        5
+      ]
+    }
+  ]
+}

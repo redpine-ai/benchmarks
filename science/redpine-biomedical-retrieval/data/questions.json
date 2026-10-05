@@ -1,0 +1,807 @@
+[
+  {
+    "id": "q001",
+    "query": "What studies have been performed that can be used to compare the effectiveness of azithromycin versus roflumilast in patients with chronic obstructive pulmonary disease?",
+    "domain": "immunology",
+    "subspecialty": "microbiology / antimicrobial comparative effectiveness",
+    "judging_pool": "multi_judge"
+  },
+  {
+    "id": "q002",
+    "query": "Does anticoagulation timing after cardioembolic stroke affect risk of hemorrhagic transformation?",
+    "domain": "cardiology",
+    "subspecialty": "electrophysiology",
+    "judging_pool": "single_judge"
+  },
+  {
+    "id": "q003",
+    "query": "Are stressful life events a stronger psychosocial risk factor for postpartum depression than other established risk factors, based on reported odds ratios and confidence intervals?",
+    "domain": "psychiatry",
+    "subspecialty": "postpartum depression / risk factors",
+    "judging_pool": "multi_judge"
+  },
+  {
+    "id": "q004",
+    "query": "What is the primary immune cell in early sepsis, and how do metal ions influence its function?",
+    "domain": "immunology",
+    "subspecialty": "sepsis",
+    "judging_pool": "single_judge"
+  },
+  {
+    "id": "q005",
+    "query": "Do men and women show different fibrotic versus calcific remodeling patterns in aortic stenosis?",
+    "domain": "cardiology",
+    "subspecialty": "structural heart disease",
+    "judging_pool": "single_judge"
+  },
+  {
+    "id": "q006",
+    "query": "How does copper affect protein aggregation, and which amino acids does it preferentially target?",
+    "domain": "neurology",
+    "subspecialty": "protein aggregation",
+    "judging_pool": "single_judge"
+  },
+  {
+    "id": "q007",
+    "query": "In patients undergoing TAVR, does cerebral embolic protection device use reduce the incidence of clinically apparent stroke?",
+    "domain": "cardiology",
+    "subspecialty": "structural heart disease",
+    "judging_pool": "single_judge"
+  },
+  {
+    "id": "q008",
+    "query": "In patients switched from belimumab to anifrolumab for systemic lupus erythematosus after an insufficient clinical response, what outcomes have been reported for joint and skin disease, and how was treatment failure defined?",
+    "domain": "immunology",
+    "subspecialty": "lupus / rheumatology",
+    "judging_pool": "multi_judge"
+  },
+  {
+    "id": "q009",
+    "query": "Does the EAE mouse model reproduce the axonal loss and neurodegeneration seen in progressive multiple sclerosis?",
+    "domain": "neurology",
+    "subspecialty": "neuroimmunology",
+    "judging_pool": "single_judge"
+  },
+  {
+    "id": "q010",
+    "query": "What is the association between pesticides and developing Parkinson's disease?",
+    "domain": "neurology",
+    "subspecialty": "movement disorders",
+    "judging_pool": "single_judge"
+  },
+  {
+    "id": "q011",
+    "query": "What autoantibody specificities, beyond ACPA and rheumatoid factor, have been identified in rheumatoid arthritis-associated diffuse large B-cell lymphoma?",
+    "domain": "rheumatology",
+    "subspecialty": "RA-associated lymphoproliferative disease",
+    "judging_pool": "single_judge"
+  },
+  {
+    "id": "q012",
+    "query": "How does methotrexate treatment affect peripheral blood B cells, such as the B cell repertoire and the frequency of B cell phenotype subtypes?",
+    "domain": "rheumatology",
+    "subspecialty": "RA immunology and pathogenesis",
+    "judging_pool": "single_judge"
+  },
+  {
+    "id": "q013",
+    "query": "Does a digital adherence technology intervention improve tuberculosis treatment outcomes in a randomised trial?",
+    "domain": "infectious disease",
+    "subspecialty": "tuberculosis / treatment adherence",
+    "judging_pool": "multi_judge"
+  },
+  {
+    "id": "q014",
+    "query": "What are the main changes in neuronal metabolism during inflammation?",
+    "domain": "neurology",
+    "subspecialty": "neuroinflammation",
+    "judging_pool": "single_judge"
+  },
+  {
+    "id": "q015",
+    "query": "Does cardiac MRI-derived extracellular volume fraction predict adverse remodeling after STEMI better than late gadolinium enhancement alone?",
+    "domain": "cardiology",
+    "subspecialty": "cardiac imaging",
+    "judging_pool": "single_judge"
+  },
+  {
+    "id": "q016",
+    "query": "What drugs have been tested for target Nectin-4?",
+    "domain": "oncology",
+    "subspecialty": "bladder cancer / targeted therapy",
+    "judging_pool": "multi_judge"
+  },
+  {
+    "id": "q017",
+    "query": "Can glucocorticoids be safely withdrawn from a low maintenance dose (around prednisone 5 mg) in systemic lupus erythematosus patients in remission, without triggering flare?",
+    "domain": "immunology",
+    "subspecialty": "lupus / rheumatology",
+    "judging_pool": "multi_judge"
+  },
+  {
+    "id": "q018",
+    "query": "Does rituximab-mediated B cell depletion alter the composition of the peripheral blood B cell memory compartment in rheumatoid arthritis?",
+    "domain": "rheumatology",
+    "subspecialty": "RA immunology and pathogenesis",
+    "judging_pool": "single_judge"
+  },
+  {
+    "id": "q019",
+    "query": "In the TULIP-2 trial of anifrolumab for systemic lupus erythematosus, what was the BICLA primary endpoint, and why was its definition changed before unblinding?",
+    "domain": "immunology",
+    "subspecialty": "lupus / rheumatology",
+    "judging_pool": "multi_judge"
+  },
+  {
+    "id": "q020",
+    "query": "How does CMR-detected myocardial fibrosis compare to circulating biomarkers in predicting rapid decompensation and need for early intervention in asymptomatic severe aortic stenosis?",
+    "domain": "cardiology",
+    "subspecialty": "structural heart disease",
+    "judging_pool": "single_judge"
+  },
+  {
+    "id": "q021",
+    "query": "Does chronic B cell receptor signaling in synovial B cells share molecular features with the BCR signaling seen in marginal zone lymphoma?",
+    "domain": "rheumatology",
+    "subspecialty": "RA-associated lymphoproliferative disease",
+    "judging_pool": "single_judge"
+  },
+  {
+    "id": "q022",
+    "query": "Why are malondialdehyde (MDA) and malondialdehyde acetaldehyde (MAA) modifications relevant in RA, and what do we currently know regarding anti-MDA/MAA antibodies in RA pathogenesis?",
+    "domain": "rheumatology",
+    "subspecialty": "RA immunology and pathogenesis",
+    "judging_pool": "single_judge"
+  },
+  {
+    "id": "q023",
+    "query": "How do metal ions fluctuate in the blood during sepsis?",
+    "domain": "critical care",
+    "subspecialty": "sepsis",
+    "judging_pool": "single_judge"
+  },
+  {
+    "id": "q024",
+    "query": "Does anti-inflammatory treatment increase the risk for lymphoma development in rheumatoid arthritis patients?",
+    "domain": "rheumatology",
+    "subspecialty": "RA-associated lymphoproliferative disease",
+    "judging_pool": "single_judge"
+  },
+  {
+    "id": "q025",
+    "query": "What is the combined role of neuroinflammation and metal ions in ALS?",
+    "domain": "neurology",
+    "subspecialty": "motor neuron disease",
+    "judging_pool": "single_judge"
+  },
+  {
+    "id": "q026",
+    "query": "Does a history of high-level athletic activity affect age of onset in sporadic ALS?",
+    "domain": "neurology",
+    "subspecialty": "motor neuron disease",
+    "judging_pool": "single_judge"
+  },
+  {
+    "id": "q027",
+    "query": "What differences in the frequency of peripheral blood B cell subset phenotypes can we find in RA patients compared to healthy donors?",
+    "domain": "rheumatology",
+    "subspecialty": "RA immunology and pathogenesis",
+    "judging_pool": "single_judge"
+  },
+  {
+    "id": "q028",
+    "query": "What is the role of IGF-2 in ALS?",
+    "domain": "neurology",
+    "subspecialty": "motor neuron disease",
+    "judging_pool": "single_judge"
+  },
+  {
+    "id": "q029",
+    "query": "Does Mendelian randomization support a causal relationship between FCGRT (FcRn) expression and myasthenia gravis risk?",
+    "domain": "immunology",
+    "subspecialty": "neuroimmunology / myasthenia gravis",
+    "judging_pool": "multi_judge"
+  },
+  {
+    "id": "q030",
+    "query": "Does prior military service increase the risk of developing ALS?",
+    "domain": "neurology",
+    "subspecialty": "motor neuron disease",
+    "judging_pool": "single_judge"
+  },
+  {
+    "id": "q031",
+    "query": "Which cells are most responsible for maintaining neuronal health, and how are they compromised in Alzheimer's disease?",
+    "domain": "neurology",
+    "subspecialty": "neurodegenerative disease",
+    "judging_pool": "single_judge"
+  },
+  {
+    "id": "q032",
+    "query": "Does late gadolinium enhancement on cardiac MRI predict ventricular arrhythmia risk in patients with non-ischemic cardiomyopathy?",
+    "domain": "cardiology",
+    "subspecialty": "cardiac imaging",
+    "judging_pool": "single_judge"
+  },
+  {
+    "id": "q033",
+    "query": "For steroid-refractory chronic graft-versus-host disease, how do abatacept, ruxolitinib, and axatilimab compare in phase 2 trial organ response rates and infection-related safety?",
+    "domain": "immunology",
+    "subspecialty": "transplant immunology / GVHD",
+    "judging_pool": "multi_judge"
+  },
+  {
+    "id": "q034",
+    "query": "Do ACPA-positive and ACPA-negative rheumatoid arthritis patients differ in peripheral blood plasmablast frequency?",
+    "domain": "rheumatology",
+    "subspecialty": "RA immunology and pathogenesis",
+    "judging_pool": "single_judge"
+  },
+  {
+    "id": "q035",
+    "query": "What cognitive and mental health outcomes have been reported in patients with long COVID?",
+    "domain": "neurology",
+    "subspecialty": "long COVID / cognitive outcomes",
+    "judging_pool": "multi_judge"
+  },
+  {
+    "id": "q036",
+    "query": "Does rheumatoid arthritis patients with B-cell lymphoma have a specific autoantibody profile compared to other rheumatoid arthritis patients?",
+    "domain": "rheumatology",
+    "subspecialty": "RA-associated lymphoproliferative disease",
+    "judging_pool": "single_judge"
+  },
+  {
+    "id": "q037",
+    "query": "Does the presence of anti-carbamylated protein antibodies (anti-CarP) predict radiographic progression independent of ACPA status in rheumatoid arthritis?",
+    "domain": "rheumatology",
+    "subspecialty": "RA immunology and pathogenesis",
+    "judging_pool": "single_judge"
+  },
+  {
+    "id": "q038",
+    "query": "Does valve-in-valve TAVR provide comparable hemodynamic outcomes to redo surgical aortic valve replacement for degenerated bioprosthetic valves?",
+    "domain": "cardiology",
+    "subspecialty": "structural heart disease",
+    "judging_pool": "single_judge"
+  },
+  {
+    "id": "q039",
+    "query": "What are the most recent findings on therapeutic vaccines for melanoma, including mRNA neoantigen vaccines, peptide vaccines, and combinations with immune checkpoint inhibitors?",
+    "domain": "oncology",
+    "subspecialty": "melanoma / cancer vaccine combination",
+    "judging_pool": "multi_judge"
+  },
+  {
+    "id": "q040",
+    "query": "What is the relationship between peripheral blood CD19+CD24hiCD38hi regulatory B cell frequency and disease activity in rheumatoid arthritis?",
+    "domain": "rheumatology",
+    "subspecialty": "RA immunology and pathogenesis",
+    "judging_pool": "single_judge"
+  },
+  {
+    "id": "q041",
+    "query": "For prehospital identification of sepsis by emergency medical services, how do qSOFA, NEWS2, and point-of-care lactate testing compare in diagnostic accuracy?",
+    "domain": "infectious disease",
+    "subspecialty": "sepsis / prehospital diagnostics",
+    "judging_pool": "multi_judge"
+  },
+  {
+    "id": "q042",
+    "query": "In patients with asymptomatic severe aortic stenosis, can early TAVR provide a true survival benefit compared with clinical surveillance? Which specific subgroups will receive a significant improvement in survival?",
+    "domain": "cardiology",
+    "subspecialty": "structural heart disease",
+    "judging_pool": "single_judge"
+  },
+  {
+    "id": "q043",
+    "query": "In systemic lupus erythematosus with persistent or recurrent arthritis inadequately controlled on hydroxychloroquine, what does current guidance recommend after methotrexate or mycophenolic acid fail, and where do belimumab and anifrolumab fit in that sequence?",
+    "domain": "immunology",
+    "subspecialty": "lupus / rheumatology",
+    "judging_pool": "multi_judge"
+  },
+  {
+    "id": "q044",
+    "query": "Does transcatheter mitral valve repair provide symptomatic benefit comparable to surgical repair in patients with severe functional mitral regurgitation and heart failure?",
+    "domain": "cardiology",
+    "subspecialty": "structural heart disease",
+    "judging_pool": "single_judge"
+  },
+  {
+    "id": "q045",
+    "query": "What is the burden of calcific aortic valve disease and the unmet therapeutic need in low- and middle-income regions?",
+    "domain": "cardiology",
+    "subspecialty": "structural heart disease",
+    "judging_pool": "single_judge"
+  },
+  {
+    "id": "q046",
+    "query": "What human studies have been completed for use of Sodium-glucose cotransporter-2 inhibitors and risk of autoimmune rheumatic diseases?",
+    "domain": "immunology",
+    "subspecialty": "cardio-immune / SGLT2 and autoimmune rheumatic disease",
+    "judging_pool": "multi_judge"
+  },
+  {
+    "id": "q047",
+    "query": "Can SGLT2 inhibitors delay the progression of early aortic valve calcification to stenosis?",
+    "domain": "cardiology",
+    "subspecialty": "structural heart disease",
+    "judging_pool": "single_judge"
+  },
+  {
+    "id": "q048",
+    "query": "Does left atrial appendage occlusion provide non-inferior stroke prevention compared to direct oral anticoagulants in atrial fibrillation patients with high bleeding risk?",
+    "domain": "cardiology",
+    "subspecialty": "electrophysiology",
+    "judging_pool": "single_judge"
+  },
+  {
+    "id": "q049",
+    "query": "What is the set of features that distinguishes bulbar-onset ALS from other forms of ALS?",
+    "domain": "neurology",
+    "subspecialty": "motor neuron disease",
+    "judging_pool": "single_judge"
+  },
+  {
+    "id": "q050",
+    "query": "What relative amount of cytokines in circulation are free in the blood versus within blood-borne exosomes?",
+    "domain": "immunology",
+    "subspecialty": "cytokine biology",
+    "judging_pool": "single_judge"
+  },
+  {
+    "id": "q051",
+    "query": "What are the B cell receptor (BCR) sequence characteristics of ACPA-positive B cells?",
+    "domain": "rheumatology",
+    "subspecialty": "RA immunology and pathogenesis",
+    "judging_pool": "single_judge"
+  },
+  {
+    "id": "q052",
+    "query": "what clinical trials have studied effects of immune checkpoint inhibitors in patients with metastatic cancers?",
+    "domain": "immunology",
+    "subspecialty": "immuno-oncology mechanism",
+    "judging_pool": "multi_judge"
+  },
+  {
+    "id": "q053",
+    "query": "How is metal ion balance in the CNS related to Alzheimer's disease progression?",
+    "domain": "neurology",
+    "subspecialty": "neurodegenerative disease",
+    "judging_pool": "single_judge"
+  },
+  {
+    "id": "q054",
+    "query": "What are the various definitions of sepsis, and which is the most clinically up-to-date?",
+    "domain": "critical care",
+    "subspecialty": "sepsis",
+    "judging_pool": "single_judge"
+  },
+  {
+    "id": "q055",
+    "query": "What kinds of mineral or micronutrient deficiencies affect the functioning of innate immune cells?",
+    "domain": "immunology",
+    "subspecialty": "innate immunity",
+    "judging_pool": "single_judge"
+  },
+  {
+    "id": "q056",
+    "query": "How often do randomised controlled trial results concord or discord with emulated target trials using observational data, per recent systematic reviews and meta-analyses?",
+    "domain": "methods",
+    "subspecialty": "target trial emulation",
+    "judging_pool": "multi_judge"
+  },
+  {
+    "id": "q057",
+    "query": "Does combining lactoferrin with conventional antibiotics improve biofilm eradication compared to antibiotics alone?",
+    "domain": "microbiology",
+    "subspecialty": "biofilms",
+    "judging_pool": "single_judge"
+  },
+  {
+    "id": "q058",
+    "query": "In randomized trials of relapsing multiple sclerosis, how is annualized relapse rate typically defined and measured as a primary endpoint, and what eligibility criteria around prior disease-modifying therapy are commonly used?",
+    "domain": "immunology",
+    "subspecialty": "neuroimmunology / multiple sclerosis",
+    "judging_pool": "multi_judge"
+  },
+  {
+    "id": "q059",
+    "query": "What are all the potential side effects from taking rituximab?",
+    "domain": "pharmacology",
+    "subspecialty": "drug safety",
+    "judging_pool": "single_judge"
+  },
+  {
+    "id": "q060",
+    "query": "How do Chinese and Japanese (J-SSCG) clinical practice guidelines for sepsis and septic shock compare in their screening and diagnostic recommendations?",
+    "domain": "infectious disease",
+    "subspecialty": "sepsis / guideline comparison",
+    "judging_pool": "multi_judge"
+  },
+  {
+    "id": "q061",
+    "query": "Does global longitudinal strain by echocardiography predict symptom onset in asymptomatic severe aortic stenosis better than left ventricular ejection fraction?",
+    "domain": "cardiology",
+    "subspecialty": "structural heart disease",
+    "judging_pool": "single_judge"
+  },
+  {
+    "id": "q062",
+    "query": "Does achieving an LDL cholesterol target below 55 mg/dL provide additional cardiovascular benefit compared to below 70 mg/dL in secondary prevention?",
+    "domain": "cardiology",
+    "subspecialty": "preventive cardiology",
+    "judging_pool": "single_judge"
+  },
+  {
+    "id": "q063",
+    "query": "How does astrocyte glucose metabolism during neuroinflammation differ from neuronal glucose metabolism?",
+    "domain": "neurology",
+    "subspecialty": "neuroinflammation",
+    "judging_pool": "single_judge"
+  },
+  {
+    "id": "q064",
+    "query": "Does hydroxychloroquine use modify lymphoma risk in patients with systemic lupus erythematosus?",
+    "domain": "rheumatology",
+    "subspecialty": "RA-associated lymphoproliferative disease",
+    "judging_pool": "single_judge"
+  },
+  {
+    "id": "q065",
+    "query": "Does iron accumulation in the substantia nigra promote alpha-synuclein aggregation in Parkinson's disease?",
+    "domain": "neurology",
+    "subspecialty": "protein aggregation",
+    "judging_pool": "single_judge"
+  },
+  {
+    "id": "q066",
+    "query": "In the Surviving Sepsis Campaign 2021 guidelines, why was qSOFA not recommended as a single screening tool, and how does this compare with NICE and Sepsis-3 screening criteria?",
+    "domain": "infectious disease",
+    "subspecialty": "sepsis / guideline comparison",
+    "judging_pool": "multi_judge"
+  },
+  {
+    "id": "q067",
+    "query": "In ischemia-reperfusion injury, is microvascular integrity, rather than cardiomyocyte death, the key determinant of final infarct size?",
+    "domain": "cardiology",
+    "subspecialty": "ischemia-reperfusion injury",
+    "judging_pool": "single_judge"
+  },
+  {
+    "id": "q068",
+    "query": "What is the effect of abatacept on T follicular helper cell frequency in rheumatoid arthritis patients?",
+    "domain": "rheumatology",
+    "subspecialty": "RA immunology and pathogenesis",
+    "judging_pool": "single_judge"
+  },
+  {
+    "id": "q069",
+    "query": "Does the CHA2DS2-VASc score adequately predict stroke risk in patients with atrial fibrillation and hypertrophic cardiomyopathy?",
+    "domain": "cardiology",
+    "subspecialty": "electrophysiology",
+    "judging_pool": "single_judge"
+  },
+  {
+    "id": "q070",
+    "query": "How does paravalvular leak severity after TAVR affect long-term mortality?",
+    "domain": "cardiology",
+    "subspecialty": "structural heart disease",
+    "judging_pool": "single_judge"
+  },
+  {
+    "id": "q071",
+    "query": "In a phase 2 trial of frexalimab for multiple sclerosis, what was the effect on disability (EDSS) and MRI outcomes at 12 weeks, and what safety limitations were noted?",
+    "domain": "immunology",
+    "subspecialty": "neuroimmunology / multiple sclerosis",
+    "judging_pool": "multi_judge"
+  },
+  {
+    "id": "q072",
+    "query": "Does clonal relatedness exist between synovial B cells and circulating peripheral blood B cells in rheumatoid arthritis?",
+    "domain": "rheumatology",
+    "subspecialty": "RA immunology and pathogenesis",
+    "judging_pool": "single_judge"
+  },
+  {
+    "id": "q073",
+    "query": "Does riluzole treatment duration correlate with slower rate of forced vital capacity decline in ALS?",
+    "domain": "neurology",
+    "subspecialty": "motor neuron disease",
+    "judging_pool": "single_judge"
+  },
+  {
+    "id": "q074",
+    "query": "Does colchicine reduce recurrent cardiovascular events when added to standard therapy after myocardial infarction?",
+    "domain": "cardiology",
+    "subspecialty": "preventive cardiology",
+    "judging_pool": "single_judge"
+  },
+  {
+    "id": "q075",
+    "query": "Does citrullination of fibrinogen generate a distinct B cell epitope compared to citrullinated vimentin in rheumatoid arthritis?",
+    "domain": "rheumatology",
+    "subspecialty": "RA immunology and pathogenesis",
+    "judging_pool": "single_judge"
+  },
+  {
+    "id": "q076",
+    "query": "What proportion of rheumatoid arthritis-associated lymphomas regress after discontinuation of immunosuppressive therapy alone?",
+    "domain": "rheumatology",
+    "subspecialty": "RA-associated lymphoproliferative disease",
+    "judging_pool": "single_judge"
+  },
+  {
+    "id": "q077",
+    "query": "How do murine microglia differ from human microglia in the context of neurodegenerative conditions?",
+    "domain": "neurology",
+    "subspecialty": "neuroimmunology",
+    "judging_pool": "single_judge"
+  },
+  {
+    "id": "q078",
+    "query": "Does remote ischemic conditioning reduce infarct size when applied before primary PCI in STEMI patients?",
+    "domain": "cardiology",
+    "subspecialty": "ischemia-reperfusion injury",
+    "judging_pool": "single_judge"
+  },
+  {
+    "id": "q079",
+    "query": "Does neuromelanin accumulation in substantia nigra dopaminergic neurons contribute to their selective vulnerability in Parkinson's disease?",
+    "domain": "neurology",
+    "subspecialty": "movement disorders",
+    "judging_pool": "single_judge"
+  },
+  {
+    "id": "q080",
+    "query": "How do the FcRn inhibitors nipocalimab, efgartigimod, and rozanolixizumab compare in their pharmacodynamic effect on total IgG and clinical response (MG-ADL) in generalized myasthenia gravis, and what safety signals (infections, hypogammaglobulinemia, albumin or lipid changes) have been reported?",
+    "domain": "immunology",
+    "subspecialty": "neuroimmunology / myasthenia gravis",
+    "judging_pool": "multi_judge"
+  },
+  {
+    "id": "q081",
+    "query": "What is the association between Sj\u00f6gren syndrome-associated ectopic germinal centers and subsequent MALT lymphoma development?",
+    "domain": "rheumatology",
+    "subspecialty": "RA-associated lymphoproliferative disease",
+    "judging_pool": "single_judge"
+  },
+  {
+    "id": "q082",
+    "query": "Does cardiac amyloidosis screening with technetium pyrophosphate scintigraphy change management in patients with unexplained left ventricular hypertrophy?",
+    "domain": "cardiology",
+    "subspecialty": "cardiac imaging",
+    "judging_pool": "single_judge"
+  },
+  {
+    "id": "q083",
+    "query": "Are Fc glycosylation patterns of ACPA IgG associated with disease severity in rheumatoid arthritis?",
+    "domain": "rheumatology",
+    "subspecialty": "RA immunology and pathogenesis",
+    "judging_pool": "single_judge"
+  },
+  {
+    "id": "q084",
+    "query": "Does TNF inhibitor exposure alter circulating B cell subset composition independent of its effect on disease activity in rheumatoid arthritis?",
+    "domain": "rheumatology",
+    "subspecialty": "RA immunology and pathogenesis",
+    "judging_pool": "single_judge"
+  },
+  {
+    "id": "q085",
+    "query": "Does early rhythm control with catheter ablation reduce cardiovascular death compared to rate control in atrial fibrillation?",
+    "domain": "cardiology",
+    "subspecialty": "electrophysiology",
+    "judging_pool": "single_judge"
+  },
+  {
+    "id": "q086",
+    "query": "What drugs have been tested for altered KRAS proteins?",
+    "domain": "oncology",
+    "subspecialty": "pancreatic cancer / targeted therapy",
+    "judging_pool": "multi_judge"
+  },
+  {
+    "id": "q087",
+    "query": "How does Fab N-glycosylation of ACPA IgG affect antigen-binding affinity in rheumatoid arthritis?",
+    "domain": "rheumatology",
+    "subspecialty": "RA immunology and pathogenesis",
+    "judging_pool": "single_judge"
+  },
+  {
+    "id": "q088",
+    "query": "In patients with low-flow, low-gradient severe aortic stenosis, does dobutamine stress echocardiography reliably distinguish true-severe from pseudo-severe stenosis?",
+    "domain": "cardiology",
+    "subspecialty": "structural heart disease",
+    "judging_pool": "single_judge"
+  },
+  {
+    "id": "q089",
+    "query": "In patients with symptomatic moderate aortic stenosis and left ventricular dysfunction, should early aortic valve replacement be performed, or should guideline-directed medical therapy for heart failure be continued?",
+    "domain": "cardiology",
+    "subspecialty": "structural heart disease",
+    "judging_pool": "single_judge"
+  },
+  {
+    "id": "q090",
+    "query": "Does hippocampal neuronal loss precede detectable amyloid plaque burden in early Alzheimer's disease models?",
+    "domain": "neurology",
+    "subspecialty": "neurodegenerative disease",
+    "judging_pool": "single_judge"
+  },
+  {
+    "id": "q091",
+    "query": "In the DESIRES trial of rituximab for systemic sclerosis, what was the effect on modified Rodnan skin score and health-related quality of life (HAQ-DI) compared to placebo?",
+    "domain": "immunology",
+    "subspecialty": "systemic sclerosis",
+    "judging_pool": "multi_judge"
+  },
+  {
+    "id": "q092",
+    "query": "Does PCSK9 inhibition slow progression of calcific aortic valve disease in patients with elevated lipoprotein(a)?",
+    "domain": "cardiology",
+    "subspecialty": "structural heart disease",
+    "judging_pool": "single_judge"
+  },
+  {
+    "id": "q093",
+    "query": "What clinical trial outcomes and immune responses have been reported for therapeutic cancer vaccines (mRNA neoantigen, personalized neoantigen, dendritic cell) in solid tumors?",
+    "domain": "oncology",
+    "subspecialty": "cancer vaccine / immune response",
+    "judging_pool": "multi_judge"
+  },
+  {
+    "id": "q094",
+    "query": "Does renal denervation reduce blood pressure in patients with resistant hypertension despite triple antihypertensive therapy?",
+    "domain": "cardiology",
+    "subspecialty": "preventive cardiology",
+    "judging_pool": "single_judge"
+  },
+  {
+    "id": "q095",
+    "query": "What are examples of AD patients who have had clinical reversal of AD, and what can be attributed to their improvement?",
+    "domain": "neurology",
+    "subspecialty": "neurodegenerative disease",
+    "judging_pool": "single_judge"
+  },
+  {
+    "id": "q096",
+    "query": "What are the risk factors for lymphoma development in patients with rheumatoid arthritis, systemic lupus erythematosus and Sj\u00f6gren disease?",
+    "domain": "rheumatology",
+    "subspecialty": "RA-associated lymphoproliferative disease",
+    "judging_pool": "single_judge"
+  },
+  {
+    "id": "q097",
+    "query": "Does the presence of ectopic lymphoid structures in rheumatoid arthritis synovium predict response to rituximab?",
+    "domain": "rheumatology",
+    "subspecialty": "RA immunology and pathogenesis",
+    "judging_pool": "single_judge"
+  },
+  {
+    "id": "q098",
+    "query": "Does elevated serum interleukin-6 correlate with faster disease progression in ALS?",
+    "domain": "immunology",
+    "subspecialty": "cytokine biology",
+    "judging_pool": "single_judge"
+  },
+  {
+    "id": "q099",
+    "query": "In patients with STEMI undergoing primary PCI, is CMR-measured infarct size reliable for predicting 1-year heart failure hospitalization and mortality?",
+    "domain": "cardiology",
+    "subspecialty": "cardiac imaging",
+    "judging_pool": "single_judge"
+  },
+  {
+    "id": "q100",
+    "query": "Is IL40 a potential inflammatory biomarker in rheumatic disease?",
+    "domain": "rheumatology",
+    "subspecialty": "RA immunology and pathogenesis",
+    "judging_pool": "single_judge"
+  },
+  {
+    "id": "q101",
+    "query": "Does aortic valve calcification progress faster in bicuspid aortic valve patients compared to tricuspid aortic valve patients?",
+    "domain": "cardiology",
+    "subspecialty": "structural heart disease",
+    "judging_pool": "single_judge"
+  },
+  {
+    "id": "q102",
+    "query": "Does IL-6 receptor blockade with tocilizumab affect circulating immunoglobulin levels in rheumatoid arthritis patients?",
+    "domain": "rheumatology",
+    "subspecialty": "RA immunology and pathogenesis",
+    "judging_pool": "single_judge"
+  },
+  {
+    "id": "q103",
+    "query": "Does EBV viral load in peripheral blood correlate with disease activity (DAS28) in rheumatoid arthritis patients treated with methotrexate?",
+    "domain": "rheumatology",
+    "subspecialty": "RA-associated lymphoproliferative disease",
+    "judging_pool": "single_judge"
+  },
+  {
+    "id": "q104",
+    "query": "Are germline BCR gene usage patterns different between ACPA-positive rheumatoid arthritis B cells and B cells from healthy donors?",
+    "domain": "rheumatology",
+    "subspecialty": "RA immunology and pathogenesis",
+    "judging_pool": "single_judge"
+  },
+  {
+    "id": "q105",
+    "query": "In early valve sclerosis, can lipoprotein(a)-lowering or anti-inflammatory/pro-resolving therapies delay progression to severe aortic stenosis and postpone valve replacement?",
+    "domain": "cardiology",
+    "subspecialty": "structural heart disease",
+    "judging_pool": "single_judge"
+  },
+  {
+    "id": "q106",
+    "query": "What are the most effective methods of penetrating biofilms for use in vivo?",
+    "domain": "microbiology",
+    "subspecialty": "biofilms",
+    "judging_pool": "single_judge"
+  },
+  {
+    "id": "q107",
+    "query": "Do astrocyte-derived extracellular vesicles propagate neuroinflammatory signaling between glial cells?",
+    "domain": "neurology",
+    "subspecialty": "neuroinflammation",
+    "judging_pool": "single_judge"
+  },
+  {
+    "id": "q108",
+    "query": "Biochemically, why do aluminium ions enhance protein aggregation?",
+    "domain": "neurology",
+    "subspecialty": "protein aggregation",
+    "judging_pool": "single_judge"
+  },
+  {
+    "id": "q109",
+    "query": "Does genetic testing for familial hypercholesterolemia change statin prescribing intensity in young patients with premature coronary artery disease?",
+    "domain": "cardiology",
+    "subspecialty": "preventive cardiology",
+    "judging_pool": "single_judge"
+  },
+  {
+    "id": "q110",
+    "query": "What is the role of ACPAs and are they protective or pathogenic in RA?",
+    "domain": "rheumatology",
+    "subspecialty": "RA immunology and pathogenesis",
+    "judging_pool": "single_judge"
+  },
+  {
+    "id": "q111",
+    "query": "Does lecanemab treatment slow cognitive decline in early symptomatic Alzheimer's disease compared to placebo?",
+    "domain": "neurology",
+    "subspecialty": "neurodegenerative disease",
+    "judging_pool": "single_judge"
+  },
+  {
+    "id": "q112",
+    "query": "Does baseline autoantibody titer predict response to rituximab in rheumatoid arthritis patients?",
+    "domain": "rheumatology",
+    "subspecialty": "RA immunology and pathogenesis",
+    "judging_pool": "single_judge"
+  },
+  {
+    "id": "q113",
+    "query": "Does coronary artery calcium scoring improve risk reclassification beyond traditional risk factors for primary prevention of coronary artery disease?",
+    "domain": "cardiology",
+    "subspecialty": "preventive cardiology",
+    "judging_pool": "single_judge"
+  },
+  {
+    "id": "q114",
+    "query": "Which JAK inhibitors have most recently entered clinical trials, and for which indications?",
+    "domain": "immunology",
+    "subspecialty": "JAK inhibitors",
+    "judging_pool": "multi_judge"
+  },
+  {
+    "id": "q115",
+    "query": "Are somatic hypermutation patterns in ACPA-positive B cell receptors consistent with antigen-driven selection?",
+    "domain": "rheumatology",
+    "subspecialty": "RA immunology and pathogenesis",
+    "judging_pool": "single_judge"
+  }
+]

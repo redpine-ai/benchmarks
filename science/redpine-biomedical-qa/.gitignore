@@ -1,0 +1,2 @@
+# the shipped run log; un-ignored so a global "logs" pattern cannot hide it
+!logs/

@@ -1,0 +1,16 @@
+[project]
+name = "external-qa"
+version = "0.1.0"
+description = "ScholarQABench SciFact, four arms, Claude Sonnet 5: the runner and evidence behind the report's external QA benchmark"
+requires-python = ">=3.11"
+dependencies = ["harness"]
+
+[project.optional-dependencies]
+bedrock = ["harness[bedrock]"]
+
+[dependency-groups]
+dev = ["pytest>=8.0.0"]
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
+testpaths = ["tests"]

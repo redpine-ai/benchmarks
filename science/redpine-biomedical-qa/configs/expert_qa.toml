@@ -1,0 +1,103 @@
+# Expert-validated questions, two arms, as the report describes.
+model = "claude-opus-5"
+provider = "anthropic"
+max_tokens = 8192
+thinking = "adaptive"
+budget = 20
+top_k = 10
+passage_chars = 4000
+renderer = "handles"
+final_text = "last_turn"
+arm_order = ["websearch", "connect"]
+
+system_template = """\
+You are a biomedical research assistant. Answer the user's question with \
+tool-grounded evidence and inline citations.
+
+{tool_sentence}
+HOW TO SEARCH:
+You have a budget of {budget} tool calls for the whole question -- the same budget \
+regardless of which tools you have. Spend it on depth, not volume.
+- Split a multi-part question into one line of enquiry per part.
+- Budget roughly two to three queries per part. Do not keep issuing near-identical \
+queries; if two reformulations return nothing useful, that part has no support and you \
+should say so.
+- Reformulating means changing the vocabulary -- synonym, MeSH term, drug name vs drug \
+class, outcome vs mechanism, population vs intervention -- not rewording the same query.
+- When a source looks relevant, go DEEPER into that source before searching again: read \
+past the snippet or summary into the methods, results, and discussion. One source read \
+properly beats five skimmed.
+- If one tool returns little for a part of the question, try another tool you have \
+before concluding no source exists.
+- If you are near the budget, stop searching and answer with what you have.
+
+HARD REQUIREMENTS (non-negotiable):
+1. Search before you answer. Never answer from memory or training data alone.
+2. A snippet or summary is a pointer, not evidence. Before citing a specific figure or \
+a study's conclusion, read the underlying source text.
+3. Cite every non-trivial claim with an identifier that appeared in a tool result. \
+Never invent an identifier, journal, year, author, or publisher. If a result shows no \
+venue, cite the bare identifier and name no venue.
+4. Never state a specific figure -- number, percentage, dose, sample size, p-value, or \
+statistic -- unless that exact figure appears in a tool result. Describe findings \
+qualitatively when the evidence gives no number.
+5. If no source supports part of the answer, say so. Do not speculate.
+
+State your conclusion in the first sentence, then the supporting evidence. Be concise. \
+Do not restate the question. Do not pad."""
+
+user_template = """\
+Question: {question}
+
+Begin by calling at least one search tool to gather evidence. After \
+you have enough grounded evidence, give a concise final answer \
+with inline citations. Every claim must be backed by a citation \
+drawn from actual tool output -- never fabricate identifiers."""
+
+budget_exhausted = "Tool budget exhausted: no tool calls remain. Answer now from what you already have."
+final_nudge = "You have reached the search step cap. Provide your best final answer now, citing what you have found. Do not call tools."
+
+[tools.search_web]
+kind = "web"
+description = "Search the public web. Returns an extract of each page with its URL, from any web source."
+[tools.search_web.input_schema]
+type = "object"
+required = ["query"]
+[tools.search_web.input_schema.properties]
+query = { type = "string", description = "Search query." }
+max_results = { type = "integer", minimum = 1, maximum = 10, description = "Max results to return (default 10)." }
+
+[tools.search_connect]
+kind = "redpine"
+description = "Search a full-text collection of peer-reviewed biomedical journal articles indexed in Connect. Returns passages with stable source IDs. Each result has [S:<id>] as its citation handle."
+[tools.search_connect.input_schema]
+type = "object"
+required = ["query"]
+[tools.search_connect.input_schema.properties]
+query = { type = "string", description = "Search query." }
+limit = { type = "integer", minimum = 1, maximum = 30, description = "Max results to return (default 10)." }
+[tools.search_connect.input_schema.properties.filters]
+type = "object"
+description = "Optional metadata filters. Two formats: (1) legacy flat {\"field\": \"value\"} or {\"field\": {\"gte\": value}}; (2) structured DSL with boolean logic: {\"and\": [{\"field\": \"journal\", \"eq\": \"Nature\"}, {\"not\": [{\"field\": \"publisher\", \"eq\": \"Elsevier\"}]}]}. Operators: eq, ne, in, not_in, gt, gte, lt, lte, between. Combinators: and, or, not (arbitrarily nested). Which fields are actually indexed/filterable depends on the collection being searched; for date-range filters on the currently-supported collection(s), use the field name `publication_date` (a full date string), not the synthesized `year` field shown in result metadata."
+
+[arms.websearch]
+tools = ["search_web"]
+tool_sentence = """\
+Tools available to you:
+- search_web: public web search; returns an extract of each page with its URL.
+"""
+
+[arms.connect]
+tools = ["search_connect", "search_web"]
+tool_sentence = """\
+Tools available to you:
+- search_connect: search a full-text collection of peer-reviewed biomedical journal \
+articles indexed in Connect. Returns passages with [S:<id>] citation handles. Accepts an optional \
+`filters` argument to constrain results by metadata (e.g. a date range on \
+`publication_date`, or a named journal) -- use it when the question specifies such a \
+constraint, rather than relying on the query text alone to narrow results. If a \
+filtered search comes back with no or very few results, retry once without the filter \
+before concluding no evidence exists -- an overly narrow or misnamed filter can \
+silently zero out results that are actually there.
+- search_web: public web search; returns an extract of each page with its URL.
+"""

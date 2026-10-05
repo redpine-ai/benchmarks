@@ -1,0 +1,9732 @@
+[
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q001",
+    "side": "left",
+    "rank": 1,
+    "score": 4
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q001",
+    "side": "left",
+    "rank": 2,
+    "score": 3
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q001",
+    "side": "left",
+    "rank": 3,
+    "score": 3
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q001",
+    "side": "right",
+    "rank": 1,
+    "score": 0
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q001",
+    "side": "right",
+    "rank": 2,
+    "score": 0
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q001",
+    "side": "right",
+    "rank": 3,
+    "score": 0
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q002",
+    "side": "left",
+    "rank": 1,
+    "score": 1
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q002",
+    "side": "left",
+    "rank": 2,
+    "score": 3
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q002",
+    "side": "left",
+    "rank": 3,
+    "score": 1
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q002",
+    "side": "left",
+    "rank": 4,
+    "score": 3
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q002",
+    "side": "left",
+    "rank": 5,
+    "score": 2
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q002",
+    "side": "right",
+    "rank": 1,
+    "score": 3
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q002",
+    "side": "right",
+    "rank": 2,
+    "score": 3
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q002",
+    "side": "right",
+    "rank": 3,
+    "score": 3
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q002",
+    "side": "right",
+    "rank": 4,
+    "score": 3
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q002",
+    "side": "right",
+    "rank": 5,
+    "score": 3
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q003",
+    "side": "left",
+    "rank": 1,
+    "score": 0
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q003",
+    "side": "left",
+    "rank": 2,
+    "score": 0
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q003",
+    "side": "left",
+    "rank": 3,
+    "score": 0
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q003",
+    "side": "left",
+    "rank": 4,
+    "score": 0
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q003",
+    "side": "left",
+    "rank": 5,
+    "score": 0
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q003",
+    "side": "right",
+    "rank": 1,
+    "score": 3
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q003",
+    "side": "right",
+    "rank": 2,
+    "score": 3
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q003",
+    "side": "right",
+    "rank": 3,
+    "score": 3
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q003",
+    "side": "right",
+    "rank": 4,
+    "score": 3
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q003",
+    "side": "right",
+    "rank": 5,
+    "score": 3
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q005",
+    "side": "left",
+    "rank": 1,
+    "score": 3
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q005",
+    "side": "left",
+    "rank": 2,
+    "score": 3
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q005",
+    "side": "left",
+    "rank": 3,
+    "score": 4
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q005",
+    "side": "left",
+    "rank": 4,
+    "score": 3
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q005",
+    "side": "left",
+    "rank": 5,
+    "score": 4
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q005",
+    "side": "right",
+    "rank": 1,
+    "score": 3
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q005",
+    "side": "right",
+    "rank": 2,
+    "score": 3
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q005",
+    "side": "right",
+    "rank": 3,
+    "score": 3
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q005",
+    "side": "right",
+    "rank": 4,
+    "score": 3
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q005",
+    "side": "right",
+    "rank": 5,
+    "score": 3
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q007",
+    "side": "left",
+    "rank": 1,
+    "score": 4
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q007",
+    "side": "left",
+    "rank": 2,
+    "score": 4
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q007",
+    "side": "left",
+    "rank": 3,
+    "score": 4
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q007",
+    "side": "left",
+    "rank": 4,
+    "score": 4
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q007",
+    "side": "left",
+    "rank": 5,
+    "score": 4
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q007",
+    "side": "right",
+    "rank": 1,
+    "score": 0
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q007",
+    "side": "right",
+    "rank": 2,
+    "score": 4
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q007",
+    "side": "right",
+    "rank": 3,
+    "score": 3
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q007",
+    "side": "right",
+    "rank": 4,
+    "score": 0
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q007",
+    "side": "right",
+    "rank": 5,
+    "score": 3
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q008",
+    "side": "left",
+    "rank": 1,
+    "score": 3
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q008",
+    "side": "left",
+    "rank": 2,
+    "score": 3
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q008",
+    "side": "left",
+    "rank": 3,
+    "score": 2
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q008",
+    "side": "left",
+    "rank": 4,
+    "score": 2
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q008",
+    "side": "left",
+    "rank": 5,
+    "score": 2
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q008",
+    "side": "right",
+    "rank": 1,
+    "score": 2
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q008",
+    "side": "right",
+    "rank": 2,
+    "score": 0
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q008",
+    "side": "right",
+    "rank": 3,
+    "score": 0
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q008",
+    "side": "right",
+    "rank": 4,
+    "score": 2
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q008",
+    "side": "right",
+    "rank": 5,
+    "score": 2
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q013",
+    "side": "left",
+    "rank": 1,
+    "score": 3
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q013",
+    "side": "left",
+    "rank": 2,
+    "score": 2
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q013",
+    "side": "left",
+    "rank": 3,
+    "score": 3
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q013",
+    "side": "left",
+    "rank": 4,
+    "score": 3
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q013",
+    "side": "left",
+    "rank": 5,
+    "score": 3
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q013",
+    "side": "right",
+    "rank": 1,
+    "score": 3
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q013",
+    "side": "right",
+    "rank": 2,
+    "score": 3
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q013",
+    "side": "right",
+    "rank": 3,
+    "score": 0
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q013",
+    "side": "right",
+    "rank": 4,
+    "score": 0
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q013",
+    "side": "right",
+    "rank": 5,
+    "score": 1
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q015",
+    "side": "left",
+    "rank": 1,
+    "score": 4
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q015",
+    "side": "left",
+    "rank": 2,
+    "score": 3
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q015",
+    "side": "left",
+    "rank": 3,
+    "score": 1
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q015",
+    "side": "left",
+    "rank": 4,
+    "score": 2
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q015",
+    "side": "left",
+    "rank": 5,
+    "score": 3
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q015",
+    "side": "right",
+    "rank": 1,
+    "score": 3
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q015",
+    "side": "right",
+    "rank": 2,
+    "score": 3
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q015",
+    "side": "right",
+    "rank": 3,
+    "score": 1
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q015",
+    "side": "right",
+    "rank": 4,
+    "score": 1
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q015",
+    "side": "right",
+    "rank": 5,
+    "score": 1
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q016",
+    "side": "left",
+    "rank": 1,
+    "score": 0
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q016",
+    "side": "left",
+    "rank": 2,
+    "score": 0
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q016",
+    "side": "left",
+    "rank": 3,
+    "score": 0
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q016",
+    "side": "left",
+    "rank": 4,
+    "score": 0
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q016",
+    "side": "left",
+    "rank": 5,
+    "score": 0
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q016",
+    "side": "right",
+    "rank": 1,
+    "score": 3
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q016",
+    "side": "right",
+    "rank": 2,
+    "score": 3
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q016",
+    "side": "right",
+    "rank": 3,
+    "score": 3
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q016",
+    "side": "right",
+    "rank": 4,
+    "score": 2
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q016",
+    "side": "right",
+    "rank": 5,
+    "score": 3
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q017",
+    "side": "left",
+    "rank": 1,
+    "score": 0
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q017",
+    "side": "left",
+    "rank": 2,
+    "score": 0
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q017",
+    "side": "left",
+    "rank": 3,
+    "score": 0
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q017",
+    "side": "left",
+    "rank": 4,
+    "score": 0
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q017",
+    "side": "left",
+    "rank": 5,
+    "score": 0
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q017",
+    "side": "right",
+    "rank": 1,
+    "score": 4
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q017",
+    "side": "right",
+    "rank": 2,
+    "score": 4
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q017",
+    "side": "right",
+    "rank": 3,
+    "score": 3
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q017",
+    "side": "right",
+    "rank": 4,
+    "score": 4
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q017",
+    "side": "right",
+    "rank": 5,
+    "score": 3
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q019",
+    "side": "left",
+    "rank": 1,
+    "score": 2
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q019",
+    "side": "left",
+    "rank": 2,
+    "score": 1
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q019",
+    "side": "left",
+    "rank": 3,
+    "score": 2
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q019",
+    "side": "left",
+    "rank": 4,
+    "score": 3
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q019",
+    "side": "left",
+    "rank": 5,
+    "score": 2
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q019",
+    "side": "right",
+    "rank": 1,
+    "score": 3
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q019",
+    "side": "right",
+    "rank": 2,
+    "score": 3
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q019",
+    "side": "right",
+    "rank": 3,
+    "score": 3
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q019",
+    "side": "right",
+    "rank": 4,
+    "score": 3
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q019",
+    "side": "right",
+    "rank": 5,
+    "score": 3
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q020",
+    "side": "left",
+    "rank": 1,
+    "score": 3
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q020",
+    "side": "left",
+    "rank": 2,
+    "score": 1
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q020",
+    "side": "left",
+    "rank": 3,
+    "score": 1
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q020",
+    "side": "left",
+    "rank": 4,
+    "score": 2
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q020",
+    "side": "left",
+    "rank": 5,
+    "score": 2
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q020",
+    "side": "right",
+    "rank": 1,
+    "score": 0
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q020",
+    "side": "right",
+    "rank": 2,
+    "score": 2
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q020",
+    "side": "right",
+    "rank": 3,
+    "score": 0
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q020",
+    "side": "right",
+    "rank": 4,
+    "score": 0
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q020",
+    "side": "right",
+    "rank": 5,
+    "score": 0
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q029",
+    "side": "left",
+    "rank": 1,
+    "score": 1
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q029",
+    "side": "left",
+    "rank": 2,
+    "score": 1
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q029",
+    "side": "left",
+    "rank": 3,
+    "score": 1
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q029",
+    "side": "left",
+    "rank": 4,
+    "score": 1
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q029",
+    "side": "left",
+    "rank": 5,
+    "score": 1
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q029",
+    "side": "right",
+    "rank": 1,
+    "score": 0
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q029",
+    "side": "right",
+    "rank": 2,
+    "score": 0
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q029",
+    "side": "right",
+    "rank": 3,
+    "score": 0
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q029",
+    "side": "right",
+    "rank": 4,
+    "score": 0
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q029",
+    "side": "right",
+    "rank": 5,
+    "score": 0
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q032",
+    "side": "left",
+    "rank": 1,
+    "score": 2
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q032",
+    "side": "left",
+    "rank": 2,
+    "score": 2
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q032",
+    "side": "left",
+    "rank": 3,
+    "score": 2
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q032",
+    "side": "left",
+    "rank": 4,
+    "score": 4
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q032",
+    "side": "left",
+    "rank": 5,
+    "score": 4
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q032",
+    "side": "right",
+    "rank": 1,
+    "score": 3
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q032",
+    "side": "right",
+    "rank": 2,
+    "score": 4
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q032",
+    "side": "right",
+    "rank": 3,
+    "score": 3
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q032",
+    "side": "right",
+    "rank": 4,
+    "score": null
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q032",
+    "side": "right",
+    "rank": 5,
+    "score": 1
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q033",
+    "side": "left",
+    "rank": 1,
+    "score": 2
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q033",
+    "side": "left",
+    "rank": 2,
+    "score": 2
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q033",
+    "side": "left",
+    "rank": 3,
+    "score": 1
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q033",
+    "side": "left",
+    "rank": 4,
+    "score": 2
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q033",
+    "side": "left",
+    "rank": 5,
+    "score": 2
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q033",
+    "side": "right",
+    "rank": 1,
+    "score": 2
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q033",
+    "side": "right",
+    "rank": 2,
+    "score": 2
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q033",
+    "side": "right",
+    "rank": 3,
+    "score": 1
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q033",
+    "side": "right",
+    "rank": 4,
+    "score": 1
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q033",
+    "side": "right",
+    "rank": 5,
+    "score": 1
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q035",
+    "side": "left",
+    "rank": 1,
+    "score": 1
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q035",
+    "side": "left",
+    "rank": 2,
+    "score": 0
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q035",
+    "side": "left",
+    "rank": 3,
+    "score": 0
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q035",
+    "side": "left",
+    "rank": 4,
+    "score": 2
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q035",
+    "side": "left",
+    "rank": 5,
+    "score": 2
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q035",
+    "side": "right",
+    "rank": 1,
+    "score": 4
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q035",
+    "side": "right",
+    "rank": 2,
+    "score": 4
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q035",
+    "side": "right",
+    "rank": 3,
+    "score": 4
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q035",
+    "side": "right",
+    "rank": 4,
+    "score": 3
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q035",
+    "side": "right",
+    "rank": 5,
+    "score": 3
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q038",
+    "side": "left",
+    "rank": 1,
+    "score": 2
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q038",
+    "side": "left",
+    "rank": 2,
+    "score": 4
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q038",
+    "side": "left",
+    "rank": 3,
+    "score": 2
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q038",
+    "side": "left",
+    "rank": 4,
+    "score": 4
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q038",
+    "side": "left",
+    "rank": 5,
+    "score": 2
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q038",
+    "side": "right",
+    "rank": 1,
+    "score": 2
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q038",
+    "side": "right",
+    "rank": 2,
+    "score": 3
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q038",
+    "side": "right",
+    "rank": 3,
+    "score": 3
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q038",
+    "side": "right",
+    "rank": 4,
+    "score": 2
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q038",
+    "side": "right",
+    "rank": 5,
+    "score": 2
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q039",
+    "side": "left",
+    "rank": 1,
+    "score": 3
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q039",
+    "side": "left",
+    "rank": 2,
+    "score": 4
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q039",
+    "side": "left",
+    "rank": 3,
+    "score": 4
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q039",
+    "side": "left",
+    "rank": 4,
+    "score": 0
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q039",
+    "side": "left",
+    "rank": 5,
+    "score": 3
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q039",
+    "side": "right",
+    "rank": 1,
+    "score": 3
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q039",
+    "side": "right",
+    "rank": 2,
+    "score": 0
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q039",
+    "side": "right",
+    "rank": 3,
+    "score": 1
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q039",
+    "side": "right",
+    "rank": 4,
+    "score": 0
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q039",
+    "side": "right",
+    "rank": 5,
+    "score": 3
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q041",
+    "side": "left",
+    "rank": 1,
+    "score": 2
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q041",
+    "side": "left",
+    "rank": 2,
+    "score": 3
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q041",
+    "side": "left",
+    "rank": 3,
+    "score": 3
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q041",
+    "side": "left",
+    "rank": 4,
+    "score": 2
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q041",
+    "side": "left",
+    "rank": 5,
+    "score": 1
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q041",
+    "side": "right",
+    "rank": 1,
+    "score": 4
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q041",
+    "side": "right",
+    "rank": 2,
+    "score": 3
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q041",
+    "side": "right",
+    "rank": 3,
+    "score": 3
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q041",
+    "side": "right",
+    "rank": 4,
+    "score": 2
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q041",
+    "side": "right",
+    "rank": 5,
+    "score": 2
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q042",
+    "side": "left",
+    "rank": 1,
+    "score": 4
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q042",
+    "side": "left",
+    "rank": 2,
+    "score": 4
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q042",
+    "side": "left",
+    "rank": 3,
+    "score": 4
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q042",
+    "side": "left",
+    "rank": 4,
+    "score": 4
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q042",
+    "side": "left",
+    "rank": 5,
+    "score": 2
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q042",
+    "side": "right",
+    "rank": 1,
+    "score": 4
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q042",
+    "side": "right",
+    "rank": 2,
+    "score": 4
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q042",
+    "side": "right",
+    "rank": 3,
+    "score": 4
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q042",
+    "side": "right",
+    "rank": 4,
+    "score": 4
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q042",
+    "side": "right",
+    "rank": 5,
+    "score": 1
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q043",
+    "side": "left",
+    "rank": 1,
+    "score": 2
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q043",
+    "side": "left",
+    "rank": 2,
+    "score": 1
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q043",
+    "side": "left",
+    "rank": 3,
+    "score": 1
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q043",
+    "side": "left",
+    "rank": 4,
+    "score": 0
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q043",
+    "side": "left",
+    "rank": 5,
+    "score": 0
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q043",
+    "side": "right",
+    "rank": 1,
+    "score": 0
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q043",
+    "side": "right",
+    "rank": 2,
+    "score": 3
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q043",
+    "side": "right",
+    "rank": 3,
+    "score": 2
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q043",
+    "side": "right",
+    "rank": 4,
+    "score": 2
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q043",
+    "side": "right",
+    "rank": 5,
+    "score": 3
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q044",
+    "side": "left",
+    "rank": 1,
+    "score": 4
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q044",
+    "side": "left",
+    "rank": 2,
+    "score": 4
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q044",
+    "side": "left",
+    "rank": 3,
+    "score": 2
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q044",
+    "side": "left",
+    "rank": 4,
+    "score": 1
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q044",
+    "side": "left",
+    "rank": 5,
+    "score": 2
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q044",
+    "side": "right",
+    "rank": 1,
+    "score": 3
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q044",
+    "side": "right",
+    "rank": 2,
+    "score": 3
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q044",
+    "side": "right",
+    "rank": 3,
+    "score": 4
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q044",
+    "side": "right",
+    "rank": 4,
+    "score": 3
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q044",
+    "side": "right",
+    "rank": 5,
+    "score": 2
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q045",
+    "side": "left",
+    "rank": 1,
+    "score": 4
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q045",
+    "side": "left",
+    "rank": 2,
+    "score": 0
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q045",
+    "side": "left",
+    "rank": 3,
+    "score": 2
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q045",
+    "side": "left",
+    "rank": 4,
+    "score": 3
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q045",
+    "side": "left",
+    "rank": 5,
+    "score": 4
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q045",
+    "side": "right",
+    "rank": 1,
+    "score": 4
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q045",
+    "side": "right",
+    "rank": 2,
+    "score": 0
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q045",
+    "side": "right",
+    "rank": 3,
+    "score": 3
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q045",
+    "side": "right",
+    "rank": 4,
+    "score": 0
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q045",
+    "side": "right",
+    "rank": 5,
+    "score": 0
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q046",
+    "side": "left",
+    "rank": 1,
+    "score": 3
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q046",
+    "side": "left",
+    "rank": 2,
+    "score": 2
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q046",
+    "side": "left",
+    "rank": 3,
+    "score": 3
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q046",
+    "side": "left",
+    "rank": 4,
+    "score": 3
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q046",
+    "side": "left",
+    "rank": 5,
+    "score": 3
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q046",
+    "side": "right",
+    "rank": 1,
+    "score": 0
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q046",
+    "side": "right",
+    "rank": 2,
+    "score": 0
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q046",
+    "side": "right",
+    "rank": 3,
+    "score": 0
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q046",
+    "side": "right",
+    "rank": 4,
+    "score": 0
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q046",
+    "side": "right",
+    "rank": 5,
+    "score": 0
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q047",
+    "side": "left",
+    "rank": 1,
+    "score": 2
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q047",
+    "side": "left",
+    "rank": 2,
+    "score": 0
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q047",
+    "side": "left",
+    "rank": 3,
+    "score": 3
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q047",
+    "side": "left",
+    "rank": 4,
+    "score": 1
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q047",
+    "side": "left",
+    "rank": 5,
+    "score": 4
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q047",
+    "side": "right",
+    "rank": 1,
+    "score": 0
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q047",
+    "side": "right",
+    "rank": 2,
+    "score": 0
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q047",
+    "side": "right",
+    "rank": 3,
+    "score": 0
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q047",
+    "side": "right",
+    "rank": 4,
+    "score": 0
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q047",
+    "side": "right",
+    "rank": 5,
+    "score": 0
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q048",
+    "side": "left",
+    "rank": 1,
+    "score": 4
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q048",
+    "side": "left",
+    "rank": 2,
+    "score": 3
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q048",
+    "side": "left",
+    "rank": 3,
+    "score": 3
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q048",
+    "side": "left",
+    "rank": 4,
+    "score": 4
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q048",
+    "side": "left",
+    "rank": 5,
+    "score": 3
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q048",
+    "side": "right",
+    "rank": 1,
+    "score": 3
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q048",
+    "side": "right",
+    "rank": 2,
+    "score": 4
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q048",
+    "side": "right",
+    "rank": 3,
+    "score": 1
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q048",
+    "side": "right",
+    "rank": 4,
+    "score": 2
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q048",
+    "side": "right",
+    "rank": 5,
+    "score": 2
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q052",
+    "side": "left",
+    "rank": 1,
+    "score": 3
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q052",
+    "side": "left",
+    "rank": 2,
+    "score": 3
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q052",
+    "side": "left",
+    "rank": 3,
+    "score": 3
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q052",
+    "side": "left",
+    "rank": 4,
+    "score": 2
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q052",
+    "side": "left",
+    "rank": 5,
+    "score": 3
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q052",
+    "side": "right",
+    "rank": 1,
+    "score": 0
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q052",
+    "side": "right",
+    "rank": 2,
+    "score": 0
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q052",
+    "side": "right",
+    "rank": 3,
+    "score": 0
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q052",
+    "side": "right",
+    "rank": 4,
+    "score": 3
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q052",
+    "side": "right",
+    "rank": 5,
+    "score": 3
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q056",
+    "side": "left",
+    "rank": 1,
+    "score": 0
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q056",
+    "side": "left",
+    "rank": 2,
+    "score": 0
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q056",
+    "side": "left",
+    "rank": 3,
+    "score": 0
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q056",
+    "side": "left",
+    "rank": 4,
+    "score": 0
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q056",
+    "side": "left",
+    "rank": 5,
+    "score": 2
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q056",
+    "side": "right",
+    "rank": 1,
+    "score": 2
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q056",
+    "side": "right",
+    "rank": 2,
+    "score": 4
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q056",
+    "side": "right",
+    "rank": 3,
+    "score": 0
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q056",
+    "side": "right",
+    "rank": 4,
+    "score": 3
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q056",
+    "side": "right",
+    "rank": 5,
+    "score": 0
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q058",
+    "side": "left",
+    "rank": 1,
+    "score": 3
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q058",
+    "side": "left",
+    "rank": 2,
+    "score": 1
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q058",
+    "side": "left",
+    "rank": 3,
+    "score": 1
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q058",
+    "side": "left",
+    "rank": 4,
+    "score": 2
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q058",
+    "side": "left",
+    "rank": 5,
+    "score": 1
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q058",
+    "side": "right",
+    "rank": 1,
+    "score": 3
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q058",
+    "side": "right",
+    "rank": 2,
+    "score": 3
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q058",
+    "side": "right",
+    "rank": 3,
+    "score": 3
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q058",
+    "side": "right",
+    "rank": 4,
+    "score": 3
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q058",
+    "side": "right",
+    "rank": 5,
+    "score": 3
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q060",
+    "side": "left",
+    "rank": 1,
+    "score": 0
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q060",
+    "side": "left",
+    "rank": 2,
+    "score": 0
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q060",
+    "side": "left",
+    "rank": 3,
+    "score": 0
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q060",
+    "side": "left",
+    "rank": 4,
+    "score": 0
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q060",
+    "side": "left",
+    "rank": 5,
+    "score": 0
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q060",
+    "side": "right",
+    "rank": 1,
+    "score": 4
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q060",
+    "side": "right",
+    "rank": 2,
+    "score": 4
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q060",
+    "side": "right",
+    "rank": 3,
+    "score": 4
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q060",
+    "side": "right",
+    "rank": 4,
+    "score": 4
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q060",
+    "side": "right",
+    "rank": 5,
+    "score": 4
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q061",
+    "side": "left",
+    "rank": 1,
+    "score": 3
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q061",
+    "side": "left",
+    "rank": 2,
+    "score": 0
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q061",
+    "side": "left",
+    "rank": 3,
+    "score": 2
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q061",
+    "side": "left",
+    "rank": 4,
+    "score": 0
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q061",
+    "side": "left",
+    "rank": 5,
+    "score": 4
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q061",
+    "side": "right",
+    "rank": 1,
+    "score": 1
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q061",
+    "side": "right",
+    "rank": 2,
+    "score": 4
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q061",
+    "side": "right",
+    "rank": 3,
+    "score": 4
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q061",
+    "side": "right",
+    "rank": 4,
+    "score": 3
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q061",
+    "side": "right",
+    "rank": 5,
+    "score": 4
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q062",
+    "side": "left",
+    "rank": 1,
+    "score": 3
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q062",
+    "side": "left",
+    "rank": 2,
+    "score": 3
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q062",
+    "side": "left",
+    "rank": 3,
+    "score": 4
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q062",
+    "side": "left",
+    "rank": 4,
+    "score": 3
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q062",
+    "side": "left",
+    "rank": 5,
+    "score": 3
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q062",
+    "side": "right",
+    "rank": 1,
+    "score": 1
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q062",
+    "side": "right",
+    "rank": 2,
+    "score": 3
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q062",
+    "side": "right",
+    "rank": 3,
+    "score": 4
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q062",
+    "side": "right",
+    "rank": 4,
+    "score": 4
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q062",
+    "side": "right",
+    "rank": 5,
+    "score": 2
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q066",
+    "side": "left",
+    "rank": 1,
+    "score": 2
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q066",
+    "side": "left",
+    "rank": 2,
+    "score": 2
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q066",
+    "side": "left",
+    "rank": 3,
+    "score": 2
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q066",
+    "side": "left",
+    "rank": 4,
+    "score": 2
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q066",
+    "side": "left",
+    "rank": 5,
+    "score": 2
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q066",
+    "side": "right",
+    "rank": 1,
+    "score": 3
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q066",
+    "side": "right",
+    "rank": 2,
+    "score": 3
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q066",
+    "side": "right",
+    "rank": 3,
+    "score": 2
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q066",
+    "side": "right",
+    "rank": 4,
+    "score": 3
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q066",
+    "side": "right",
+    "rank": 5,
+    "score": 2
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q067",
+    "side": "left",
+    "rank": 1,
+    "score": 2
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q067",
+    "side": "left",
+    "rank": 2,
+    "score": 2
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q067",
+    "side": "left",
+    "rank": 3,
+    "score": 1
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q067",
+    "side": "left",
+    "rank": 4,
+    "score": 1
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q067",
+    "side": "left",
+    "rank": 5,
+    "score": 2
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q067",
+    "side": "right",
+    "rank": 1,
+    "score": 2
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q067",
+    "side": "right",
+    "rank": 2,
+    "score": 2
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q067",
+    "side": "right",
+    "rank": 3,
+    "score": 1
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q067",
+    "side": "right",
+    "rank": 4,
+    "score": 2
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q067",
+    "side": "right",
+    "rank": 5,
+    "score": 2
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q069",
+    "side": "left",
+    "rank": 1,
+    "score": 3
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q069",
+    "side": "left",
+    "rank": 2,
+    "score": 2
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q069",
+    "side": "left",
+    "rank": 3,
+    "score": 3
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q069",
+    "side": "left",
+    "rank": 4,
+    "score": 2
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q069",
+    "side": "left",
+    "rank": 5,
+    "score": 2
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q069",
+    "side": "right",
+    "rank": 1,
+    "score": 3
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q069",
+    "side": "right",
+    "rank": 2,
+    "score": 3
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q069",
+    "side": "right",
+    "rank": 3,
+    "score": 4
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q069",
+    "side": "right",
+    "rank": 4,
+    "score": 4
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q069",
+    "side": "right",
+    "rank": 5,
+    "score": 3
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q070",
+    "side": "left",
+    "rank": 1,
+    "score": 4
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q070",
+    "side": "left",
+    "rank": 2,
+    "score": 2
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q070",
+    "side": "left",
+    "rank": 3,
+    "score": 3
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q070",
+    "side": "left",
+    "rank": 4,
+    "score": 2
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q070",
+    "side": "left",
+    "rank": 5,
+    "score": 2
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q070",
+    "side": "right",
+    "rank": 1,
+    "score": 1
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q070",
+    "side": "right",
+    "rank": 2,
+    "score": 2
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q070",
+    "side": "right",
+    "rank": 3,
+    "score": 3
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q070",
+    "side": "right",
+    "rank": 4,
+    "score": 3
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q070",
+    "side": "right",
+    "rank": 5,
+    "score": 3
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q071",
+    "side": "left",
+    "rank": 1,
+    "score": 3
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q071",
+    "side": "left",
+    "rank": 2,
+    "score": 3
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q071",
+    "side": "left",
+    "rank": 3,
+    "score": 3
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q071",
+    "side": "left",
+    "rank": 4,
+    "score": 2
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q071",
+    "side": "left",
+    "rank": 5,
+    "score": 0
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q071",
+    "side": "right",
+    "rank": 1,
+    "score": 0
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q071",
+    "side": "right",
+    "rank": 2,
+    "score": 0
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q071",
+    "side": "right",
+    "rank": 3,
+    "score": 0
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q071",
+    "side": "right",
+    "rank": 4,
+    "score": 0
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q071",
+    "side": "right",
+    "rank": 5,
+    "score": 0
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q074",
+    "side": "left",
+    "rank": 1,
+    "score": 2
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q074",
+    "side": "left",
+    "rank": 2,
+    "score": 4
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q074",
+    "side": "left",
+    "rank": 3,
+    "score": 4
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q074",
+    "side": "left",
+    "rank": 4,
+    "score": 4
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q074",
+    "side": "left",
+    "rank": 5,
+    "score": 4
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q074",
+    "side": "right",
+    "rank": 1,
+    "score": 4
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q074",
+    "side": "right",
+    "rank": 2,
+    "score": 4
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q074",
+    "side": "right",
+    "rank": 3,
+    "score": 1
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q074",
+    "side": "right",
+    "rank": 4,
+    "score": 1
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q074",
+    "side": "right",
+    "rank": 5,
+    "score": 4
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q078",
+    "side": "left",
+    "rank": 1,
+    "score": 3
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q078",
+    "side": "left",
+    "rank": 2,
+    "score": 4
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q078",
+    "side": "left",
+    "rank": 3,
+    "score": 4
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q078",
+    "side": "left",
+    "rank": 4,
+    "score": 3
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q078",
+    "side": "left",
+    "rank": 5,
+    "score": 4
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q078",
+    "side": "right",
+    "rank": 1,
+    "score": 4
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q078",
+    "side": "right",
+    "rank": 2,
+    "score": 4
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q078",
+    "side": "right",
+    "rank": 3,
+    "score": 4
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q078",
+    "side": "right",
+    "rank": 4,
+    "score": 2
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q078",
+    "side": "right",
+    "rank": 5,
+    "score": 4
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q080",
+    "side": "left",
+    "rank": 1,
+    "score": 2
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q080",
+    "side": "left",
+    "rank": 2,
+    "score": 2
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q080",
+    "side": "left",
+    "rank": 3,
+    "score": 3
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q080",
+    "side": "left",
+    "rank": 4,
+    "score": 3
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q080",
+    "side": "left",
+    "rank": 5,
+    "score": 3
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q080",
+    "side": "right",
+    "rank": 1,
+    "score": 1
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q080",
+    "side": "right",
+    "rank": 2,
+    "score": 3
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q080",
+    "side": "right",
+    "rank": 3,
+    "score": 3
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q080",
+    "side": "right",
+    "rank": 4,
+    "score": 1
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q080",
+    "side": "right",
+    "rank": 5,
+    "score": 3
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q082",
+    "side": "left",
+    "rank": 1,
+    "score": 2
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q082",
+    "side": "left",
+    "rank": 2,
+    "score": 2
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q082",
+    "side": "left",
+    "rank": 3,
+    "score": 2
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q082",
+    "side": "left",
+    "rank": 4,
+    "score": 2
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q082",
+    "side": "left",
+    "rank": 5,
+    "score": 2
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q082",
+    "side": "right",
+    "rank": 1,
+    "score": 2
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q082",
+    "side": "right",
+    "rank": 2,
+    "score": 4
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q082",
+    "side": "right",
+    "rank": 3,
+    "score": 3
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q082",
+    "side": "right",
+    "rank": 4,
+    "score": 3
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q082",
+    "side": "right",
+    "rank": 5,
+    "score": 4
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q085",
+    "side": "left",
+    "rank": 1,
+    "score": 3
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q085",
+    "side": "left",
+    "rank": 2,
+    "score": 3
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q085",
+    "side": "left",
+    "rank": 3,
+    "score": 4
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q085",
+    "side": "left",
+    "rank": 4,
+    "score": 4
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q085",
+    "side": "left",
+    "rank": 5,
+    "score": 3
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q085",
+    "side": "right",
+    "rank": 1,
+    "score": 4
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q085",
+    "side": "right",
+    "rank": 2,
+    "score": 2
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q085",
+    "side": "right",
+    "rank": 3,
+    "score": 3
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q085",
+    "side": "right",
+    "rank": 4,
+    "score": 1
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q085",
+    "side": "right",
+    "rank": 5,
+    "score": 3
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q086",
+    "side": "left",
+    "rank": 1,
+    "score": 0
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q086",
+    "side": "left",
+    "rank": 2,
+    "score": 3
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q086",
+    "side": "left",
+    "rank": 3,
+    "score": 2
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q086",
+    "side": "left",
+    "rank": 4,
+    "score": 3
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q086",
+    "side": "left",
+    "rank": 5,
+    "score": 3
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q086",
+    "side": "right",
+    "rank": 1,
+    "score": 3
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q086",
+    "side": "right",
+    "rank": 2,
+    "score": 3
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q086",
+    "side": "right",
+    "rank": 3,
+    "score": 1
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q086",
+    "side": "right",
+    "rank": 4,
+    "score": 3
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q086",
+    "side": "right",
+    "rank": 5,
+    "score": 3
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q088",
+    "side": "left",
+    "rank": 1,
+    "score": 4
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q088",
+    "side": "left",
+    "rank": 2,
+    "score": 4
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q088",
+    "side": "left",
+    "rank": 3,
+    "score": 4
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q088",
+    "side": "left",
+    "rank": 4,
+    "score": 4
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q088",
+    "side": "left",
+    "rank": 5,
+    "score": 4
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q088",
+    "side": "right",
+    "rank": 1,
+    "score": 4
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q088",
+    "side": "right",
+    "rank": 2,
+    "score": 2
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q088",
+    "side": "right",
+    "rank": 3,
+    "score": 4
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q088",
+    "side": "right",
+    "rank": 4,
+    "score": 3
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q088",
+    "side": "right",
+    "rank": 5,
+    "score": 3
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q089",
+    "side": "left",
+    "rank": 1,
+    "score": 1
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q089",
+    "side": "left",
+    "rank": 2,
+    "score": 1
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q089",
+    "side": "left",
+    "rank": 3,
+    "score": 0
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q089",
+    "side": "left",
+    "rank": 4,
+    "score": 0
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q089",
+    "side": "left",
+    "rank": 5,
+    "score": 0
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q089",
+    "side": "right",
+    "rank": 1,
+    "score": 1
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q089",
+    "side": "right",
+    "rank": 2,
+    "score": 4
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q089",
+    "side": "right",
+    "rank": 3,
+    "score": 4
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q089",
+    "side": "right",
+    "rank": 4,
+    "score": 4
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q089",
+    "side": "right",
+    "rank": 5,
+    "score": 4
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q091",
+    "side": "left",
+    "rank": 1,
+    "score": 3
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q091",
+    "side": "left",
+    "rank": 2,
+    "score": 3
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q091",
+    "side": "left",
+    "rank": 3,
+    "score": 3
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q091",
+    "side": "left",
+    "rank": 4,
+    "score": 3
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q091",
+    "side": "left",
+    "rank": 5,
+    "score": 3
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q091",
+    "side": "right",
+    "rank": 1,
+    "score": 2
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q091",
+    "side": "right",
+    "rank": 2,
+    "score": 1
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q091",
+    "side": "right",
+    "rank": 3,
+    "score": 3
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q091",
+    "side": "right",
+    "rank": 4,
+    "score": 3
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q091",
+    "side": "right",
+    "rank": 5,
+    "score": 1
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q092",
+    "side": "left",
+    "rank": 1,
+    "score": 4
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q092",
+    "side": "left",
+    "rank": 2,
+    "score": 4
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q092",
+    "side": "left",
+    "rank": 3,
+    "score": 4
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q092",
+    "side": "left",
+    "rank": 4,
+    "score": 4
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q092",
+    "side": "left",
+    "rank": 5,
+    "score": 2
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q092",
+    "side": "right",
+    "rank": 1,
+    "score": 2
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q092",
+    "side": "right",
+    "rank": 2,
+    "score": 2
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q092",
+    "side": "right",
+    "rank": 3,
+    "score": 0
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q092",
+    "side": "right",
+    "rank": 4,
+    "score": 0
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q092",
+    "side": "right",
+    "rank": 5,
+    "score": 0
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q093",
+    "side": "left",
+    "rank": 1,
+    "score": 3
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q093",
+    "side": "left",
+    "rank": 2,
+    "score": 2
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q093",
+    "side": "left",
+    "rank": 3,
+    "score": 3
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q093",
+    "side": "left",
+    "rank": 4,
+    "score": 3
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q093",
+    "side": "left",
+    "rank": 5,
+    "score": 3
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q093",
+    "side": "right",
+    "rank": 1,
+    "score": 3
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q093",
+    "side": "right",
+    "rank": 2,
+    "score": 3
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q093",
+    "side": "right",
+    "rank": 3,
+    "score": 3
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q093",
+    "side": "right",
+    "rank": 4,
+    "score": 3
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q093",
+    "side": "right",
+    "rank": 5,
+    "score": 2
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q094",
+    "side": "left",
+    "rank": 1,
+    "score": 4
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q094",
+    "side": "left",
+    "rank": 2,
+    "score": 3
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q094",
+    "side": "left",
+    "rank": 3,
+    "score": 4
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q094",
+    "side": "left",
+    "rank": 4,
+    "score": 3
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q094",
+    "side": "left",
+    "rank": 5,
+    "score": 4
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q094",
+    "side": "right",
+    "rank": 1,
+    "score": 3
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q094",
+    "side": "right",
+    "rank": 2,
+    "score": 4
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q094",
+    "side": "right",
+    "rank": 3,
+    "score": 4
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q094",
+    "side": "right",
+    "rank": 4,
+    "score": 4
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q094",
+    "side": "right",
+    "rank": 5,
+    "score": 4
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q099",
+    "side": "left",
+    "rank": 1,
+    "score": 2
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q099",
+    "side": "left",
+    "rank": 2,
+    "score": 2
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q099",
+    "side": "left",
+    "rank": 3,
+    "score": 0
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q099",
+    "side": "left",
+    "rank": 4,
+    "score": 4
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q099",
+    "side": "left",
+    "rank": 5,
+    "score": 3
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q099",
+    "side": "right",
+    "rank": 1,
+    "score": 1
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q099",
+    "side": "right",
+    "rank": 2,
+    "score": 1
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q099",
+    "side": "right",
+    "rank": 3,
+    "score": 1
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q099",
+    "side": "right",
+    "rank": 4,
+    "score": 1
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q099",
+    "side": "right",
+    "rank": 5,
+    "score": 0
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q101",
+    "side": "left",
+    "rank": 1,
+    "score": 3
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q101",
+    "side": "left",
+    "rank": 2,
+    "score": 4
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q101",
+    "side": "left",
+    "rank": 3,
+    "score": 4
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q101",
+    "side": "left",
+    "rank": 4,
+    "score": 2
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q101",
+    "side": "left",
+    "rank": 5,
+    "score": 3
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q101",
+    "side": "right",
+    "rank": 1,
+    "score": 0
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q101",
+    "side": "right",
+    "rank": 2,
+    "score": 0
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q101",
+    "side": "right",
+    "rank": 3,
+    "score": 0
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q101",
+    "side": "right",
+    "rank": 4,
+    "score": 1
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q101",
+    "side": "right",
+    "rank": 5,
+    "score": 4
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q105",
+    "side": "left",
+    "rank": 1,
+    "score": 4
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q105",
+    "side": "left",
+    "rank": 2,
+    "score": 2
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q105",
+    "side": "left",
+    "rank": 3,
+    "score": 1
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q105",
+    "side": "left",
+    "rank": 4,
+    "score": 3
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q105",
+    "side": "left",
+    "rank": 5,
+    "score": 3
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q105",
+    "side": "right",
+    "rank": 1,
+    "score": 0
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q105",
+    "side": "right",
+    "rank": 2,
+    "score": 0
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q105",
+    "side": "right",
+    "rank": 3,
+    "score": 0
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q105",
+    "side": "right",
+    "rank": 4,
+    "score": 0
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q105",
+    "side": "right",
+    "rank": 5,
+    "score": 0
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q109",
+    "side": "left",
+    "rank": 1,
+    "score": 2
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q109",
+    "side": "left",
+    "rank": 2,
+    "score": 1
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q109",
+    "side": "left",
+    "rank": 3,
+    "score": 2
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q109",
+    "side": "left",
+    "rank": 4,
+    "score": 2
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q109",
+    "side": "left",
+    "rank": 5,
+    "score": 2
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q109",
+    "side": "right",
+    "rank": 1,
+    "score": 1
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q109",
+    "side": "right",
+    "rank": 2,
+    "score": 1
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q109",
+    "side": "right",
+    "rank": 3,
+    "score": 1
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q109",
+    "side": "right",
+    "rank": 4,
+    "score": 1
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q109",
+    "side": "right",
+    "rank": 5,
+    "score": 1
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q113",
+    "side": "left",
+    "rank": 1,
+    "score": 4
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q113",
+    "side": "left",
+    "rank": 2,
+    "score": 4
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q113",
+    "side": "left",
+    "rank": 3,
+    "score": 4
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q113",
+    "side": "left",
+    "rank": 4,
+    "score": 3
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q113",
+    "side": "left",
+    "rank": 5,
+    "score": 4
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q113",
+    "side": "right",
+    "rank": 1,
+    "score": 4
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q113",
+    "side": "right",
+    "rank": 2,
+    "score": 4
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q113",
+    "side": "right",
+    "rank": 3,
+    "score": 3
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q113",
+    "side": "right",
+    "rank": 4,
+    "score": 4
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q113",
+    "side": "right",
+    "rank": 5,
+    "score": 3
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q114",
+    "side": "left",
+    "rank": 1,
+    "score": 0
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q114",
+    "side": "left",
+    "rank": 2,
+    "score": 3
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q114",
+    "side": "left",
+    "rank": 3,
+    "score": 3
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q114",
+    "side": "left",
+    "rank": 4,
+    "score": 3
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q114",
+    "side": "left",
+    "rank": 5,
+    "score": 2
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q114",
+    "side": "right",
+    "rank": 1,
+    "score": 2
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q114",
+    "side": "right",
+    "rank": 2,
+    "score": 3
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q114",
+    "side": "right",
+    "rank": 3,
+    "score": 2
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q114",
+    "side": "right",
+    "rank": 4,
+    "score": 2
+  },
+  {
+    "judge": "cardiology_expert",
+    "query_id": "q114",
+    "side": "right",
+    "rank": 5,
+    "score": 2
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q001",
+    "side": "left",
+    "rank": 1,
+    "score": 4
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q001",
+    "side": "left",
+    "rank": 2,
+    "score": 0
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q001",
+    "side": "left",
+    "rank": 3,
+    "score": 2
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q001",
+    "side": "right",
+    "rank": 1,
+    "score": 1
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q001",
+    "side": "right",
+    "rank": 2,
+    "score": 0
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q001",
+    "side": "right",
+    "rank": 3,
+    "score": 0
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q003",
+    "side": "left",
+    "rank": 1,
+    "score": 3
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q003",
+    "side": "left",
+    "rank": 2,
+    "score": 1
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q003",
+    "side": "left",
+    "rank": 3,
+    "score": 0
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q003",
+    "side": "left",
+    "rank": 4,
+    "score": 0
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q003",
+    "side": "left",
+    "rank": 5,
+    "score": 0
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q003",
+    "side": "right",
+    "rank": 1,
+    "score": 4
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q003",
+    "side": "right",
+    "rank": 2,
+    "score": 4
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q003",
+    "side": "right",
+    "rank": 3,
+    "score": 1
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q003",
+    "side": "right",
+    "rank": 4,
+    "score": 4
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q003",
+    "side": "right",
+    "rank": 5,
+    "score": 3
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q004",
+    "side": "left",
+    "rank": 1,
+    "score": 1
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q004",
+    "side": "left",
+    "rank": 2,
+    "score": 1
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q004",
+    "side": "left",
+    "rank": 3,
+    "score": 1
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q004",
+    "side": "left",
+    "rank": 4,
+    "score": 0
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q004",
+    "side": "left",
+    "rank": 5,
+    "score": 0
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q004",
+    "side": "right",
+    "rank": 1,
+    "score": 2
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q004",
+    "side": "right",
+    "rank": 2,
+    "score": 2
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q004",
+    "side": "right",
+    "rank": 3,
+    "score": 1
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q004",
+    "side": "right",
+    "rank": 4,
+    "score": 0
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q004",
+    "side": "right",
+    "rank": 5,
+    "score": 0
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q006",
+    "side": "left",
+    "rank": 1,
+    "score": 1
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q006",
+    "side": "left",
+    "rank": 2,
+    "score": 4
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q006",
+    "side": "left",
+    "rank": 3,
+    "score": 0
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q006",
+    "side": "left",
+    "rank": 4,
+    "score": 2
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q006",
+    "side": "left",
+    "rank": 5,
+    "score": 2
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q006",
+    "side": "right",
+    "rank": 1,
+    "score": 2
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q006",
+    "side": "right",
+    "rank": 2,
+    "score": 3
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q006",
+    "side": "right",
+    "rank": 3,
+    "score": 3
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q006",
+    "side": "right",
+    "rank": 4,
+    "score": 3
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q006",
+    "side": "right",
+    "rank": 5,
+    "score": 3
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q008",
+    "side": "left",
+    "rank": 1,
+    "score": 2
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q008",
+    "side": "left",
+    "rank": 2,
+    "score": 1
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q008",
+    "side": "left",
+    "rank": 3,
+    "score": 2
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q008",
+    "side": "left",
+    "rank": 4,
+    "score": 3
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q008",
+    "side": "left",
+    "rank": 5,
+    "score": 4
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q008",
+    "side": "right",
+    "rank": 1,
+    "score": 1
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q008",
+    "side": "right",
+    "rank": 2,
+    "score": 1
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q008",
+    "side": "right",
+    "rank": 3,
+    "score": 2
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q008",
+    "side": "right",
+    "rank": 4,
+    "score": 4
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q008",
+    "side": "right",
+    "rank": 5,
+    "score": 3
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q009",
+    "side": "left",
+    "rank": 1,
+    "score": 2
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q009",
+    "side": "left",
+    "rank": 2,
+    "score": 4
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q009",
+    "side": "left",
+    "rank": 3,
+    "score": 1
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q009",
+    "side": "left",
+    "rank": 4,
+    "score": 2
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q009",
+    "side": "left",
+    "rank": 5,
+    "score": 2
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q009",
+    "side": "right",
+    "rank": 1,
+    "score": 1
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q009",
+    "side": "right",
+    "rank": 2,
+    "score": 1
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q009",
+    "side": "right",
+    "rank": 3,
+    "score": 1
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q009",
+    "side": "right",
+    "rank": 4,
+    "score": 1
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q009",
+    "side": "right",
+    "rank": 5,
+    "score": 2
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q010",
+    "side": "left",
+    "rank": 1,
+    "score": 3
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q010",
+    "side": "left",
+    "rank": 2,
+    "score": 3
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q010",
+    "side": "left",
+    "rank": 3,
+    "score": 3
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q010",
+    "side": "left",
+    "rank": 4,
+    "score": 3
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q010",
+    "side": "left",
+    "rank": 5,
+    "score": 3
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q010",
+    "side": "right",
+    "rank": 1,
+    "score": 3
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q010",
+    "side": "right",
+    "rank": 2,
+    "score": 3
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q010",
+    "side": "right",
+    "rank": 3,
+    "score": 4
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q010",
+    "side": "right",
+    "rank": 4,
+    "score": 3
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q010",
+    "side": "right",
+    "rank": 5,
+    "score": 4
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q013",
+    "side": "left",
+    "rank": 1,
+    "score": 2
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q013",
+    "side": "left",
+    "rank": 2,
+    "score": 1
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q013",
+    "side": "left",
+    "rank": 3,
+    "score": 3
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q013",
+    "side": "left",
+    "rank": 4,
+    "score": 2
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q013",
+    "side": "left",
+    "rank": 5,
+    "score": 4
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q013",
+    "side": "right",
+    "rank": 1,
+    "score": 2
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q013",
+    "side": "right",
+    "rank": 2,
+    "score": 2
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q013",
+    "side": "right",
+    "rank": 3,
+    "score": 2
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q013",
+    "side": "right",
+    "rank": 4,
+    "score": 2
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q013",
+    "side": "right",
+    "rank": 5,
+    "score": 2
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q014",
+    "side": "left",
+    "rank": 1,
+    "score": 0
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q014",
+    "side": "left",
+    "rank": 2,
+    "score": 1
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q014",
+    "side": "left",
+    "rank": 3,
+    "score": 1
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q014",
+    "side": "left",
+    "rank": 4,
+    "score": 0
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q014",
+    "side": "left",
+    "rank": 5,
+    "score": 1
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q014",
+    "side": "right",
+    "rank": 1,
+    "score": 4
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q014",
+    "side": "right",
+    "rank": 2,
+    "score": 1
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q014",
+    "side": "right",
+    "rank": 3,
+    "score": 2
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q014",
+    "side": "right",
+    "rank": 4,
+    "score": 2
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q014",
+    "side": "right",
+    "rank": 5,
+    "score": 2
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q016",
+    "side": "left",
+    "rank": 1,
+    "score": 0
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q016",
+    "side": "left",
+    "rank": 2,
+    "score": 0
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q016",
+    "side": "left",
+    "rank": 3,
+    "score": 0
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q016",
+    "side": "left",
+    "rank": 4,
+    "score": 0
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q016",
+    "side": "left",
+    "rank": 5,
+    "score": 0
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q016",
+    "side": "right",
+    "rank": 1,
+    "score": 4
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q016",
+    "side": "right",
+    "rank": 2,
+    "score": 4
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q016",
+    "side": "right",
+    "rank": 3,
+    "score": 3
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q016",
+    "side": "right",
+    "rank": 4,
+    "score": 1
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q016",
+    "side": "right",
+    "rank": 5,
+    "score": 2
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q017",
+    "side": "left",
+    "rank": 1,
+    "score": 3
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q017",
+    "side": "left",
+    "rank": 2,
+    "score": 1
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q017",
+    "side": "left",
+    "rank": 3,
+    "score": 0
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q017",
+    "side": "left",
+    "rank": 4,
+    "score": 0
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q017",
+    "side": "left",
+    "rank": 5,
+    "score": 3
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q017",
+    "side": "right",
+    "rank": 1,
+    "score": 3
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q017",
+    "side": "right",
+    "rank": 2,
+    "score": 3
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q017",
+    "side": "right",
+    "rank": 3,
+    "score": 2
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q017",
+    "side": "right",
+    "rank": 4,
+    "score": 2
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q017",
+    "side": "right",
+    "rank": 5,
+    "score": 2
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q019",
+    "side": "left",
+    "rank": 1,
+    "score": 1
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q019",
+    "side": "left",
+    "rank": 2,
+    "score": 1
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q019",
+    "side": "left",
+    "rank": 3,
+    "score": 2
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q019",
+    "side": "left",
+    "rank": 4,
+    "score": 3
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q019",
+    "side": "left",
+    "rank": 5,
+    "score": 3
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q019",
+    "side": "right",
+    "rank": 1,
+    "score": 2
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q019",
+    "side": "right",
+    "rank": 2,
+    "score": 2
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q019",
+    "side": "right",
+    "rank": 3,
+    "score": 1
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q019",
+    "side": "right",
+    "rank": 4,
+    "score": 2
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q019",
+    "side": "right",
+    "rank": 5,
+    "score": 2
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q023",
+    "side": "left",
+    "rank": 1,
+    "score": 3
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q023",
+    "side": "left",
+    "rank": 2,
+    "score": 1
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q023",
+    "side": "left",
+    "rank": 3,
+    "score": 2
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q023",
+    "side": "left",
+    "rank": 4,
+    "score": 2
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q023",
+    "side": "left",
+    "rank": 5,
+    "score": 0
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q023",
+    "side": "right",
+    "rank": 1,
+    "score": 0
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q023",
+    "side": "right",
+    "rank": 2,
+    "score": 0
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q023",
+    "side": "right",
+    "rank": 3,
+    "score": 0
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q023",
+    "side": "right",
+    "rank": 4,
+    "score": 0
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q023",
+    "side": "right",
+    "rank": 5,
+    "score": 0
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q025",
+    "side": "left",
+    "rank": 1,
+    "score": 0
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q025",
+    "side": "left",
+    "rank": 2,
+    "score": 0
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q025",
+    "side": "left",
+    "rank": 3,
+    "score": 1
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q025",
+    "side": "left",
+    "rank": 4,
+    "score": 1
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q025",
+    "side": "left",
+    "rank": 5,
+    "score": 0
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q025",
+    "side": "right",
+    "rank": 1,
+    "score": 1
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q025",
+    "side": "right",
+    "rank": 2,
+    "score": 3
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q025",
+    "side": "right",
+    "rank": 3,
+    "score": 1
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q025",
+    "side": "right",
+    "rank": 4,
+    "score": 1
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q025",
+    "side": "right",
+    "rank": 5,
+    "score": 3
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q026",
+    "side": "left",
+    "rank": 1,
+    "score": 3
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q026",
+    "side": "left",
+    "rank": 2,
+    "score": 4
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q026",
+    "side": "left",
+    "rank": 3,
+    "score": 3
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q026",
+    "side": "left",
+    "rank": 4,
+    "score": 3
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q026",
+    "side": "left",
+    "rank": 5,
+    "score": 3
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q026",
+    "side": "right",
+    "rank": 1,
+    "score": 0
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q026",
+    "side": "right",
+    "rank": 2,
+    "score": 0
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q026",
+    "side": "right",
+    "rank": 3,
+    "score": 0
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q026",
+    "side": "right",
+    "rank": 4,
+    "score": 0
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q026",
+    "side": "right",
+    "rank": 5,
+    "score": 0
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q028",
+    "side": "left",
+    "rank": 1,
+    "score": 1
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q028",
+    "side": "left",
+    "rank": 2,
+    "score": 0
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q028",
+    "side": "left",
+    "rank": 3,
+    "score": 4
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q028",
+    "side": "left",
+    "rank": 4,
+    "score": 4
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q028",
+    "side": "right",
+    "rank": 1,
+    "score": 4
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q028",
+    "side": "right",
+    "rank": 2,
+    "score": 1
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q028",
+    "side": "right",
+    "rank": 3,
+    "score": 1
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q028",
+    "side": "right",
+    "rank": 4,
+    "score": 3
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q029",
+    "side": "left",
+    "rank": 1,
+    "score": 1
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q029",
+    "side": "left",
+    "rank": 2,
+    "score": 0
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q029",
+    "side": "left",
+    "rank": 3,
+    "score": 1
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q029",
+    "side": "left",
+    "rank": 4,
+    "score": 1
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q029",
+    "side": "left",
+    "rank": 5,
+    "score": 1
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q029",
+    "side": "right",
+    "rank": 1,
+    "score": 0
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q029",
+    "side": "right",
+    "rank": 2,
+    "score": 0
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q029",
+    "side": "right",
+    "rank": 3,
+    "score": 0
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q029",
+    "side": "right",
+    "rank": 4,
+    "score": 0
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q029",
+    "side": "right",
+    "rank": 5,
+    "score": 0
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q030",
+    "side": "left",
+    "rank": 1,
+    "score": 0
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q030",
+    "side": "left",
+    "rank": 2,
+    "score": 0
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q030",
+    "side": "left",
+    "rank": 3,
+    "score": 0
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q030",
+    "side": "left",
+    "rank": 4,
+    "score": 0
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q030",
+    "side": "left",
+    "rank": 5,
+    "score": 0
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q030",
+    "side": "right",
+    "rank": 1,
+    "score": 3
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q030",
+    "side": "right",
+    "rank": 2,
+    "score": 4
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q030",
+    "side": "right",
+    "rank": 3,
+    "score": 1
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q030",
+    "side": "right",
+    "rank": 4,
+    "score": 4
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q030",
+    "side": "right",
+    "rank": 5,
+    "score": 1
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q031",
+    "side": "left",
+    "rank": 1,
+    "score": 0
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q031",
+    "side": "left",
+    "rank": 2,
+    "score": 1
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q031",
+    "side": "left",
+    "rank": 3,
+    "score": 2
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q031",
+    "side": "left",
+    "rank": 4,
+    "score": 0
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q031",
+    "side": "left",
+    "rank": 5,
+    "score": 1
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q031",
+    "side": "right",
+    "rank": 1,
+    "score": 1
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q031",
+    "side": "right",
+    "rank": 2,
+    "score": 1
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q031",
+    "side": "right",
+    "rank": 3,
+    "score": 2
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q031",
+    "side": "right",
+    "rank": 4,
+    "score": 4
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q031",
+    "side": "right",
+    "rank": 5,
+    "score": 3
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q033",
+    "side": "left",
+    "rank": 1,
+    "score": 2
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q033",
+    "side": "left",
+    "rank": 2,
+    "score": 4
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q033",
+    "side": "left",
+    "rank": 3,
+    "score": 2
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q033",
+    "side": "left",
+    "rank": 4,
+    "score": 3
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q033",
+    "side": "left",
+    "rank": 5,
+    "score": 3
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q033",
+    "side": "right",
+    "rank": 1,
+    "score": 1
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q033",
+    "side": "right",
+    "rank": 2,
+    "score": 1
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q033",
+    "side": "right",
+    "rank": 3,
+    "score": 1
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q033",
+    "side": "right",
+    "rank": 4,
+    "score": 1
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q033",
+    "side": "right",
+    "rank": 5,
+    "score": 2
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q035",
+    "side": "left",
+    "rank": 1,
+    "score": 0
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q035",
+    "side": "left",
+    "rank": 2,
+    "score": 0
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q035",
+    "side": "left",
+    "rank": 3,
+    "score": 0
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q035",
+    "side": "left",
+    "rank": 4,
+    "score": 1
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q035",
+    "side": "left",
+    "rank": 5,
+    "score": 1
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q035",
+    "side": "right",
+    "rank": 1,
+    "score": 2
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q035",
+    "side": "right",
+    "rank": 2,
+    "score": 4
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q035",
+    "side": "right",
+    "rank": 3,
+    "score": 4
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q035",
+    "side": "right",
+    "rank": 4,
+    "score": 3
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q035",
+    "side": "right",
+    "rank": 5,
+    "score": 3
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q039",
+    "side": "left",
+    "rank": 1,
+    "score": 3
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q039",
+    "side": "left",
+    "rank": 2,
+    "score": 2
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q039",
+    "side": "left",
+    "rank": 3,
+    "score": 3
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q039",
+    "side": "left",
+    "rank": 4,
+    "score": 1
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q039",
+    "side": "left",
+    "rank": 5,
+    "score": 3
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q039",
+    "side": "right",
+    "rank": 1,
+    "score": 2
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q039",
+    "side": "right",
+    "rank": 2,
+    "score": 0
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q039",
+    "side": "right",
+    "rank": 3,
+    "score": 0
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q039",
+    "side": "right",
+    "rank": 4,
+    "score": 3
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q039",
+    "side": "right",
+    "rank": 5,
+    "score": 4
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q041",
+    "side": "left",
+    "rank": 1,
+    "score": 1
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q041",
+    "side": "left",
+    "rank": 2,
+    "score": 2
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q041",
+    "side": "left",
+    "rank": 3,
+    "score": 3
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q041",
+    "side": "left",
+    "rank": 4,
+    "score": 2
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q041",
+    "side": "left",
+    "rank": 5,
+    "score": 1
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q041",
+    "side": "right",
+    "rank": 1,
+    "score": 4
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q041",
+    "side": "right",
+    "rank": 2,
+    "score": 2
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q041",
+    "side": "right",
+    "rank": 3,
+    "score": 3
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q041",
+    "side": "right",
+    "rank": 4,
+    "score": 2
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q041",
+    "side": "right",
+    "rank": 5,
+    "score": 3
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q043",
+    "side": "left",
+    "rank": 1,
+    "score": 1
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q043",
+    "side": "left",
+    "rank": 2,
+    "score": 1
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q043",
+    "side": "left",
+    "rank": 3,
+    "score": 1
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q043",
+    "side": "left",
+    "rank": 4,
+    "score": 1
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q043",
+    "side": "left",
+    "rank": 5,
+    "score": 1
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q043",
+    "side": "right",
+    "rank": 1,
+    "score": 2
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q043",
+    "side": "right",
+    "rank": 2,
+    "score": 4
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q043",
+    "side": "right",
+    "rank": 3,
+    "score": 3
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q043",
+    "side": "right",
+    "rank": 4,
+    "score": 3
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q043",
+    "side": "right",
+    "rank": 5,
+    "score": 2
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q046",
+    "side": "left",
+    "rank": 1,
+    "score": 3
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q046",
+    "side": "left",
+    "rank": 2,
+    "score": 0
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q046",
+    "side": "left",
+    "rank": 3,
+    "score": 2
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q046",
+    "side": "left",
+    "rank": 4,
+    "score": 2
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q046",
+    "side": "left",
+    "rank": 5,
+    "score": 3
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q046",
+    "side": "right",
+    "rank": 1,
+    "score": 1
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q046",
+    "side": "right",
+    "rank": 2,
+    "score": 0
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q046",
+    "side": "right",
+    "rank": 3,
+    "score": 1
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q046",
+    "side": "right",
+    "rank": 4,
+    "score": 0
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q046",
+    "side": "right",
+    "rank": 5,
+    "score": 0
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q049",
+    "side": "left",
+    "rank": 1,
+    "score": 0
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q049",
+    "side": "left",
+    "rank": 2,
+    "score": 0
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q049",
+    "side": "left",
+    "rank": 3,
+    "score": 0
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q049",
+    "side": "left",
+    "rank": 4,
+    "score": 0
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q049",
+    "side": "left",
+    "rank": 5,
+    "score": 0
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q049",
+    "side": "right",
+    "rank": 1,
+    "score": 3
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q049",
+    "side": "right",
+    "rank": 2,
+    "score": 2
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q049",
+    "side": "right",
+    "rank": 3,
+    "score": 3
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q049",
+    "side": "right",
+    "rank": 4,
+    "score": 3
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q049",
+    "side": "right",
+    "rank": 5,
+    "score": 4
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q050",
+    "side": "left",
+    "rank": 1,
+    "score": 0
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q050",
+    "side": "left",
+    "rank": 2,
+    "score": 0
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q050",
+    "side": "left",
+    "rank": 3,
+    "score": 1
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q050",
+    "side": "left",
+    "rank": 4,
+    "score": 1
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q050",
+    "side": "left",
+    "rank": 5,
+    "score": 1
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q050",
+    "side": "right",
+    "rank": 1,
+    "score": 1
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q050",
+    "side": "right",
+    "rank": 2,
+    "score": 0
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q050",
+    "side": "right",
+    "rank": 3,
+    "score": 0
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q050",
+    "side": "right",
+    "rank": 4,
+    "score": 1
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q050",
+    "side": "right",
+    "rank": 5,
+    "score": 0
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q052",
+    "side": "left",
+    "rank": 1,
+    "score": 4
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q052",
+    "side": "left",
+    "rank": 2,
+    "score": 3
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q052",
+    "side": "left",
+    "rank": 3,
+    "score": 2
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q052",
+    "side": "left",
+    "rank": 4,
+    "score": 2
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q052",
+    "side": "left",
+    "rank": 5,
+    "score": 4
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q052",
+    "side": "right",
+    "rank": 1,
+    "score": 4
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q052",
+    "side": "right",
+    "rank": 2,
+    "score": 4
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q052",
+    "side": "right",
+    "rank": 3,
+    "score": 3
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q052",
+    "side": "right",
+    "rank": 4,
+    "score": 2
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q052",
+    "side": "right",
+    "rank": 5,
+    "score": 4
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q053",
+    "side": "left",
+    "rank": 1,
+    "score": 0
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q053",
+    "side": "left",
+    "rank": 2,
+    "score": 2
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q053",
+    "side": "left",
+    "rank": 3,
+    "score": 3
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q053",
+    "side": "left",
+    "rank": 4,
+    "score": 0
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q053",
+    "side": "left",
+    "rank": 5,
+    "score": 1
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q053",
+    "side": "right",
+    "rank": 1,
+    "score": 4
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q053",
+    "side": "right",
+    "rank": 2,
+    "score": 3
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q053",
+    "side": "right",
+    "rank": 3,
+    "score": 3
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q053",
+    "side": "right",
+    "rank": 4,
+    "score": 3
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q053",
+    "side": "right",
+    "rank": 5,
+    "score": 4
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q054",
+    "side": "left",
+    "rank": 1,
+    "score": 2
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q054",
+    "side": "left",
+    "rank": 2,
+    "score": 3
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q054",
+    "side": "left",
+    "rank": 3,
+    "score": 1
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q054",
+    "side": "left",
+    "rank": 4,
+    "score": 3
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q054",
+    "side": "left",
+    "rank": 5,
+    "score": 3
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q054",
+    "side": "right",
+    "rank": 1,
+    "score": 1
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q054",
+    "side": "right",
+    "rank": 2,
+    "score": 0
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q054",
+    "side": "right",
+    "rank": 3,
+    "score": 0
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q054",
+    "side": "right",
+    "rank": 4,
+    "score": 1
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q054",
+    "side": "right",
+    "rank": 5,
+    "score": 0
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q055",
+    "side": "left",
+    "rank": 1,
+    "score": 4
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q055",
+    "side": "left",
+    "rank": 2,
+    "score": 4
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q055",
+    "side": "left",
+    "rank": 3,
+    "score": 4
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q055",
+    "side": "left",
+    "rank": 4,
+    "score": 4
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q055",
+    "side": "left",
+    "rank": 5,
+    "score": 2
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q055",
+    "side": "right",
+    "rank": 1,
+    "score": 0
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q055",
+    "side": "right",
+    "rank": 2,
+    "score": 3
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q055",
+    "side": "right",
+    "rank": 3,
+    "score": 0
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q055",
+    "side": "right",
+    "rank": 4,
+    "score": 2
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q055",
+    "side": "right",
+    "rank": 5,
+    "score": 0
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q056",
+    "side": "left",
+    "rank": 1,
+    "score": 0
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q056",
+    "side": "left",
+    "rank": 2,
+    "score": 0
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q056",
+    "side": "left",
+    "rank": 3,
+    "score": 0
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q056",
+    "side": "left",
+    "rank": 4,
+    "score": 0
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q056",
+    "side": "left",
+    "rank": 5,
+    "score": 2
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q056",
+    "side": "right",
+    "rank": 1,
+    "score": 1
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q056",
+    "side": "right",
+    "rank": 2,
+    "score": 4
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q056",
+    "side": "right",
+    "rank": 3,
+    "score": 0
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q056",
+    "side": "right",
+    "rank": 4,
+    "score": 3
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q056",
+    "side": "right",
+    "rank": 5,
+    "score": 1
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q057",
+    "side": "left",
+    "rank": 1,
+    "score": 3
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q057",
+    "side": "left",
+    "rank": 2,
+    "score": 0
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q057",
+    "side": "left",
+    "rank": 3,
+    "score": 2
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q057",
+    "side": "left",
+    "rank": 4,
+    "score": 3
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q057",
+    "side": "left",
+    "rank": 5,
+    "score": 2
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q057",
+    "side": "right",
+    "rank": 1,
+    "score": 4
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q057",
+    "side": "right",
+    "rank": 2,
+    "score": 1
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q057",
+    "side": "right",
+    "rank": 3,
+    "score": 3
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q057",
+    "side": "right",
+    "rank": 4,
+    "score": 1
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q057",
+    "side": "right",
+    "rank": 5,
+    "score": 1
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q058",
+    "side": "left",
+    "rank": 1,
+    "score": 2
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q058",
+    "side": "left",
+    "rank": 2,
+    "score": 2
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q058",
+    "side": "left",
+    "rank": 3,
+    "score": 2
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q058",
+    "side": "left",
+    "rank": 4,
+    "score": 1
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q058",
+    "side": "left",
+    "rank": 5,
+    "score": 1
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q058",
+    "side": "right",
+    "rank": 1,
+    "score": 3
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q058",
+    "side": "right",
+    "rank": 2,
+    "score": 1
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q058",
+    "side": "right",
+    "rank": 3,
+    "score": 2
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q058",
+    "side": "right",
+    "rank": 4,
+    "score": 4
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q058",
+    "side": "right",
+    "rank": 5,
+    "score": 1
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q059",
+    "side": "left",
+    "rank": 1,
+    "score": 3
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q059",
+    "side": "left",
+    "rank": 2,
+    "score": 0
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q059",
+    "side": "left",
+    "rank": 3,
+    "score": 3
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q059",
+    "side": "left",
+    "rank": 4,
+    "score": 1
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q059",
+    "side": "left",
+    "rank": 5,
+    "score": 0
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q059",
+    "side": "right",
+    "rank": 1,
+    "score": 3
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q059",
+    "side": "right",
+    "rank": 2,
+    "score": 3
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q059",
+    "side": "right",
+    "rank": 3,
+    "score": 4
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q059",
+    "side": "right",
+    "rank": 4,
+    "score": 4
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q059",
+    "side": "right",
+    "rank": 5,
+    "score": 4
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q060",
+    "side": "left",
+    "rank": 1,
+    "score": 1
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q060",
+    "side": "left",
+    "rank": 2,
+    "score": 0
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q060",
+    "side": "left",
+    "rank": 3,
+    "score": 0
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q060",
+    "side": "left",
+    "rank": 4,
+    "score": 0
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q060",
+    "side": "left",
+    "rank": 5,
+    "score": 0
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q060",
+    "side": "right",
+    "rank": 1,
+    "score": 2
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q060",
+    "side": "right",
+    "rank": 2,
+    "score": 2
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q060",
+    "side": "right",
+    "rank": 3,
+    "score": 2
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q060",
+    "side": "right",
+    "rank": 4,
+    "score": 2
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q060",
+    "side": "right",
+    "rank": 5,
+    "score": 1
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q063",
+    "side": "left",
+    "rank": 1,
+    "score": 4
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q063",
+    "side": "left",
+    "rank": 2,
+    "score": 3
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q063",
+    "side": "left",
+    "rank": 3,
+    "score": 2
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q063",
+    "side": "left",
+    "rank": 4,
+    "score": 1
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q063",
+    "side": "left",
+    "rank": 5,
+    "score": 2
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q063",
+    "side": "right",
+    "rank": 1,
+    "score": 0
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q063",
+    "side": "right",
+    "rank": 2,
+    "score": 0
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q063",
+    "side": "right",
+    "rank": 3,
+    "score": 2
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q063",
+    "side": "right",
+    "rank": 4,
+    "score": 3
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q063",
+    "side": "right",
+    "rank": 5,
+    "score": 3
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q065",
+    "side": "left",
+    "rank": 1,
+    "score": 4
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q065",
+    "side": "left",
+    "rank": 2,
+    "score": 4
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q065",
+    "side": "left",
+    "rank": 3,
+    "score": 4
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q065",
+    "side": "left",
+    "rank": 4,
+    "score": 2
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q065",
+    "side": "left",
+    "rank": 5,
+    "score": 1
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q065",
+    "side": "right",
+    "rank": 1,
+    "score": 2
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q065",
+    "side": "right",
+    "rank": 2,
+    "score": 4
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q065",
+    "side": "right",
+    "rank": 3,
+    "score": 3
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q065",
+    "side": "right",
+    "rank": 4,
+    "score": 1
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q065",
+    "side": "right",
+    "rank": 5,
+    "score": 4
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q066",
+    "side": "left",
+    "rank": 1,
+    "score": 2
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q066",
+    "side": "left",
+    "rank": 2,
+    "score": 1
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q066",
+    "side": "left",
+    "rank": 3,
+    "score": 1
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q066",
+    "side": "left",
+    "rank": 4,
+    "score": 1
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q066",
+    "side": "left",
+    "rank": 5,
+    "score": 1
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q066",
+    "side": "right",
+    "rank": 1,
+    "score": 1
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q066",
+    "side": "right",
+    "rank": 2,
+    "score": 1
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q066",
+    "side": "right",
+    "rank": 3,
+    "score": 1
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q066",
+    "side": "right",
+    "rank": 4,
+    "score": 1
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q066",
+    "side": "right",
+    "rank": 5,
+    "score": 1
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q071",
+    "side": "left",
+    "rank": 1,
+    "score": 3
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q071",
+    "side": "left",
+    "rank": 2,
+    "score": 3
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q071",
+    "side": "left",
+    "rank": 3,
+    "score": 3
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q071",
+    "side": "left",
+    "rank": 4,
+    "score": 4
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q071",
+    "side": "left",
+    "rank": 5,
+    "score": 0
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q071",
+    "side": "right",
+    "rank": 1,
+    "score": 0
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q071",
+    "side": "right",
+    "rank": 2,
+    "score": 0
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q071",
+    "side": "right",
+    "rank": 3,
+    "score": 0
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q071",
+    "side": "right",
+    "rank": 4,
+    "score": 0
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q071",
+    "side": "right",
+    "rank": 5,
+    "score": 0
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q073",
+    "side": "left",
+    "rank": 1,
+    "score": 1
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q073",
+    "side": "left",
+    "rank": 2,
+    "score": 1
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q073",
+    "side": "left",
+    "rank": 3,
+    "score": 2
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q073",
+    "side": "left",
+    "rank": 4,
+    "score": 1
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q073",
+    "side": "left",
+    "rank": 5,
+    "score": 0
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q073",
+    "side": "right",
+    "rank": 1,
+    "score": 1
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q073",
+    "side": "right",
+    "rank": 2,
+    "score": 1
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q073",
+    "side": "right",
+    "rank": 3,
+    "score": 2
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q073",
+    "side": "right",
+    "rank": 4,
+    "score": 2
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q073",
+    "side": "right",
+    "rank": 5,
+    "score": 2
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q077",
+    "side": "left",
+    "rank": 1,
+    "score": 2
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q077",
+    "side": "left",
+    "rank": 2,
+    "score": 2
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q077",
+    "side": "left",
+    "rank": 3,
+    "score": 2
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q077",
+    "side": "left",
+    "rank": 4,
+    "score": 3
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q077",
+    "side": "left",
+    "rank": 5,
+    "score": 4
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q077",
+    "side": "right",
+    "rank": 1,
+    "score": 1
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q077",
+    "side": "right",
+    "rank": 2,
+    "score": 1
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q077",
+    "side": "right",
+    "rank": 3,
+    "score": 1
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q077",
+    "side": "right",
+    "rank": 4,
+    "score": 2
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q077",
+    "side": "right",
+    "rank": 5,
+    "score": 3
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q079",
+    "side": "left",
+    "rank": 1,
+    "score": 4
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q079",
+    "side": "left",
+    "rank": 2,
+    "score": 2
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q079",
+    "side": "left",
+    "rank": 3,
+    "score": 3
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q079",
+    "side": "left",
+    "rank": 4,
+    "score": 4
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q079",
+    "side": "left",
+    "rank": 5,
+    "score": 3
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q079",
+    "side": "right",
+    "rank": 1,
+    "score": 3
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q079",
+    "side": "right",
+    "rank": 2,
+    "score": 1
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q079",
+    "side": "right",
+    "rank": 3,
+    "score": 3
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q079",
+    "side": "right",
+    "rank": 4,
+    "score": 4
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q079",
+    "side": "right",
+    "rank": 5,
+    "score": 3
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q080",
+    "side": "left",
+    "rank": 1,
+    "score": 3
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q080",
+    "side": "left",
+    "rank": 2,
+    "score": 2
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q080",
+    "side": "left",
+    "rank": 3,
+    "score": 2
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q080",
+    "side": "left",
+    "rank": 4,
+    "score": 3
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q080",
+    "side": "left",
+    "rank": 5,
+    "score": 2
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q080",
+    "side": "right",
+    "rank": 1,
+    "score": 0
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q080",
+    "side": "right",
+    "rank": 2,
+    "score": 1
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q080",
+    "side": "right",
+    "rank": 3,
+    "score": 2
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q080",
+    "side": "right",
+    "rank": 4,
+    "score": 1
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q080",
+    "side": "right",
+    "rank": 5,
+    "score": 2
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q086",
+    "side": "left",
+    "rank": 1,
+    "score": 3
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q086",
+    "side": "left",
+    "rank": 2,
+    "score": 2
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q086",
+    "side": "left",
+    "rank": 3,
+    "score": 1
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q086",
+    "side": "left",
+    "rank": 4,
+    "score": 1
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q086",
+    "side": "left",
+    "rank": 5,
+    "score": 1
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q086",
+    "side": "right",
+    "rank": 1,
+    "score": 4
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q086",
+    "side": "right",
+    "rank": 2,
+    "score": 2
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q086",
+    "side": "right",
+    "rank": 3,
+    "score": 2
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q086",
+    "side": "right",
+    "rank": 4,
+    "score": 4
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q086",
+    "side": "right",
+    "rank": 5,
+    "score": 2
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q090",
+    "side": "left",
+    "rank": 1,
+    "score": 2
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q090",
+    "side": "left",
+    "rank": 2,
+    "score": 3
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q090",
+    "side": "left",
+    "rank": 3,
+    "score": 2
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q090",
+    "side": "left",
+    "rank": 4,
+    "score": 2
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q090",
+    "side": "left",
+    "rank": 5,
+    "score": 1
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q090",
+    "side": "right",
+    "rank": 1,
+    "score": 1
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q090",
+    "side": "right",
+    "rank": 2,
+    "score": 0
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q090",
+    "side": "right",
+    "rank": 3,
+    "score": 1
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q090",
+    "side": "right",
+    "rank": 4,
+    "score": 0
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q090",
+    "side": "right",
+    "rank": 5,
+    "score": 3
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q091",
+    "side": "left",
+    "rank": 1,
+    "score": 3
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q091",
+    "side": "left",
+    "rank": 2,
+    "score": 2
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q091",
+    "side": "left",
+    "rank": 3,
+    "score": 2
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q091",
+    "side": "left",
+    "rank": 4,
+    "score": 2
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q091",
+    "side": "left",
+    "rank": 5,
+    "score": 2
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q091",
+    "side": "right",
+    "rank": 1,
+    "score": 1
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q091",
+    "side": "right",
+    "rank": 2,
+    "score": 0
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q091",
+    "side": "right",
+    "rank": 3,
+    "score": 1
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q091",
+    "side": "right",
+    "rank": 4,
+    "score": 3
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q091",
+    "side": "right",
+    "rank": 5,
+    "score": 1
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q093",
+    "side": "left",
+    "rank": 1,
+    "score": 3
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q093",
+    "side": "left",
+    "rank": 2,
+    "score": 3
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q093",
+    "side": "left",
+    "rank": 3,
+    "score": 2
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q093",
+    "side": "left",
+    "rank": 4,
+    "score": 3
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q093",
+    "side": "left",
+    "rank": 5,
+    "score": 2
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q093",
+    "side": "right",
+    "rank": 1,
+    "score": 3
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q093",
+    "side": "right",
+    "rank": 2,
+    "score": 3
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q093",
+    "side": "right",
+    "rank": 3,
+    "score": 1
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q093",
+    "side": "right",
+    "rank": 4,
+    "score": 3
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q093",
+    "side": "right",
+    "rank": 5,
+    "score": 1
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q095",
+    "side": "left",
+    "rank": 1,
+    "score": 1
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q095",
+    "side": "left",
+    "rank": 2,
+    "score": 2
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q095",
+    "side": "left",
+    "rank": 3,
+    "score": 2
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q095",
+    "side": "left",
+    "rank": 4,
+    "score": 2
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q095",
+    "side": "left",
+    "rank": 5,
+    "score": 1
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q095",
+    "side": "right",
+    "rank": 1,
+    "score": 0
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q095",
+    "side": "right",
+    "rank": 2,
+    "score": 0
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q095",
+    "side": "right",
+    "rank": 3,
+    "score": 0
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q095",
+    "side": "right",
+    "rank": 4,
+    "score": 1
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q095",
+    "side": "right",
+    "rank": 5,
+    "score": 0
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q098",
+    "side": "left",
+    "rank": 1,
+    "score": 0
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q098",
+    "side": "left",
+    "rank": 2,
+    "score": 0
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q098",
+    "side": "left",
+    "rank": 3,
+    "score": 0
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q098",
+    "side": "left",
+    "rank": 4,
+    "score": 0
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q098",
+    "side": "left",
+    "rank": 5,
+    "score": 1
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q098",
+    "side": "right",
+    "rank": 1,
+    "score": 0
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q098",
+    "side": "right",
+    "rank": 2,
+    "score": 3
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q098",
+    "side": "right",
+    "rank": 3,
+    "score": 0
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q098",
+    "side": "right",
+    "rank": 4,
+    "score": 0
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q098",
+    "side": "right",
+    "rank": 5,
+    "score": 4
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q106",
+    "side": "left",
+    "rank": 1,
+    "score": 3
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q106",
+    "side": "left",
+    "rank": 2,
+    "score": 1
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q106",
+    "side": "left",
+    "rank": 3,
+    "score": 1
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q106",
+    "side": "left",
+    "rank": 4,
+    "score": 1
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q106",
+    "side": "left",
+    "rank": 5,
+    "score": 4
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q106",
+    "side": "right",
+    "rank": 1,
+    "score": 3
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q106",
+    "side": "right",
+    "rank": 2,
+    "score": 2
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q106",
+    "side": "right",
+    "rank": 3,
+    "score": 2
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q106",
+    "side": "right",
+    "rank": 4,
+    "score": 3
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q106",
+    "side": "right",
+    "rank": 5,
+    "score": 0
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q107",
+    "side": "left",
+    "rank": 1,
+    "score": 2
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q107",
+    "side": "left",
+    "rank": 2,
+    "score": 2
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q107",
+    "side": "left",
+    "rank": 3,
+    "score": 1
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q107",
+    "side": "left",
+    "rank": 4,
+    "score": 3
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q107",
+    "side": "left",
+    "rank": 5,
+    "score": 3
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q107",
+    "side": "right",
+    "rank": 1,
+    "score": 2
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q107",
+    "side": "right",
+    "rank": 2,
+    "score": 2
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q107",
+    "side": "right",
+    "rank": 3,
+    "score": 3
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q107",
+    "side": "right",
+    "rank": 4,
+    "score": 2
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q107",
+    "side": "right",
+    "rank": 5,
+    "score": 3
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q108",
+    "side": "left",
+    "rank": 1,
+    "score": 4
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q108",
+    "side": "left",
+    "rank": 2,
+    "score": 1
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q108",
+    "side": "left",
+    "rank": 3,
+    "score": 3
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q108",
+    "side": "left",
+    "rank": 4,
+    "score": 2
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q108",
+    "side": "left",
+    "rank": 5,
+    "score": 0
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q108",
+    "side": "right",
+    "rank": 1,
+    "score": 0
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q108",
+    "side": "right",
+    "rank": 2,
+    "score": 1
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q108",
+    "side": "right",
+    "rank": 3,
+    "score": 1
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q108",
+    "side": "right",
+    "rank": 4,
+    "score": 0
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q108",
+    "side": "right",
+    "rank": 5,
+    "score": 0
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q111",
+    "side": "left",
+    "rank": 1,
+    "score": 4
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q111",
+    "side": "left",
+    "rank": 2,
+    "score": 1
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q111",
+    "side": "left",
+    "rank": 3,
+    "score": 4
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q111",
+    "side": "left",
+    "rank": 4,
+    "score": 4
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q111",
+    "side": "left",
+    "rank": 5,
+    "score": 4
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q111",
+    "side": "right",
+    "rank": 1,
+    "score": 4
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q111",
+    "side": "right",
+    "rank": 2,
+    "score": 1
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q111",
+    "side": "right",
+    "rank": 3,
+    "score": 4
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q111",
+    "side": "right",
+    "rank": 4,
+    "score": 1
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q111",
+    "side": "right",
+    "rank": 5,
+    "score": 1
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q114",
+    "side": "left",
+    "rank": 1,
+    "score": 0
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q114",
+    "side": "left",
+    "rank": 2,
+    "score": 3
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q114",
+    "side": "left",
+    "rank": 3,
+    "score": 2
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q114",
+    "side": "left",
+    "rank": 4,
+    "score": 1
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q114",
+    "side": "left",
+    "rank": 5,
+    "score": 4
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q114",
+    "side": "right",
+    "rank": 1,
+    "score": 2
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q114",
+    "side": "right",
+    "rank": 2,
+    "score": 4
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q114",
+    "side": "right",
+    "rank": 3,
+    "score": 3
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q114",
+    "side": "right",
+    "rank": 4,
+    "score": 2
+  },
+  {
+    "judge": "neurology_expert",
+    "query_id": "q114",
+    "side": "right",
+    "rank": 5,
+    "score": 4
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q011",
+    "side": "left",
+    "rank": 1,
+    "score": 3
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q011",
+    "side": "left",
+    "rank": 2,
+    "score": 0
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q011",
+    "side": "left",
+    "rank": 3,
+    "score": 1
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q011",
+    "side": "left",
+    "rank": 4,
+    "score": 1
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q011",
+    "side": "left",
+    "rank": 5,
+    "score": 4
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q011",
+    "side": "right",
+    "rank": 1,
+    "score": 1
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q011",
+    "side": "right",
+    "rank": 2,
+    "score": 0
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q011",
+    "side": "right",
+    "rank": 3,
+    "score": 3
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q011",
+    "side": "right",
+    "rank": 4,
+    "score": 2
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q011",
+    "side": "right",
+    "rank": 5,
+    "score": 1
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q012",
+    "side": "left",
+    "rank": 1,
+    "score": 1
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q012",
+    "side": "left",
+    "rank": 2,
+    "score": 2
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q012",
+    "side": "left",
+    "rank": 3,
+    "score": 1
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q012",
+    "side": "left",
+    "rank": 4,
+    "score": 2
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q012",
+    "side": "left",
+    "rank": 5,
+    "score": 2
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q012",
+    "side": "right",
+    "rank": 1,
+    "score": 0
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q012",
+    "side": "right",
+    "rank": 2,
+    "score": 0
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q012",
+    "side": "right",
+    "rank": 3,
+    "score": 0
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q012",
+    "side": "right",
+    "rank": 4,
+    "score": 0
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q012",
+    "side": "right",
+    "rank": 5,
+    "score": 0
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q018",
+    "side": "left",
+    "rank": 1,
+    "score": 2
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q018",
+    "side": "left",
+    "rank": 2,
+    "score": 2
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q018",
+    "side": "left",
+    "rank": 3,
+    "score": 1
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q018",
+    "side": "left",
+    "rank": 4,
+    "score": 2
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q018",
+    "side": "left",
+    "rank": 5,
+    "score": 1
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q018",
+    "side": "right",
+    "rank": 1,
+    "score": 4
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q018",
+    "side": "right",
+    "rank": 2,
+    "score": 4
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q018",
+    "side": "right",
+    "rank": 3,
+    "score": 2
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q018",
+    "side": "right",
+    "rank": 4,
+    "score": 2
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q018",
+    "side": "right",
+    "rank": 5,
+    "score": 2
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q021",
+    "side": "left",
+    "rank": 1,
+    "score": 3
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q021",
+    "side": "left",
+    "rank": 2,
+    "score": 4
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q021",
+    "side": "left",
+    "rank": 3,
+    "score": 2
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q021",
+    "side": "left",
+    "rank": 4,
+    "score": 2
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q021",
+    "side": "left",
+    "rank": 5,
+    "score": 3
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q021",
+    "side": "right",
+    "rank": 1,
+    "score": 2
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q021",
+    "side": "right",
+    "rank": 2,
+    "score": 2
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q021",
+    "side": "right",
+    "rank": 3,
+    "score": 2
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q021",
+    "side": "right",
+    "rank": 4,
+    "score": 2
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q021",
+    "side": "right",
+    "rank": 5,
+    "score": 2
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q022",
+    "side": "left",
+    "rank": 1,
+    "score": 2
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q022",
+    "side": "left",
+    "rank": 2,
+    "score": 2
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q022",
+    "side": "left",
+    "rank": 3,
+    "score": 2
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q022",
+    "side": "left",
+    "rank": 4,
+    "score": 0
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q022",
+    "side": "left",
+    "rank": 5,
+    "score": 1
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q022",
+    "side": "right",
+    "rank": 1,
+    "score": 4
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q022",
+    "side": "right",
+    "rank": 2,
+    "score": 4
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q022",
+    "side": "right",
+    "rank": 3,
+    "score": 4
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q022",
+    "side": "right",
+    "rank": 4,
+    "score": 4
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q022",
+    "side": "right",
+    "rank": 5,
+    "score": 2
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q024",
+    "side": "left",
+    "rank": 1,
+    "score": 0
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q024",
+    "side": "left",
+    "rank": 2,
+    "score": 0
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q024",
+    "side": "left",
+    "rank": 3,
+    "score": 0
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q024",
+    "side": "left",
+    "rank": 4,
+    "score": 0
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q024",
+    "side": "left",
+    "rank": 5,
+    "score": 0
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q024",
+    "side": "right",
+    "rank": 1,
+    "score": 2
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q024",
+    "side": "right",
+    "rank": 2,
+    "score": 2
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q024",
+    "side": "right",
+    "rank": 3,
+    "score": 2
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q024",
+    "side": "right",
+    "rank": 4,
+    "score": 2
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q024",
+    "side": "right",
+    "rank": 5,
+    "score": 2
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q027",
+    "side": "left",
+    "rank": 1,
+    "score": 4
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q027",
+    "side": "left",
+    "rank": 2,
+    "score": 0
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q027",
+    "side": "left",
+    "rank": 3,
+    "score": 0
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q027",
+    "side": "left",
+    "rank": 4,
+    "score": 0
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q027",
+    "side": "left",
+    "rank": 5,
+    "score": 2
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q027",
+    "side": "right",
+    "rank": 1,
+    "score": 0
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q027",
+    "side": "right",
+    "rank": 2,
+    "score": 0
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q027",
+    "side": "right",
+    "rank": 3,
+    "score": 0
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q027",
+    "side": "right",
+    "rank": 4,
+    "score": 0
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q027",
+    "side": "right",
+    "rank": 5,
+    "score": 0
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q034",
+    "side": "left",
+    "rank": 1,
+    "score": 1
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q034",
+    "side": "left",
+    "rank": 2,
+    "score": 1
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q034",
+    "side": "left",
+    "rank": 3,
+    "score": 1
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q034",
+    "side": "left",
+    "rank": 4,
+    "score": 2
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q034",
+    "side": "left",
+    "rank": 5,
+    "score": 0
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q034",
+    "side": "right",
+    "rank": 1,
+    "score": 1
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q034",
+    "side": "right",
+    "rank": 2,
+    "score": 1
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q034",
+    "side": "right",
+    "rank": 3,
+    "score": 1
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q034",
+    "side": "right",
+    "rank": 4,
+    "score": 0
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q034",
+    "side": "right",
+    "rank": 5,
+    "score": 2
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q036",
+    "side": "left",
+    "rank": 1,
+    "score": 2
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q036",
+    "side": "left",
+    "rank": 2,
+    "score": 0
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q036",
+    "side": "left",
+    "rank": 3,
+    "score": 4
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q036",
+    "side": "left",
+    "rank": 4,
+    "score": 1
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q036",
+    "side": "left",
+    "rank": 5,
+    "score": 0
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q036",
+    "side": "right",
+    "rank": 1,
+    "score": 1
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q036",
+    "side": "right",
+    "rank": 2,
+    "score": 1
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q036",
+    "side": "right",
+    "rank": 3,
+    "score": 1
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q036",
+    "side": "right",
+    "rank": 4,
+    "score": 1
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q036",
+    "side": "right",
+    "rank": 5,
+    "score": 2
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q037",
+    "side": "left",
+    "rank": 1,
+    "score": 2
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q037",
+    "side": "left",
+    "rank": 2,
+    "score": 4
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q037",
+    "side": "left",
+    "rank": 3,
+    "score": 4
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q037",
+    "side": "left",
+    "rank": 4,
+    "score": 1
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q037",
+    "side": "left",
+    "rank": 5,
+    "score": 4
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q037",
+    "side": "right",
+    "rank": 1,
+    "score": 2
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q037",
+    "side": "right",
+    "rank": 2,
+    "score": 1
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q037",
+    "side": "right",
+    "rank": 3,
+    "score": 1
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q037",
+    "side": "right",
+    "rank": 4,
+    "score": 1
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q037",
+    "side": "right",
+    "rank": 5,
+    "score": 1
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q040",
+    "side": "left",
+    "rank": 1,
+    "score": 4
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q040",
+    "side": "left",
+    "rank": 2,
+    "score": 2
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q040",
+    "side": "left",
+    "rank": 3,
+    "score": 1
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q040",
+    "side": "left",
+    "rank": 4,
+    "score": 0
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q040",
+    "side": "left",
+    "rank": 5,
+    "score": 2
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q040",
+    "side": "right",
+    "rank": 1,
+    "score": 1
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q040",
+    "side": "right",
+    "rank": 2,
+    "score": 1
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q040",
+    "side": "right",
+    "rank": 3,
+    "score": 1
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q040",
+    "side": "right",
+    "rank": 4,
+    "score": 1
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q040",
+    "side": "right",
+    "rank": 5,
+    "score": 2
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q051",
+    "side": "left",
+    "rank": 1,
+    "score": 0
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q051",
+    "side": "left",
+    "rank": 2,
+    "score": 0
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q051",
+    "side": "left",
+    "rank": 3,
+    "score": 0
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q051",
+    "side": "left",
+    "rank": 4,
+    "score": 0
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q051",
+    "side": "left",
+    "rank": 5,
+    "score": 1
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q051",
+    "side": "right",
+    "rank": 1,
+    "score": 4
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q051",
+    "side": "right",
+    "rank": 2,
+    "score": 0
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q051",
+    "side": "right",
+    "rank": 3,
+    "score": 0
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q051",
+    "side": "right",
+    "rank": 4,
+    "score": 0
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q051",
+    "side": "right",
+    "rank": 5,
+    "score": 1
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q064",
+    "side": "left",
+    "rank": 1,
+    "score": 0
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q064",
+    "side": "left",
+    "rank": 2,
+    "score": 0
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q064",
+    "side": "left",
+    "rank": 3,
+    "score": 0
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q064",
+    "side": "left",
+    "rank": 4,
+    "score": 0
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q064",
+    "side": "left",
+    "rank": 5,
+    "score": 0
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q064",
+    "side": "right",
+    "rank": 1,
+    "score": 1
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q064",
+    "side": "right",
+    "rank": 2,
+    "score": 1
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q064",
+    "side": "right",
+    "rank": 3,
+    "score": 4
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q064",
+    "side": "right",
+    "rank": 4,
+    "score": 2
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q064",
+    "side": "right",
+    "rank": 5,
+    "score": 1
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q068",
+    "side": "left",
+    "rank": 1,
+    "score": 1
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q068",
+    "side": "left",
+    "rank": 2,
+    "score": 2
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q068",
+    "side": "left",
+    "rank": 3,
+    "score": 0
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q068",
+    "side": "left",
+    "rank": 4,
+    "score": 2
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q068",
+    "side": "left",
+    "rank": 5,
+    "score": 1
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q068",
+    "side": "right",
+    "rank": 1,
+    "score": 0
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q068",
+    "side": "right",
+    "rank": 2,
+    "score": 0
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q068",
+    "side": "right",
+    "rank": 3,
+    "score": 1
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q068",
+    "side": "right",
+    "rank": 4,
+    "score": 0
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q068",
+    "side": "right",
+    "rank": 5,
+    "score": 2
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q072",
+    "side": "left",
+    "rank": 1,
+    "score": 0
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q072",
+    "side": "left",
+    "rank": 2,
+    "score": 0
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q072",
+    "side": "left",
+    "rank": 3,
+    "score": 4
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q072",
+    "side": "left",
+    "rank": 4,
+    "score": 0
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q072",
+    "side": "left",
+    "rank": 5,
+    "score": 4
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q072",
+    "side": "right",
+    "rank": 1,
+    "score": 0
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q072",
+    "side": "right",
+    "rank": 2,
+    "score": 0
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q072",
+    "side": "right",
+    "rank": 3,
+    "score": 0
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q072",
+    "side": "right",
+    "rank": 4,
+    "score": 0
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q072",
+    "side": "right",
+    "rank": 5,
+    "score": 0
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q075",
+    "side": "left",
+    "rank": 1,
+    "score": 1
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q075",
+    "side": "left",
+    "rank": 2,
+    "score": 1
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q075",
+    "side": "left",
+    "rank": 3,
+    "score": 2
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q075",
+    "side": "left",
+    "rank": 4,
+    "score": 1
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q075",
+    "side": "left",
+    "rank": 5,
+    "score": 4
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q075",
+    "side": "right",
+    "rank": 1,
+    "score": 0
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q075",
+    "side": "right",
+    "rank": 2,
+    "score": 1
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q075",
+    "side": "right",
+    "rank": 3,
+    "score": 1
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q075",
+    "side": "right",
+    "rank": 4,
+    "score": 1
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q075",
+    "side": "right",
+    "rank": 5,
+    "score": 2
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q076",
+    "side": "left",
+    "rank": 1,
+    "score": 4
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q076",
+    "side": "left",
+    "rank": 2,
+    "score": 0
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q076",
+    "side": "left",
+    "rank": 3,
+    "score": 0
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q076",
+    "side": "left",
+    "rank": 4,
+    "score": 0
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q076",
+    "side": "left",
+    "rank": 5,
+    "score": 0
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q076",
+    "side": "right",
+    "rank": 1,
+    "score": 0
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q076",
+    "side": "right",
+    "rank": 2,
+    "score": 0
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q076",
+    "side": "right",
+    "rank": 3,
+    "score": 0
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q076",
+    "side": "right",
+    "rank": 4,
+    "score": 0
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q076",
+    "side": "right",
+    "rank": 5,
+    "score": 0
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q081",
+    "side": "left",
+    "rank": 1,
+    "score": 0
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q081",
+    "side": "left",
+    "rank": 2,
+    "score": 0
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q081",
+    "side": "left",
+    "rank": 3,
+    "score": 2
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q081",
+    "side": "left",
+    "rank": 4,
+    "score": 1
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q081",
+    "side": "left",
+    "rank": 5,
+    "score": 3
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q081",
+    "side": "right",
+    "rank": 1,
+    "score": 1
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q081",
+    "side": "right",
+    "rank": 2,
+    "score": 3
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q081",
+    "side": "right",
+    "rank": 3,
+    "score": 4
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q081",
+    "side": "right",
+    "rank": 4,
+    "score": 1
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q081",
+    "side": "right",
+    "rank": 5,
+    "score": 3
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q083",
+    "side": "left",
+    "rank": 1,
+    "score": 2
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q083",
+    "side": "left",
+    "rank": 2,
+    "score": 0
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q083",
+    "side": "left",
+    "rank": 3,
+    "score": 1
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q083",
+    "side": "left",
+    "rank": 4,
+    "score": 0
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q083",
+    "side": "left",
+    "rank": 5,
+    "score": 0
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q083",
+    "side": "right",
+    "rank": 1,
+    "score": 3
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q083",
+    "side": "right",
+    "rank": 2,
+    "score": 1
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q083",
+    "side": "right",
+    "rank": 3,
+    "score": 3
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q083",
+    "side": "right",
+    "rank": 4,
+    "score": 2
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q083",
+    "side": "right",
+    "rank": 5,
+    "score": 4
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q084",
+    "side": "left",
+    "rank": 1,
+    "score": 3
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q084",
+    "side": "left",
+    "rank": 2,
+    "score": 3
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q084",
+    "side": "left",
+    "rank": 3,
+    "score": 2
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q084",
+    "side": "left",
+    "rank": 4,
+    "score": 3
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q084",
+    "side": "left",
+    "rank": 5,
+    "score": 1
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q084",
+    "side": "right",
+    "rank": 1,
+    "score": 0
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q084",
+    "side": "right",
+    "rank": 2,
+    "score": 1
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q084",
+    "side": "right",
+    "rank": 3,
+    "score": 0
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q084",
+    "side": "right",
+    "rank": 4,
+    "score": 0
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q084",
+    "side": "right",
+    "rank": 5,
+    "score": 0
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q087",
+    "side": "left",
+    "rank": 1,
+    "score": 1
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q087",
+    "side": "left",
+    "rank": 2,
+    "score": 3
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q087",
+    "side": "left",
+    "rank": 3,
+    "score": 3
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q087",
+    "side": "left",
+    "rank": 4,
+    "score": 3
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q087",
+    "side": "left",
+    "rank": 5,
+    "score": 2
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q087",
+    "side": "right",
+    "rank": 1,
+    "score": 2
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q087",
+    "side": "right",
+    "rank": 2,
+    "score": 3
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q087",
+    "side": "right",
+    "rank": 3,
+    "score": 1
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q087",
+    "side": "right",
+    "rank": 4,
+    "score": 2
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q087",
+    "side": "right",
+    "rank": 5,
+    "score": 3
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q096",
+    "side": "left",
+    "rank": 1,
+    "score": 1
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q096",
+    "side": "left",
+    "rank": 2,
+    "score": 2
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q096",
+    "side": "left",
+    "rank": 3,
+    "score": 1
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q096",
+    "side": "left",
+    "rank": 4,
+    "score": 2
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q096",
+    "side": "left",
+    "rank": 5,
+    "score": 3
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q096",
+    "side": "right",
+    "rank": 1,
+    "score": 3
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q096",
+    "side": "right",
+    "rank": 2,
+    "score": 3
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q096",
+    "side": "right",
+    "rank": 3,
+    "score": 3
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q096",
+    "side": "right",
+    "rank": 4,
+    "score": 2
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q096",
+    "side": "right",
+    "rank": 5,
+    "score": 3
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q097",
+    "side": "left",
+    "rank": 1,
+    "score": 1
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q097",
+    "side": "left",
+    "rank": 2,
+    "score": 1
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q097",
+    "side": "left",
+    "rank": 3,
+    "score": 1
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q097",
+    "side": "left",
+    "rank": 4,
+    "score": 1
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q097",
+    "side": "left",
+    "rank": 5,
+    "score": 1
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q097",
+    "side": "right",
+    "rank": 1,
+    "score": 0
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q097",
+    "side": "right",
+    "rank": 2,
+    "score": 1
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q097",
+    "side": "right",
+    "rank": 3,
+    "score": 1
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q097",
+    "side": "right",
+    "rank": 4,
+    "score": 1
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q097",
+    "side": "right",
+    "rank": 5,
+    "score": 0
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q100",
+    "side": "left",
+    "rank": 1,
+    "score": 2
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q100",
+    "side": "left",
+    "rank": 2,
+    "score": 3
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q100",
+    "side": "left",
+    "rank": 3,
+    "score": 3
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q100",
+    "side": "left",
+    "rank": 4,
+    "score": 3
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q100",
+    "side": "left",
+    "rank": 5,
+    "score": 3
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q100",
+    "side": "right",
+    "rank": 1,
+    "score": 4
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q100",
+    "side": "right",
+    "rank": 2,
+    "score": 4
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q100",
+    "side": "right",
+    "rank": 3,
+    "score": 4
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q100",
+    "side": "right",
+    "rank": 4,
+    "score": 2
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q100",
+    "side": "right",
+    "rank": 5,
+    "score": 2
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q102",
+    "side": "left",
+    "rank": 1,
+    "score": 2
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q102",
+    "side": "left",
+    "rank": 2,
+    "score": 2
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q102",
+    "side": "left",
+    "rank": 3,
+    "score": 1
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q102",
+    "side": "left",
+    "rank": 4,
+    "score": 2
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q102",
+    "side": "left",
+    "rank": 5,
+    "score": 4
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q102",
+    "side": "right",
+    "rank": 1,
+    "score": 0
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q102",
+    "side": "right",
+    "rank": 2,
+    "score": 0
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q102",
+    "side": "right",
+    "rank": 3,
+    "score": 1
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q102",
+    "side": "right",
+    "rank": 4,
+    "score": 2
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q102",
+    "side": "right",
+    "rank": 5,
+    "score": 0
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q103",
+    "side": "left",
+    "rank": 1,
+    "score": 2
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q103",
+    "side": "left",
+    "rank": 2,
+    "score": 2
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q103",
+    "side": "left",
+    "rank": 3,
+    "score": 1
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q103",
+    "side": "left",
+    "rank": 4,
+    "score": 1
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q103",
+    "side": "left",
+    "rank": 5,
+    "score": 2
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q103",
+    "side": "right",
+    "rank": 1,
+    "score": 1
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q103",
+    "side": "right",
+    "rank": 2,
+    "score": 1
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q103",
+    "side": "right",
+    "rank": 3,
+    "score": 1
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q103",
+    "side": "right",
+    "rank": 4,
+    "score": 2
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q103",
+    "side": "right",
+    "rank": 5,
+    "score": 3
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q104",
+    "side": "left",
+    "rank": 1,
+    "score": 1
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q104",
+    "side": "left",
+    "rank": 2,
+    "score": 0
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q104",
+    "side": "left",
+    "rank": 3,
+    "score": 1
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q104",
+    "side": "left",
+    "rank": 4,
+    "score": 2
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q104",
+    "side": "left",
+    "rank": 5,
+    "score": 0
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q104",
+    "side": "right",
+    "rank": 1,
+    "score": 2
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q104",
+    "side": "right",
+    "rank": 2,
+    "score": 0
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q104",
+    "side": "right",
+    "rank": 3,
+    "score": 0
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q104",
+    "side": "right",
+    "rank": 4,
+    "score": 1
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q104",
+    "side": "right",
+    "rank": 5,
+    "score": 0
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q110",
+    "side": "left",
+    "rank": 1,
+    "score": 0
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q110",
+    "side": "left",
+    "rank": 2,
+    "score": 0
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q110",
+    "side": "left",
+    "rank": 3,
+    "score": 0
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q110",
+    "side": "left",
+    "rank": 4,
+    "score": 0
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q110",
+    "side": "left",
+    "rank": 5,
+    "score": 0
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q110",
+    "side": "right",
+    "rank": 1,
+    "score": 3
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q110",
+    "side": "right",
+    "rank": 2,
+    "score": 4
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q110",
+    "side": "right",
+    "rank": 3,
+    "score": 2
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q110",
+    "side": "right",
+    "rank": 4,
+    "score": 2
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q110",
+    "side": "right",
+    "rank": 5,
+    "score": 2
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q112",
+    "side": "left",
+    "rank": 1,
+    "score": 2
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q112",
+    "side": "left",
+    "rank": 2,
+    "score": 0
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q112",
+    "side": "left",
+    "rank": 3,
+    "score": 2
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q112",
+    "side": "left",
+    "rank": 4,
+    "score": 0
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q112",
+    "side": "left",
+    "rank": 5,
+    "score": 4
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q112",
+    "side": "right",
+    "rank": 1,
+    "score": 2
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q112",
+    "side": "right",
+    "rank": 2,
+    "score": 4
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q112",
+    "side": "right",
+    "rank": 3,
+    "score": 0
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q112",
+    "side": "right",
+    "rank": 4,
+    "score": 1
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q112",
+    "side": "right",
+    "rank": 5,
+    "score": 3
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q115",
+    "side": "left",
+    "rank": 1,
+    "score": 4
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q115",
+    "side": "left",
+    "rank": 2,
+    "score": 2
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q115",
+    "side": "left",
+    "rank": 3,
+    "score": 4
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q115",
+    "side": "left",
+    "rank": 4,
+    "score": 2
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q115",
+    "side": "left",
+    "rank": 5,
+    "score": 2
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q115",
+    "side": "right",
+    "rank": 1,
+    "score": 1
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q115",
+    "side": "right",
+    "rank": 2,
+    "score": 0
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q115",
+    "side": "right",
+    "rank": 3,
+    "score": 2
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q115",
+    "side": "right",
+    "rank": 4,
+    "score": 0
+  },
+  {
+    "judge": "rheumatology_expert",
+    "query_id": "q115",
+    "side": "right",
+    "rank": 5,
+    "score": 1
+  }
+]
