@@ -1,6 +1,6 @@
 # Redpine benchmarks
 
-Public benchmarks for Redpine's products, one folder per product.
+Public benchmarks for [Redpine](https://www.redpine.ai/)'s products, one folder per product.
 
 | Folder | Contents |
 | --- | --- |
