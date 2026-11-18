@@ -4,7 +4,7 @@ Open benchmarks for evaluating Redpine Science against general web search and
 purpose-built retrieval engines, across external and Redpine question sets,
 on both full agentic answers and retrieval alone.
 
-Companion to [the preprint](https://arxiv.org/abs/2610.07937) and [the launch post](https://www.redpine.ai/insights/redpine-science-outperforms-web-search-and-public-benchmarks).
+Companion to [the preprint](https://arxiv.org/abs/2610.07937) and [the launch post](https://www.redpine.ai/insights/redpine-science-outperforms-web-search-and-public-benchmarks). The dataset is also published on [HuggingFace](https://huggingface.co/datasets/Redpine-AI/redpine-biomedical-qa).
 
 ## Tracks
 
